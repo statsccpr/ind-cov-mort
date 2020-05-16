@@ -1,0 +1,21 @@
+region,subregion_or_country,type_geo,country_province_or_state,deaths,month,day
+EUROPE,Northern Europe,country,Sweden,17337.316,08,04
+EUROPE,Northern Europe,country,United Kingdom,27100.104,08,04
+EUROPE,Southern Europe,country,Italy,27777.058,08,04
+EUROPE,Southern Europe,country,Spain,25230.915,08,04
+EUROPE,Western Europe,country,Belgium,NA,NA,NA
+EUROPE,Western Europe,country,France,25096.038,08,04
+EUROPE,Western Europe,country,Germany,6921.869,08,04
+EUROPE,Western Europe,country,Netherlands,NA,NA,NA
+EUROPE,Western Europe,country,Switzerland,NA,NA,NA
+NORTHERN AMERICA,NORTHERN AMERICA,country,Canada,4507.856,08,04
+NORTHERN AMERICA,NORTHERN AMERICA,country,United States of America,72433.023,08,04
+NORTHERN AMERICA,United States of America,state_province,California,2103.674,08,04
+NORTHERN AMERICA,United States of America,state_province,Connecticut,3314.929,08,04
+NORTHERN AMERICA,United States of America,state_province,Illinois,2336.966,08,04
+NORTHERN AMERICA,United States of America,state_province,Louisiana,2026.264,08,04
+NORTHERN AMERICA,United States of America,state_province,Massachusetts,5634.185,08,04
+NORTHERN AMERICA,United States of America,state_province,Michigan,3920.259,08,04
+NORTHERN AMERICA,United States of America,state_province,New Jersey,7246.365,08,04
+NORTHERN AMERICA,United States of America,state_province,New York,24314.368,08,04
+NORTHERN AMERICA,United States of America,state_province,Pennsylvania,2399.548,08,04

@@ -1,0 +1,25 @@
+region,subregion_or_country,type_geo,country_province_or_state,month,day,deaths
+ASIA,Eastern Asia,state_province,Hubei Province (China),04,30,4512
+NORTHERN AMERICA,United States of America,state_province,California,04,30,1946
+NORTHERN AMERICA,United States of America,state_province,Connecticut,04,30,2169
+NORTHERN AMERICA,United States of America,state_province,Illinois,04,30,2215
+NORTHERN AMERICA,United States of America,state_province,Louisiana,04,30,1845
+NORTHERN AMERICA,United States of America,state_province,Massachusetts,04,30,3405
+NORTHERN AMERICA,United States of America,state_province,Michigan,04,30,3670
+NORTHERN AMERICA,United States of America,state_province,New Jersey,04,30,6771
+NORTHERN AMERICA,United States of America,state_province,New York,04,30,23477
+NORTHERN AMERICA,United States of America,state_province,Pennsylvania,04,30,2373
+ASIA,Southern Asia,country,Iran (Islamic Republic of),04,30,5957
+ASIA,Western Asia,country,Turkey,04,30,3081
+EUROPE,Northern Europe,country,Sweden,04,30,2462
+EUROPE,Northern Europe,country,United Kingdom,04,30,26166
+EUROPE,Southern Europe,country,Italy,04,30,27682
+EUROPE,Southern Europe,country,Spain,04,30,24275
+EUROPE,Western Europe,country,Belgium,04,30,7501
+EUROPE,Western Europe,country,France,04,30,24121
+EUROPE,Western Europe,country,Germany,04,30,6467
+EUROPE,Western Europe,country,Netherlands,04,30,4727
+EUROPE,Western Europe,country,Switzerland,04,30,1716
+LATIN AMERICA & THE CARIBBEAN,South America,country,Brazil,04,30,5513
+NORTHERN AMERICA,NA,country,Canada,04,30,3155
+NORTHERN AMERICA,NA,country,United States of America,04,30,60967
