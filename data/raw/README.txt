@@ -1,8 +1,8 @@
 Raw data from
 
-jhu
-ihme
-cdc
+https://coronavirus.jhu.edu/data
+https://covid19.healthdata.org/
+https://data.cdc.gov/browse?q=covid&sortBy=relevance
 
 daily raw sorted into
 /jhu/
