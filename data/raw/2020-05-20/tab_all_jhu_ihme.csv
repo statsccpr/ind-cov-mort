@@ -1,0 +1,384 @@
+geo_type,location,deaths_jhu,deaths_ihme,month_jhu,day_jhu,month_ihme,day_ihme,uid,iso2,iso3,code3,pop_jhu
+province_state,Hubei,4512,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,California,3403,6841.939,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Connecticut,3472,4859.513,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Illinois,4379,8780.967,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Louisiana,2581,3140.723,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Massachusetts,5938,8949.261,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Michigan,5017,6042.969,05,20,08,24,NA,NA,NA,NA,NA
+province_state,New Jersey,10587,14070.14,05,20,08,24,NA,NA,NA,NA,NA
+province_state,New York,28558,32135.476,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Pennsylvania,4628,9622.751,05,20,08,24,NA,NA,NA,NA,NA
+country,Iran,7119,NA,05,20,NA,NA,364,IR,IRN,364,83992953
+country,Turkey,4199,5263.391,05,20,08,24,792,TR,TUR,792,84339067
+country,Sweden,3743,5759.774,05,20,08,24,752,SE,SWE,752,10099270
+country,United Kingdom,35422,43479.249,05,20,08,24,826,GB,GBR,826,67886004
+country,Italy,32169,35137.386,05,20,08,24,380,IT,ITA,380,60461828
+country,Spain,27778,29580.554,05,20,08,24,724,ES,ESP,724,46754783
+country,Belgium,9108,10593.9,05,20,08,24,56,BE,BEL,56,11589616
+country,France,28025,31154.649,05,20,08,24,250,FR,FRA,250,65273512
+country,Germany,8081,9905.032,05,20,08,24,276,DE,DEU,276,83783945
+country,Netherlands,5734,6982.182,05,20,08,24,528,NL,NLD,528,17134873
+country,Switzerland,1891,1935.327,05,20,08,24,756,CH,CHE,756,8654618
+country,Brazil,17983,88304.925,05,20,08,24,76,BR,BRA,76,212559409
+country,Canada,6028,9944.542,05,20,08,24,124,CA,CAN,124,37855702
+country,United States of America,91921,143357.04,05,20,08,24,840,US,USA,840,329466283
+country,Afghanistan,178,NA,05,20,NA,NA,4,AF,AFG,4,38928341
+country,Albania,31,NA,05,20,NA,NA,8,AL,ALB,8,2877800
+country,Algeria,561,NA,05,20,NA,NA,12,DZ,DZA,12,43851043
+country,Andorra,51,NA,05,20,NA,NA,20,AD,AND,20,77265
+country,Angola,3,NA,05,20,NA,NA,24,AO,AGO,24,32866268
+country,Antigua and Barbuda,3,NA,05,20,NA,NA,28,AG,ATG,28,97928
+country,Argentina,393,680.202,05,20,08,24,32,AR,ARG,32,45195777
+country,Armenia,64,NA,05,20,NA,NA,51,AM,ARM,51,2963234
+country,Australia,100,NA,05,20,NA,NA,36,AU,AUS,36,25459700
+country,Austria,632,645.75,05,20,08,24,40,AT,AUT,40,9006400
+country,Azerbaijan,41,NA,05,20,NA,NA,31,AZ,AZE,31,10139175
+country,Bahamas,11,NA,05,20,NA,NA,44,BS,BHS,44,393248
+country,Bahrain,12,NA,05,20,NA,NA,48,BH,BHR,48,1701583
+country,Bangladesh,370,NA,05,20,NA,NA,50,BD,BGD,50,164689383
+country,Barbados,7,NA,05,20,NA,NA,52,BB,BRB,52,287371
+country,Belarus,175,NA,05,20,NA,NA,112,BY,BLR,112,9449321
+country,Belize,2,NA,05,20,NA,NA,84,BZ,BLZ,84,397621
+country,Benin,2,NA,05,20,NA,NA,204,BJ,BEN,204,12123198
+country,Bhutan,0,NA,05,20,NA,NA,64,BT,BTN,64,771612
+country,Bolivia,189,NA,05,20,NA,NA,68,BO,BOL,68,11673029
+country,Bosnia and Herzegovina,134,NA,05,20,NA,NA,70,BA,BIH,70,3280815
+country,Botswana,1,NA,05,20,NA,NA,72,BW,BWA,72,2351625
+country,Brunei,1,NA,05,20,NA,NA,96,BN,BRN,96,437483
+country,Bulgaria,112,197.089,05,20,08,24,100,BG,BGR,100,6948445
+country,Burkina Faso,51,NA,05,20,NA,NA,854,BF,BFA,854,20903278
+country,Burma,6,NA,05,20,NA,NA,104,MM,MMR,104,54409794
+country,Burundi,1,NA,05,20,NA,NA,108,BI,BDI,108,11890781
+country,Cabo Verde,3,NA,05,20,NA,NA,132,CV,CPV,132,555988
+country,Cambodia,0,NA,05,20,NA,NA,116,KH,KHM,116,16718971
+country,Cameroon,140,NA,05,20,NA,NA,120,CM,CMR,120,26545864
+country,Central African Republic,0,NA,05,20,NA,NA,140,CF,CAF,140,4829764
+country,Chad,56,NA,05,20,NA,NA,148,TD,TCD,148,16425859
+country,Chile,509,686.708,05,20,08,24,152,CL,CHL,152,19116209
+country,China,4638,NA,05,20,NA,NA,156,CN,CHN,156,1404676330
+country,Colombia,613,2157.254,05,20,08,24,170,CO,COL,170,50882884
+country,Comoros,1,NA,05,20,NA,NA,174,KM,COM,174,869595
+country,Congo (Brazzaville),15,NA,05,20,NA,NA,178,CG,COG,178,5518092
+country,Congo (Kinshasa),61,NA,05,20,NA,NA,180,CD,COD,180,89561404
+country,Costa Rica,10,NA,05,20,NA,NA,188,CR,CRI,188,5094114
+country,Cote d'Ivoire,28,NA,05,20,NA,NA,384,CI,CIV,384,26378275
+country,Croatia,96,130.537,05,20,08,24,191,HR,HRV,191,4105268
+country,Cuba,79,NA,05,20,NA,NA,192,CU,CUB,192,11326616
+country,Cyprus,17,10,05,20,08,24,196,CY,CYP,196,1207361
+country,Czechia,302,396.773,05,20,08,24,203,CZ,CZE,203,10708982
+country,Denmark,551,727.634,05,20,08,24,208,DK,DNK,208,5792203
+country,Diamond Princess,13,NA,05,20,NA,NA,9999,NA,NA,NA,NA
+country,Djibouti,7,NA,05,20,NA,NA,262,DJ,DJI,262,988002
+country,Dominica,0,NA,05,20,NA,NA,212,DM,DMA,212,71991
+country,Dominican Republic,441,881.064,05,20,08,24,214,DO,DOM,214,10847904
+country,Ecuador,2839,5215.222,05,20,08,24,218,EC,ECU,218,17643060
+country,Egypt,659,2047.312,05,20,08,24,818,EG,EGY,818,102334403
+country,El Salvador,30,NA,05,20,NA,NA,222,SV,SLV,222,6486201
+country,Equatorial Guinea,7,NA,05,20,NA,NA,226,GQ,GNQ,226,1402985
+country,Eritrea,0,NA,05,20,NA,NA,232,ER,ERI,232,3546427
+country,Estonia,64,64.474,05,20,08,24,233,EE,EST,233,1326539
+country,Eswatini,2,NA,05,20,NA,NA,748,SZ,SWZ,748,1160164
+country,Ethiopia,5,NA,05,20,NA,NA,231,ET,ETH,231,114963583
+country,Fiji,0,NA,05,20,NA,NA,242,FJ,FJI,242,896444
+country,Finland,301,409.663,05,20,08,24,246,FI,FIN,246,5540718
+country,Gabon,12,NA,05,20,NA,NA,266,GA,GAB,266,2225728
+country,Gambia,1,NA,05,20,NA,NA,270,GM,GMB,270,2416664
+country,Georgia,12,2381.029,05,20,08,24,268,GE,GEO,268,3989175
+country,Ghana,31,NA,05,20,NA,NA,288,GH,GHA,288,31072945
+country,Greece,165,164.288,05,20,08,24,300,GR,GRC,300,10423056
+country,Grenada,0,NA,05,20,NA,NA,308,GD,GRD,308,112519
+country,Guatemala,43,NA,05,20,NA,NA,320,GT,GTM,320,17915567
+country,Guinea,18,NA,05,20,NA,NA,324,GN,GIN,324,13132792
+country,Guinea-Bissau,6,NA,05,20,NA,NA,624,GW,GNB,624,1967998
+country,Guyana,10,NA,05,20,NA,NA,328,GY,GUY,328,786559
+country,Haiti,21,NA,05,20,NA,NA,332,HT,HTI,332,11402533
+country,Holy See,0,NA,05,20,NA,NA,336,VA,VAT,336,809
+country,Honduras,147,NA,05,20,NA,NA,340,HN,HND,340,9904608
+country,Hungary,467,716.727,05,20,08,24,348,HU,HUN,348,9660350
+country,Iceland,10,33.315,05,20,08,24,352,IS,ISL,352,341250
+country,India,3302,NA,05,20,NA,NA,356,IN,IND,356,1380004385
+country,Indonesia,1221,NA,05,20,NA,NA,360,ID,IDN,360,273523621
+country,Iraq,131,NA,05,20,NA,NA,368,IQ,IRQ,368,40222503
+country,Ireland,1561,1736.29,05,20,08,24,372,IE,IRL,372,4937796
+country,Israel,278,271.773,05,20,08,24,376,IL,ISR,376,8655541
+country,Jamaica,9,NA,05,20,NA,NA,388,JM,JAM,388,2961161
+country,Japan,768,NA,05,20,NA,NA,392,JP,JPN,392,126476458
+country,Jordan,9,NA,05,20,NA,NA,400,JO,JOR,400,10203140
+country,Kazakhstan,35,NA,05,20,NA,NA,398,KZ,KAZ,398,18776707
+country,Kenya,50,NA,05,20,NA,NA,404,KE,KEN,404,53771300
+country,"Korea, South",263,NA,05,20,NA,NA,410,KR,KOR,410,51269183
+country,Kosovo,29,NA,05,20,NA,NA,383,XK,XKS,383,1810366
+country,Kuwait,121,NA,05,20,NA,NA,414,KW,KWT,414,4270563
+country,Kyrgyzstan,14,NA,05,20,NA,NA,417,KG,KGZ,417,6524191
+country,Laos,0,NA,05,20,NA,NA,418,LA,LAO,418,7275556
+country,Latvia,21,15.956,05,20,08,24,428,LV,LVA,428,1886202
+country,Lebanon,26,NA,05,20,NA,NA,422,LB,LBN,422,6825442
+country,Lesotho,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+country,Liberia,23,NA,05,20,NA,NA,430,LR,LBR,430,5057677
+country,Libya,3,NA,05,20,NA,NA,434,LY,LBY,434,6871287
+country,Liechtenstein,1,NA,05,20,NA,NA,438,LI,LIE,438,38137
+country,Lithuania,60,54.414,05,20,08,24,440,LT,LTU,440,2722291
+country,Luxembourg,109,114.437,05,20,08,24,442,LU,LUX,442,625976
+country,Madagascar,2,NA,05,20,NA,NA,450,MG,MDG,450,27691019
+country,Malawi,3,NA,05,20,NA,NA,454,MW,MWI,454,19129955
+country,Malaysia,114,112.053,05,20,08,24,458,MY,MYS,458,32365998
+country,Maldives,4,NA,05,20,NA,NA,462,MV,MDV,462,540542
+country,Mali,53,NA,05,20,NA,NA,466,ML,MLI,466,20250834
+country,Malta,6,NA,05,20,NA,NA,470,MT,MLT,470,441539
+country,Mauritania,4,NA,05,20,NA,NA,478,MR,MRT,478,4649660
+country,Mauritius,10,NA,05,20,NA,NA,480,MU,MUS,480,1271767
+country,Mexico,5666,544.175,05,20,08,24,484,MX,MEX,484,128932753
+country,Moldova,221,NA,05,20,NA,NA,498,MD,MDA,498,4033963
+country,Monaco,4,NA,05,20,NA,NA,492,MC,MCO,492,39244
+country,Mongolia,0,NA,05,20,NA,NA,496,MN,MNG,496,3278292
+country,Montenegro,9,NA,05,20,NA,NA,499,ME,MNE,499,628062
+country,Morocco,193,NA,05,20,NA,NA,504,MA,MAR,504,36910558
+country,Mozambique,0,NA,05,20,NA,NA,508,MZ,MOZ,508,31255435
+country,MS Zaandam,2,NA,05,20,NA,NA,8888,NA,NA,NA,NA
+country,Namibia,0,NA,05,20,NA,NA,516,NA,NAM,516,2540916
+country,Nepal,2,NA,05,20,NA,NA,524,NP,NPL,524,29136808
+country,New Zealand,21,NA,05,20,NA,NA,554,NZ,NZL,554,4822233
+country,Nicaragua,17,NA,05,20,NA,NA,558,NI,NIC,558,6624554
+country,Niger,55,NA,05,20,NA,NA,562,NE,NER,562,24206636
+country,Nigeria,192,NA,05,20,NA,NA,566,NG,NGA,566,206139587
+country,North Macedonia,106,NA,05,20,NA,NA,807,MK,MKD,807,2083380
+country,Norway,233,224.911,05,20,08,24,578,NO,NOR,578,5421242
+country,Oman,27,NA,05,20,NA,NA,512,OM,OMN,512,5106622
+country,Pakistan,939,NA,05,20,NA,NA,586,PK,PAK,586,220892331
+country,Panama,281,661.421,05,20,08,24,591,PA,PAN,591,4314768
+country,Papua New Guinea,0,NA,05,20,NA,NA,598,PG,PNG,598,8947027
+country,Paraguay,11,NA,05,20,NA,NA,600,PY,PRY,600,7132530
+country,Peru,2914,6427.578,05,20,08,24,604,PE,PER,604,32971846
+country,Philippines,837,1734.798,05,20,08,24,608,PH,PHL,608,109581085
+country,Poland,948,1989.881,05,20,08,24,616,PL,POL,616,37846605
+country,Portugal,1247,1666.273,05,20,08,24,620,PT,PRT,620,10196707
+country,Qatar,15,NA,05,20,NA,NA,634,QA,QAT,634,2881060
+country,Romania,1137,5315.121,05,20,08,24,642,RO,ROU,642,19237682
+country,Russia,2837,NA,05,20,NA,NA,643,RU,RUS,643,145934460
+country,Rwanda,0,NA,05,20,NA,NA,646,RW,RWA,646,12952209
+country,Saint Kitts and Nevis,0,NA,05,20,NA,NA,659,KN,KNA,659,53192
+country,Saint Lucia,0,NA,05,20,NA,NA,662,LC,LCA,662,183629
+country,Saint Vincent and the Grenadines,0,NA,05,20,NA,NA,670,VC,VCT,670,110947
+country,San Marino,41,NA,05,20,NA,NA,674,SM,SMR,674,33938
+country,Sao Tome and Principe,8,NA,05,20,NA,NA,678,ST,STP,678,219161
+country,Saudi Arabia,329,NA,05,20,NA,NA,682,SA,SAU,682,34813867
+country,Senegal,30,NA,05,20,NA,NA,686,SN,SEN,686,16743930
+country,Serbia,234,NA,05,20,NA,NA,688,RS,SRB,688,8737370
+country,Seychelles,0,NA,05,20,NA,NA,690,SC,SYC,690,98340
+country,Sierra Leone,33,NA,05,20,NA,NA,694,SL,SLE,694,7976985
+country,Singapore,22,NA,05,20,NA,NA,702,SG,SGP,702,5850343
+country,Slovakia,28,24.12,05,20,08,24,703,SK,SVK,703,5459643
+country,Slovenia,104,119.477,05,20,08,24,705,SI,SVN,705,2078932
+country,Somalia,59,NA,05,20,NA,NA,706,SO,SOM,706,15893219
+country,South Africa,312,NA,05,20,NA,NA,710,ZA,ZAF,710,59308690
+country,South Sudan,4,NA,05,20,NA,NA,728,SS,SSD,728,11193729
+country,Sri Lanka,9,NA,05,20,NA,NA,144,LK,LKA,144,21413250
+country,Sudan,111,NA,05,20,NA,NA,729,SD,SDN,729,43849269
+country,Suriname,1,NA,05,20,NA,NA,740,SR,SUR,740,586634
+country,Syria,3,NA,05,20,NA,NA,760,SY,SYR,760,17500657
+country,Taiwan*,7,NA,05,20,NA,NA,158,TW,TWN,158,23816775
+country,Tajikistan,41,NA,05,20,NA,NA,762,TJ,TJK,762,9537642
+country,Tanzania,21,NA,05,20,NA,NA,834,TZ,TZA,834,59734213
+country,Thailand,56,NA,05,20,NA,NA,764,TH,THA,764,69799978
+country,Timor-Leste,0,NA,05,20,NA,NA,626,TL,TLS,626,1318442
+country,Togo,12,NA,05,20,NA,NA,768,TG,TGO,768,8278737
+country,Trinidad and Tobago,8,NA,05,20,NA,NA,780,TT,TTO,780,1399491
+country,Tunisia,47,NA,05,20,NA,NA,788,TN,TUN,788,11818618
+country,Uganda,0,NA,05,20,NA,NA,800,UG,UGA,800,45741000
+country,Ukraine,548,1269.407,05,20,08,24,804,UA,UKR,804,43733759
+country,United Arab Emirates,227,NA,05,20,NA,NA,784,AE,ARE,784,9890400
+country,Uruguay,20,NA,05,20,NA,NA,858,UY,URY,858,3473727
+country,Uzbekistan,13,NA,05,20,NA,NA,860,UZ,UZB,860,33469199
+country,Venezuela,10,NA,05,20,NA,NA,862,VE,VEN,862,28435943
+country,Vietnam,0,NA,05,20,NA,NA,704,VN,VNM,704,97338583
+country,West Bank and Gaza,2,NA,05,20,NA,NA,275,PS,PSE,275,5101416
+country,Western Sahara,0,NA,05,20,NA,NA,732,EH,ESH,732,597330
+country,Yemen,28,NA,05,20,NA,NA,887,YE,YEM,887,29825968
+country,Zambia,7,NA,05,20,NA,NA,894,ZM,ZMB,894,18383956
+country,Zimbabwe,4,NA,05,20,NA,NA,716,ZW,ZWE,716,14862927
+province_state,Abruzzo,389,435.363,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Alabama,504,1208.152,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Alaska,10,3,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Alberta,128,224.714,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Andalusia,1358,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Anguilla,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Anhui,6,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Aragon,843,945.462,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Arizona,705,6174.032,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Arkansas,102,115.164,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Aruba,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Asturias,303,318.848,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Australian Capital Territory,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Baden-Wurttemberg,1673,1888.581,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Baleares,219,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Basilicata,27,24,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Bayern,2331,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Beijing,9,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Berlin,186,183.584,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Bermuda,9,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,"Bonaire, Sint Eustatius and Saba",0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Brandenburg,166,170.04,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Bremen,38,25,05,20,08,24,NA,NA,NA,NA,NA
+province_state,British Columbia,146,224.004,05,20,08,24,NA,NA,NA,NA,NA
+province_state,British Virgin Islands,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,C. Valenciana,1370,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Calabria,95,86,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Campania,399,462.182,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Canarias,155,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Cantabria,208,210.529,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Castilla - La Mancha,2900,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Castilla y Leon,1960,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Catalonia,5981,6352.224,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Cayman Islands,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Ceuta,4,0,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Channel Islands,44,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Chongqing,6,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Colorado,1257,2281.329,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Curacao,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Delaware,304,540.371,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Diamond Princess,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,District of Columbia,400,577.381,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Emilia-Romagna,3997,4318.75,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Extremadura,504,507.584,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Falkland Islands (Malvinas),0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Faroe Islands,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Florida,2052,4720.802,05,20,08,24,NA,NA,NA,NA,NA
+province_state,French Guiana,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,French Polynesia,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Friuli Venezia Giulia,320,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Fujian,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Galicia,607,672.87,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Gansu,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Georgia,1675,2381.029,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Gibraltar,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Grand Princess,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Greenland,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Guadeloupe,13,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Guam,5,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Guangdong,8,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Guangxi,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Guizhou,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Hainan,6,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Hamburg,234,507.542,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Hawaii,17,19,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Hebei,6,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Heilongjiang,13,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Henan,22,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Hessen,442,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Hong Kong,4,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Hunan,4,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Idaho,74,81.035,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Indiana,1824,2396.833,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Inner Mongolia,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Iowa,367,1042.658,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Isle of Man,24,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Jiangsu,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Jiangxi,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Jilin,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Kansas,199,326.794,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Kentucky,366,507.608,05,20,08,24,NA,NA,NA,NA,NA
+province_state,La Rioja,352,345.365,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Lazio,640,702.954,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Liaoning,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Liguria,1376,1431.444,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Lombardia,15597,17675.328,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Macau,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Madrid,8894,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Maine,73,79.525,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Manitoba,7,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Marche,986,1040.946,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Martinique,14,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Maryland,2081,4362.876,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Mayotte,18,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Mecklenburg-Vorpommern,20,18,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Melilla,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Minnesota,757,1813.514,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Mississippi,554,986.376,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Missouri,631,1506.082,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Molise,22,12,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Montana,16,12,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Montserrat,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Murcia,145,146.074,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Navarra,503,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Nebraska,123,242.73,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Nevada,358,609.645,05,20,08,24,NA,NA,NA,NA,NA
+province_state,New Brunswick,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,New Caledonia,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,New Hampshire,172,315.354,05,20,08,24,NA,NA,NA,NA,NA
+province_state,New Mexico,276,519.549,05,20,08,24,NA,NA,NA,NA,NA
+province_state,New South Wales,47,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Newfoundland and Labrador,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Niedersachsen,557,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Ningxia,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Nordrhein-Westfalen,1525,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,North Carolina,693,2524.156,05,20,08,24,NA,NA,NA,NA,NA
+province_state,North Dakota,45,131.889,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Northern Mariana Islands,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Northern Territory,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Northwest Territories,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Nova Scotia,56,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Ohio,1720,2962.997,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Oklahoma,293,367.788,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Ontario,2032,3849.9,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Oregon,140,231.33,05,20,08,24,NA,NA,NA,NA,NA
+province_state,P.A. Bolzano,291,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,P.A. Trento,455,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Pais Vasco,1470,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Piemonte,3679,3753.538,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Prince Edward Island,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Puerto Rico,124,207.774,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Puglia,473,488.342,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Qinghai,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Quebec,3648,5645.924,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Queensland,6,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Recovered,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Reunion,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Rheinland-Pfalz,222,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Rhode Island,532,775.659,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Saarland,160,152.85,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Sachsen,198,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Sachsen-Anhalt,54,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Saint Barthelemy,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Saint Pierre and Miquelon,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Sardegna,126,120,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Saskatchewan,7,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Schleswig-Holstein,128,160.139,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Shaanxi,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Shandong,7,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Shanghai,7,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Shanxi,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Sichuan,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Sicilia,268,295.536,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Sint Maarten,15,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,South Australia,4,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,South Carolina,399,484.889,05,20,08,24,NA,NA,NA,NA,NA
+province_state,South Dakota,46,125.976,05,20,08,24,NA,NA,NA,NA,NA
+province_state,St Martin,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Tasmania,13,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Tennessee,305,489.292,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Texas,1388,3710.318,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Thuringen,147,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Tianjin,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Tibet,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Toscana,992,1097.796,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Turks and Caicos Islands,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Umbria,74,77,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Unknown,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Utah,88,150.242,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Valle d'Aosta,143,136,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Veneto,1820,1879.453,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Vermont,54,49,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Victoria,18,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Virgin Islands,6,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Virginia,1042,1979.532,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Washington,1031,1262.362,05,20,08,24,NA,NA,NA,NA,NA
+province_state,West Virginia,68,106.717,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Western Australia,9,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Wisconsin,467,734.315,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Wyoming,10,4,05,20,08,24,NA,NA,NA,NA,NA
+province_state,Xinjiang,3,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Yukon,0,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Yunnan,2,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,Zhejiang,1,NA,05,20,NA,NA,NA,NA,NA,NA,NA
+province_state,NA,152421,NA,05,20,NA,NA,NA,NA,NA,NA,NA
