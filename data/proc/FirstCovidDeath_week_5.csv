@@ -1,0 +1,284 @@
+﻿LocID,Location,month_fcd,day_fcd
+Ch12,Anhui,2,11
+Ch01,Beijing,2,11
+Ch22,Chongqing,2,11
+Ch13,Fujian,2,19
+Ch28,Gansu,2,11
+Ch19,Guangdong,2,11
+Ch20,Guangxi,2,11
+Ch24,Guizhou,2,11
+Ch21,Hainan,2,11
+Ch03,Hebei,1,24
+Ch08,Heilongjiang,1,24
+Ch16,Henan,2,11
+Ch17,Hubei,1,11
+Ch18,Hunan,2,11
+Ch05,Inner Mongolia,3,3
+Ch10,Jiangsu,NA,NA
+Ch14,Jiangxi,2,11
+Ch07,Jilin,2,11
+Ch06,Liaoning,2,13
+Ch30,Ningxia,NA,NA
+Ch29,Qinghai,NA,NA
+Ch27,Shaanxi,2,19
+Ch15,Shandong,2,11
+Ch09,Shanghai,2,11
+Ch04,Shanxi,NA,NA
+Ch23,Sichuan,2,11
+Ch02,Tianjin,2,11
+Ch31,Xinjiang,2,13
+Ch26,Tibet (Xizang),NA,NA
+Ch25,Yunan,2,19
+Ch11,Zhejiang,2,20
+0400000US01,Alabama,3,26
+0400000US02,Alaska,4,4
+0400000US04,Arizona,3,22
+0400000US05,Arkansas,3,25
+0400000US06,California,3,11
+0400000US08,Colorado,3,18
+0400000US09,Connecticut,3,20
+0400000US10,Delaware,3,27
+0400000US11,District of Columbia,3,27
+0400000US12,Florida,3,14
+0400000US13,Georgia,3,17
+0400000US15,Hawaii,4,2
+0400000US16,Idaho,3,27
+0400000US17,Illinois,3,18
+0400000US18,Indiana,3,18
+0400000US19,Iowa,3,26
+0400000US20,Kansas,3,26
+0400000US21,Kentucky,3,21
+0400000US22,Louisiana,3,15
+0400000US23,Maine,3,28
+0400000US24,Maryland,3,21
+0400000US25,Massachusetts,3,21
+0400000US26,Michigan,3,19
+0400000US27,Minnesota,3,26
+0400000US28,Mississippi,3,24
+0400000US29,Missouri,3,20
+0400000US30,Montana,3,29
+0400000US31,Nebraska,3,29
+0400000US32,Nevada,3,22
+0400000US33,New Hampshire,4,2
+0400000US34,New Jersey,3,16
+0400000US35,New Mexico,3,30
+0400000US36,New York,3,14
+0400000US37,North Carolina,3,26
+0400000US38,North Dakota,3,31
+0400000US39,Ohio,3,21
+0400000US40,Oklahoma,3,23
+0400000US41,Oregon,3,18
+0400000US42,Pennsylvania,3,20
+0400000US44,Rhode Island,3,29
+0400000US45,South Carolina,3,21
+0400000US46,South Dakota,4,6
+0400000US47,Tennessee,3,23
+0400000US48,Texas,3,18
+0400000US49,Utah,3,29
+0400000US50,Vermont,3,21
+0400000US51,Virginia,3,21
+0400000US53,Washington,2,26
+0400000US54,West Virginia,4,6
+0400000US55,Wisconsin,3,20
+0400000US56,Wyoming,4,21
+4,Afghanistan,3,22
+8,Albania,3,13
+12,Algeria,3,11
+24,Angola,3,31
+28,Antigua and Barbuda,4,8
+31,Azerbaijan,3,18
+32,Argentina,3,7
+36,Australia,3,1
+40,Austria,3,12
+44,Bahamas,4,2
+48,Bahrain,3,15
+50,Bangladesh,3,19
+51,Armenia,3,26
+52,Barbados,4,6
+56,Belgium,3,15
+64,Bhutan,NA,NA
+68,Bolivia (Plurinational State of),3,30
+70,Bosnia and Herzegovina,3,21
+72,Botswana,4,1
+76,Brazil,3,18
+84,Belize,4,6
+90,Solomon Islands,NA,NA
+96,Brunei Darussalam,3,27
+100,Bulgaria,3,10
+104,Myanmar,3,31
+108,Burundi,4,19
+112,Belarus,4,1
+116,Cambodia,NA,NA
+120,Cameroon,3,24
+124,Canada,3,10
+132,Cabo Verde,3,27
+140,Central African Republic,NA,NA
+144,Sri Lanka,3,29
+148,Chad,4,28
+152,Chile,3,21
+156,China,1,11
+158,"China, Taiwan Province of China",2,16
+170,Colombia,3,22
+174,Comoros,5,3
+175,Mayotte,4,1
+178,Congo,4,1
+180,Democratic Republic of the Congo,3,21
+188,Costa Rica,3,19
+191,Croatia,3,24
+192,Cuba,3,18
+196,Cyprus,3,18
+203,Czechia,3,22
+204,Benin,4,6
+208,Denmark,3,15
+214,Dominican Republic,3,16
+218,Ecuador,3,15
+222,El Salvador,4,1
+226,Equatorial Guinea,4,21
+231,Ethiopia,4,5
+232,Eritrea,NA,NA
+233,Estonia,3,25
+242,Fiji,NA,NA
+246,Finland,3,21
+250,France,2,15
+254,French Guiana,4,20
+258,French Polynesia,NA,NA
+262,Djibouti,4,9
+266,Gabon,3,20
+268,Georgia,4,4
+270,Gambia,3,27
+275,State of Palestine,3,25
+276,Germany,3,9
+288,Ghana,3,23
+296,Kiribati,NA,NA
+300,Greece,3,11
+308,Grenada,NA,NA
+312,Guadeloupe,3,27
+316,Guam,3,22
+320,Guatemala,3,15
+324,Guinea,4,15
+328,Guyana,3,12
+332,Haiti,4,6
+340,Honduras,3,26
+344,"China, Hong Kong SAR",2,11
+348,Hungary,3,15
+352,Iceland,3,20
+356,India,3,12
+360,Indonesia,3,10
+364,Iran (Islamic Republic of),2,19
+368,Iraq,3,4
+372,Ireland,3,11
+376,Israel,3,20
+380,Italy,2,22
+384,C√¥te d'Ivoire,4,2
+388,Jamaica,3,19
+392,Japan,2,13
+398,Kazakhstan,3,27
+400,Jordan,3,27
+404,Kenya,3,26
+408,Dem. People's Republic of Korea,NA,NA
+410,Republic of Korea,2,19
+414,Kuwait,4,3
+417,Kyrgyzstan,4,2
+418,Lao People's Democratic Republic,NA,NA
+422,Lebanon,3,10
+426,Lesotho,,
+428,Latvia,4,3
+430,Liberia,4,4
+434,Libya,4,2
+440,Lithuania,3,20
+442,Luxembourg,3,13
+446,"China, Macao SAR",NA,NA
+450,Madagascar,5,17
+454,Malawi,4,7
+458,Malaysia,3,18
+462,Maldives,5,1
+466,Mali,4,2
+470,Malta,4,8
+474,Martinique,3,25
+478,Mauritania,4,3
+480,Mauritius,3,24
+484,Mexico,3,19
+496,Mongolia,NA,NA
+498,Republic of Moldova,3,20
+499,Montenegro,3,25
+504,Morocco,3,10
+508,Mozambique,NA,NA
+512,Oman,3,31
+516,Namibia,NA,NA
+524,Nepal,5,16
+528,Netherlands,3,6
+531,Cura√ßao,3,21
+533,Aruba,4,15
+540,New Caledonia,NA,NA
+548,Vanuatu,NA,NA
+554,New Zealand,3,28
+558,Nicaragua,3,27
+562,Niger,3,26
+566,Nigeria,3,25
+578,Norway,3,13
+583,Micronesia (Fed. States of),NA,NA
+586,Pakistan,3,19
+591,Panama,3,10
+598,Papua New Guinea,NA,NA
+600,Paraguay,3,21
+604,Peru,3,20
+608,Philippines,2,1
+616,Poland,3,12
+620,Portugal,3,17
+624,Guinea-Bissau,4,26
+626,Timor-Leste,NA,NA
+630,Puerto Rico,3,21
+634,Qatar,3,28
+638,R√©union,NA,NA
+642,Romania,3,22
+643,Russian Federation,3,25
+646,Rwanda,NA,NA
+662,Saint Lucia,NA,NA
+670,Saint Vincent and the Grenadines,NA,NA
+678,Sao Tome and Principe,4,30
+682,Saudi Arabia,3,24
+686,Senegal,4,1
+688,Serbia,3,20
+690,Seychelles,NA,NA
+694,Sierra Leone,4,21
+702,Singapore,3,21
+703,Slovakia,4,6
+704,Viet Nam,NA,NA
+705,Slovenia,3,17
+706,Somalia,4,8
+710,South Africa,3,27
+716,Zimbabwe,3,23
+724,Spain,3,4
+728,South Sudan,NA,NA
+729,Sudan,3,15
+732,Western Sahara,NA,NA
+740,Suriname,4,6
+748,Eswatini,4,16
+752,Sweden,3,15
+756,Switzerland,3,5
+760,Syrian Arab Republic,3,29
+762,Tajikistan,5,2
+764,Thailand,3,1
+768,Togo,3,29
+776,Tonga,NA,NA
+780,Trinidad and Tobago,3,25
+784,United Arab Emirates,3,21
+788,Tunisia,3,20
+792,Turkey,3,18
+795,Turkmenistan,NA,NA
+800,Uganda,NA,NA
+804,Ukraine,3,13
+807,North Macedonia,3,22
+818,Egypt,3,8
+826,United Kingdom,3,6
+830,Channel Islands,3,26
+834,United Republic of Tanzania,3,31
+840,United States of America,3,2
+850,United States Virgin Islands,4,6
+854,Burkina Faso,3,18
+858,Uruguay,3,31
+860,Uzbekistan,3,27
+862,Venezuela (Bolivarian Republic of),3,28
+882,Samoa,NA,NA
+887,Yemen,4,30
+894,Zambia,4,2
