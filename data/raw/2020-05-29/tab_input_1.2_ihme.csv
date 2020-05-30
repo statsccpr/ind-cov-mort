@@ -1,0 +1,21 @@
+region,subregion_or_country,type_geo,country_province_or_state,deaths,month,day,date_ihme_prod
+EUROPE,Northern Europe,country,Sweden,5257.798,08,24,2020_05_23.03
+EUROPE,Northern Europe,country,United Kingdom,44388.863,08,24,2020_05_23.03
+EUROPE,Southern Europe,country,Italy,43297.302,08,24,2020_05_23.03
+EUROPE,Southern Europe,country,Spain,36235.144,08,24,2020_05_23.03
+EUROPE,Western Europe,country,Belgium,9698.804,08,24,2020_05_23.03
+EUROPE,Western Europe,country,France,31466.144,08,24,2020_05_23.03
+EUROPE,Western Europe,country,Germany,9145.755,08,24,2020_05_23.03
+EUROPE,Western Europe,country,Netherlands,6126.709,08,24,2020_05_23.03
+EUROPE,Western Europe,country,Switzerland,1931.061,08,24,2020_05_23.03
+NORTHERN AMERICA,NORTHERN AMERICA,country,Canada,8147.794,08,24,2020_05_23.03
+NORTHERN AMERICA,NORTHERN AMERICA,country,United States of America,131967.026,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,California,7557.904,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,Connecticut,4548.061,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,Illinois,7627.526,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,Louisiana,3119.242,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,Massachusetts,8231.814,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,Michigan,5801.438,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,New Jersey,13653.836,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,New York,30822.878,08,24,2020_05_23.03
+NORTHERN AMERICA,United States of America,state_province,Pennsylvania,7679.462,08,24,2020_05_23.03
