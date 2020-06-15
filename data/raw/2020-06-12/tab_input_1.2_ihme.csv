@@ -1,14 +1,14 @@
 region,subregion_or_country,type_geo,country_province_or_state,deaths,month,day,date_ihme_prod
-EUROPE,Northern Europe,country,Sweden,NA,09,21,2020_06_08
-EUROPE,Northern Europe,country,United Kingdom,NA,09,21,2020_06_08
-EUROPE,Southern Europe,country,Italy,NA,09,21,2020_06_08
-EUROPE,Southern Europe,country,Spain,NA,09,21,2020_06_08
-EUROPE,Western Europe,country,Belgium,NA,09,21,2020_06_08
-EUROPE,Western Europe,country,France,NA,09,21,2020_06_08
-EUROPE,Western Europe,country,Germany,NA,09,21,2020_06_08
-EUROPE,Western Europe,country,Netherlands,NA,09,21,2020_06_08
-EUROPE,Western Europe,country,Switzerland,NA,09,21,2020_06_08
-NORTHERN AMERICA,NORTHERN AMERICA,country,Canada,NA,08,24,2020_06_08
+EUROPE,Northern Europe,country,Sweden,8534.2,08,04,2020_06_08
+EUROPE,Northern Europe,country,United Kingdom,43962.01,08,04,2020_06_08
+EUROPE,Southern Europe,country,Italy,35229.87,08,04,2020_06_08
+EUROPE,Southern Europe,country,Spain,27006.12,08,04,2020_06_08
+EUROPE,Western Europe,country,Belgium,11093.42,08,04,2020_06_08
+EUROPE,Western Europe,country,France,34602.38,08,04,2020_06_08
+EUROPE,Western Europe,country,Germany,9500.376,08,04,2020_06_08
+EUROPE,Western Europe,country,Netherlands,6598.558,08,04,2020_06_08
+EUROPE,Western Europe,country,Switzerland,3398.807,08,04,2020_06_08
+NORTHERN AMERICA,NORTHERN AMERICA,country,Canada,NA,NA,NA,2020_06_08
 NORTHERN AMERICA,NORTHERN AMERICA,country,United States of America,169890.4,10,01,2020_06_08
 NORTHERN AMERICA,United States of America,state_province,California,8820.755,10,01,2020_06_08
 NORTHERN AMERICA,United States of America,state_province,Connecticut,4264.211,10,01,2020_06_08
