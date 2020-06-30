@@ -1,5 +1,5 @@
 region,subregion_or_country,type_geo,country_province_or_state,month,day,deaths
-ASIA,Eastern Asia,state_province,Hubei Province (China),05,18,4512
+ASIA,Eastern Asia,state_province,Hubei,05,18,4512
 NORTHERN AMERICA,United States of America,state_province,California,05,18,3240
 NORTHERN AMERICA,United States of America,state_province,Connecticut,05,18,3408
 NORTHERN AMERICA,United States of America,state_province,Illinois,05,18,4177
@@ -9,7 +9,7 @@ NORTHERN AMERICA,United States of America,state_province,Michigan,05,18,4891
 NORTHERN AMERICA,United States of America,state_province,New Jersey,05,18,10363
 NORTHERN AMERICA,United States of America,state_province,New York,05,18,28232
 NORTHERN AMERICA,United States of America,state_province,Pennsylvania,05,18,4495
-ASIA,Southern Asia,country,Iran (Islamic Republic of),05,18,6988
+ASIA,Southern Asia,country,Iran,05,18,6988
 ASIA,Western Asia,country,Turkey,05,18,4140
 EUROPE,Northern Europe,country,Sweden,05,18,3679
 EUROPE,Northern Europe,country,United Kingdom,05,18,34716
