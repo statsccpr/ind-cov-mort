@@ -1,0 +1,25 @@
+region,subregion_or_country,type_geo,country_province_or_state,month,day,deaths
+ASIA,Eastern Asia,state_province,Hubei,06,29,4512
+NORTHERN AMERICA,United States of America,state_province,California,06,29,5932
+NORTHERN AMERICA,United States of America,state_province,Connecticut,06,29,4316
+NORTHERN AMERICA,United States of America,state_province,Illinois,06,29,6888
+NORTHERN AMERICA,United States of America,state_province,Louisiana,06,29,3199
+NORTHERN AMERICA,United States of America,state_province,Massachusetts,06,29,8059
+NORTHERN AMERICA,United States of America,state_province,Michigan,06,29,6157
+NORTHERN AMERICA,United States of America,state_province,New Jersey,06,29,14975
+NORTHERN AMERICA,United States of America,state_province,New York,06,29,31397
+NORTHERN AMERICA,United States of America,state_province,Pennsylvania,06,29,6606
+ASIA,Southern Asia,country,Iran,06,29,10508
+ASIA,Western Asia,country,Turkey,06,29,5097
+EUROPE,Northern Europe,country,Sweden,06,29,5280
+EUROPE,Northern Europe,country,United Kingdom,06,29,43634
+EUROPE,Southern Europe,country,Italy,06,29,34738
+EUROPE,Southern Europe,country,Spain,06,29,28343
+EUROPE,Western Europe,country,Belgium,06,29,9732
+EUROPE,Western Europe,country,France,06,29,29781
+EUROPE,Western Europe,country,Germany,06,29,8968
+EUROPE,Western Europe,country,Netherlands,06,29,6124
+EUROPE,Western Europe,country,Switzerland,06,29,1962
+LATIN AMERICA & THE CARIBBEAN,South America,country,Brazil,06,29,57622
+NORTHERN AMERICA,NA,country,Canada,06,29,8582
+NORTHERN AMERICA,NA,country,United States of America,06,29,125803
