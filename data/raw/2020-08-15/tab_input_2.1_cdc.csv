@@ -1,0 +1,12 @@
+age_group,deaths_all,deaths_m,deaths_f,month,day,state
+Under 1 year,16,11,5,08,12,United States
+1-4 years,10,5,5,08,12,United States
+5-14 years,23,17,6,08,12,United States
+15-24 years,242,154,88,08,12,United States
+25-34 years,1133,763,370,08,12,United States
+35-44 years,2920,2028,892,08,12,United States
+45-54 years,7721,5328,2392,08,12,United States
+55-64 years,18579,12173,6406,08,12,United States
+65-74 years,31488,19478,12009,08,12,United States
+75-84 years,39348,21562,17785,08,12,United States
+85 years and over,47712,18775,28934,08,12,United States
