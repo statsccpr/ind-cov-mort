@@ -1,5 +1,6 @@
 Using input from from /data/raw/ 
 Processing output here in /data/proc
+/YYMMDD.csv
 
 # note 
 before week 6, not in csv tidy format
