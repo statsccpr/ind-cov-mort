@@ -1,0 +1,833 @@
+iso2,iso3,LocID,location_fin,location_jhu,loc_type_fin,location_ihme,loc_id,month_jhu,day_jhu,deaths_jhu,deaths_ihme,month_ihme,day_ihme,date_ihme_prod,country_region,geo_type_valid,population
+NA,NA,NA,Australian Capital Territory,Australian Capital Territory,NA,NA,NA,04,23,3,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,New South Wales,New South Wales,NA,NA,NA,04,23,54,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,Northern Territory,Northern Territory,NA,NA,NA,04,23,0,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,Queensland,Queensland,NA,NA,NA,04,23,7,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,South Australia,South Australia,NA,NA,NA,04,23,4,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,Tasmania,Tasmania,NA,NA,NA,04,23,13,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,Victoria,Victoria,NA,NA,NA,04,23,820,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,Western Australia,Western Australia,NA,NA,NA,04,23,9,NA,NA,NA,NA,Australia,province_state,NA
+NA,NA,NA,Antwerp,Antwerp,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Brussels,Brussels,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,East Flanders,East Flanders,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Flemish Brabant,Flemish Brabant,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Hainaut,Hainaut,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Liege,Liege,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Limburg,Limburg,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Luxembourg,Luxembourg,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Namur,Namur,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,23909,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,Walloon Brabant,Walloon Brabant,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,NA,West Flanders,West Flanders,NA,NA,NA,04,23,0,NA,NA,NA,NA,Belgium,province_state,NA
+NA,NA,BR12,Acre,Acre,Brazil,Acre,BR12,04,23,1458,796,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR27,Alagoas,Alagoas,Brazil,Alagoas,BR27,04,23,4054,2496,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR16,Amapa,Amapa,Brazil,Amapa,BR16,04,23,1497,926,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR13,Amazonas,Amazonas,Brazil,Amazonas,BR13,04,23,12474,5295,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR29,Bahia,Bahia,Brazil,Bahia,BR29,04,23,17687,9159,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR23,Ceara,Ceara,Brazil,Ceara,BR23,04,23,16635,9993,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR53,Distrito Federal,Distrito Federal,Brazil,Distrito Federal,BR53,04,23,7440,4263,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR32,Espirito Santo,Espirito Santo,Brazil,Espirito Santo,BR32,04,23,9000,5087,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR52,Goias,Goias,Brazil,Goias,BR52,04,23,14182,6805,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR21,Maranhao,Maranhao,Brazil,Maranhao,BR21,04,23,7032,4506,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR51,Mato Grosso,Mato Grosso,Brazil,Mato Grosso,BR51,04,23,9218,4467,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR50,Mato Grosso do Sul,Mato Grosso do Sul,Brazil,Mato Grosso do Sul,BR50,04,23,5374,2347,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR31,Minas Gerais,Minas Gerais,Brazil,Minas Gerais,BR31,04,23,31386,12001,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR15,Para,Para,Brazil,Para,BR15,04,23,12263,7269,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR25,Paraiba,Paraiba,Brazil,Paraiba,BR25,04,23,6576,3680,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR41,Parana,Parana,Brazil,Parana,BR41,04,23,20959,8290,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR26,Pernambuco,Pernambuco,Brazil,Pernambuco,BR26,04,23,13425,9666,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR22,Piaui,Piaui,Brazil,Piaui,BR22,04,23,4858,2840,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR33,Rio de Janeiro,Rio de Janeiro,Brazil,Rio de Janeiro,BR33,04,23,42362,25600,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR24,Rio Grande do Norte,Rio Grande do Norte,Brazil,Rio Grande do Norte,BR24,04,23,5222,2993,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR43,Rio Grande do Sul,Rio Grande do Sul,Brazil,Rio Grande do Sul,BR43,04,23,23752,8917,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR11,Rondonia,Rondonia,Brazil,Rondonia,BR11,04,23,4967,1822,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR14,Roraima,Roraima,Brazil,Roraima,BR14,04,23,1466,787,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR42,Santa Catarina,Santa Catarina,Brazil,Santa Catarina,BR42,04,23,12916,5270,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR35,Sao Paulo,Sao Paulo,Brazil,Sao Paulo,BR35,04,23,90810,46775,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR28,Sergipe,Sergipe,Brazil,Sergipe,BR28,04,23,4061,2492,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,BR17,Tocantins,Tocantins,Brazil,Tocantins,BR17,04,23,2428,1236,01,01,2021_04_22,Brazil,province_state,NA
+NA,NA,NA,Alberta,Alberta,Canada,Alberta,NA,04,23,2054,1115,01,01,2021_04_22,Canada,province_state,NA
+NA,NA,NA,British Columbia,British Columbia,Canada,British Columbia,NA,04,23,1550,912.25,01,01,2021_04_22,Canada,province_state,NA
+NA,NA,NA,Diamond Princess,Diamond Princess,NA,NA,NA,04,23,1,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Grand Princess,Grand Princess,NA,NA,NA,04,23,0,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Manitoba,Manitoba,NA,NA,NA,04,23,962,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,New Brunswick,New Brunswick,NA,NA,NA,04,23,34,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Newfoundland and Labrador,Newfoundland and Labrador,NA,NA,NA,04,23,6,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Northwest Territories,Northwest Territories,NA,NA,NA,04,23,0,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Nova Scotia,Nova Scotia,NA,NA,NA,04,23,67,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Nunavut,Nunavut,NA,NA,NA,04,23,4,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Ontario,Ontario,Canada,Ontario,NA,04,23,7816,4627,01,01,2021_04_22,Canada,province_state,NA
+NA,NA,NA,Prince Edward Island,Prince Edward Island,NA,NA,NA,04,23,0,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Quebec,Quebec,Canada,Quebec,NA,04,23,10845,8311,01,01,2021_04_22,Canada,province_state,NA
+NA,NA,NA,Repatriated Travellers,Repatriated Travellers,NA,NA,NA,04,23,0,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Saskatchewan,Saskatchewan,NA,NA,NA,04,23,470,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Yukon,Yukon,NA,NA,NA,04,23,1,NA,NA,NA,NA,Canada,province_state,NA
+NA,NA,NA,Antofagasta,Antofagasta,NA,NA,NA,04,23,938,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Araucania,Araucania,NA,NA,NA,04,23,824,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Arica y Parinacota,Arica y Parinacota,NA,NA,NA,04,23,385,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Atacama,Atacama,NA,NA,NA,04,23,194,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Aysen,Aysen,NA,NA,NA,04,23,30,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Biobio,Biobio,NA,NA,NA,04,23,1816,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Coquimbo,Coquimbo,NA,NA,NA,04,23,591,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Los Lagos,Los Lagos,NA,NA,NA,04,23,889,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Los Rios,Los Rios,NA,NA,NA,04,23,360,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Magallanes,Magallanes,NA,NA,NA,04,23,365,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Maule,Maule,NA,NA,NA,04,23,1134,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Metropolitana,Metropolitana,NA,NA,NA,04,23,13777,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Nuble,Nuble,NA,NA,NA,04,23,445,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,OHiggins,OHiggins,NA,NA,NA,04,23,1003,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Tarapaca,Tarapaca,NA,NA,NA,04,23,593,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,NA,Valparaiso,Valparaiso,NA,NA,NA,04,23,2188,NA,NA,NA,NA,Chile,province_state,NA
+NA,NA,CN12,Anhui,Anhui,China,NA,NA,04,23,6,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN01,Beijing,Beijing,China,Beijing,CN01,04,23,9,9,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN22,Chongqing,Chongqing,China,Chongqing,CN22,04,23,6,6,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN13,Fujian,Fujian,China,NA,NA,04,23,1,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN28,Gansu,Gansu,China,NA,NA,04,23,2,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN19,Guangdong,Guangdong,China,Guangdong,CN19,04,23,8,8,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN20,Guangxi,Guangxi,China,NA,NA,04,23,2,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN24,Guizhou,Guizhou,China,NA,NA,04,23,2,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN21,Hainan,Hainan,China,Hainan,CN21,04,23,6,6,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN03,Hebei,Hebei,China,Hebei,CN03,04,23,7,6,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN08,Heilongjiang,Heilongjiang,China,Heilongjiang,CN08,04,23,13,13,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN16,Henan,Henan,China,NA,NA,04,23,22,NA,NA,NA,NA,China,province_state,NA
+NA,NA,HKG,"China, Hong Kong SAR",Hong Kong,Cntry/Terr,NA,NA,04,23,209,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN17,Hubei,Hubei,China,Hubei,CN17,04,23,4512,4512,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN18,Hunan,Hunan,China,NA,NA,04,23,4,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN05,Inner Mongolia,Inner Mongolia,China,NA,NA,04,23,1,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN10,Jiangsu,Jiangsu,China,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN14,Jiangxi,Jiangxi,China,NA,NA,04,23,1,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN07,Jilin,Jilin,China,NA,NA,04,23,3,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN06,Liaoning,Liaoning,China,NA,NA,04,23,2,NA,NA,NA,NA,China,province_state,NA
+NA,NA,MAC,"China, Macao SAR",Macau,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN30,Ningxia,Ningxia,China,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN29,Qinghai,Qinghai,China,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN27,Shaanxi,Shaanxi,China,NA,NA,04,23,3,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN15,Shandong,Shandong,China,Shandong,CN15,04,23,7,7,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN09,Shanghai,Shanghai,China,Shanghai,CN09,04,23,7,7,01,01,2021_04_22,China,province_state,NA
+NA,NA,CN04,Shanxi,Shanxi,China,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN23,Sichuan,Sichuan,China,NA,NA,04,23,3,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN02,Tianjin,Tianjin,China,NA,NA,04,23,3,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN26,Tibet (Xizang),Tibet,China,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN31,Xinjiang,Xinjiang,China,NA,NA,04,23,3,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN25,Yunnan,Yunnan,China,NA,NA,04,23,2,NA,NA,NA,NA,China,province_state,NA
+NA,NA,CN11,Zhejiang,Zhejiang,China,NA,NA,04,23,1,NA,NA,NA,NA,China,province_state,NA
+NA,NA,BR13,Amazonas,Amazonas,Brazil,Amazonas,BR13,04,23,235,5295,01,01,2021_04_22,Colombia,province_state,NA
+NA,NA,NA,Antioquia,Antioquia,NA,NA,NA,04,23,8823,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Arauca,Arauca,NA,NA,NA,04,23,183,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Atlantico,Atlantico,NA,NA,NA,04,23,6095,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Bolivar,Bolivar,NA,NA,NA,04,23,1490,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Boyaca,Boyaca,NA,NA,NA,04,23,1208,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Caldas,Caldas,NA,NA,NA,04,23,1134,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Capital District,Capital District,NA,NA,NA,04,23,15142,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Caqueta,Caqueta,NA,NA,NA,04,23,655,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Casanare,Casanare,NA,NA,NA,04,23,325,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Cauca,Cauca,NA,NA,NA,04,23,798,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Cesar,Cesar,NA,NA,NA,04,23,1361,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Choco,Choco,NA,NA,NA,04,23,213,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Cordoba,Cordoba,NA,NA,NA,04,23,2164,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Cundinamarca,Cundinamarca,NA,NA,NA,04,23,3227,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Guainia,Guainia,NA,NA,NA,04,23,22,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Guaviare,Guaviare,NA,NA,NA,04,23,40,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Huila,Huila,NA,NA,NA,04,23,1840,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,La Guajira,La Guajira,NA,NA,NA,04,23,826,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Magdalena,Magdalena,NA,NA,NA,04,23,2055,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Meta,Meta,NA,NA,NA,04,23,1040,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Narino,Narino,NA,NA,NA,04,23,1744,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Norte de Santander,Norte de Santander,NA,NA,NA,04,23,2815,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Putumayo,Putumayo,NA,NA,NA,04,23,335,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Quindio,Quindio,NA,NA,NA,04,23,1131,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Risaralda,Risaralda,NA,NA,NA,04,23,1316,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,San Andres y Providencia,San Andres y Providencia,NA,NA,NA,04,23,50,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Santander,Santander,NA,NA,NA,04,23,3592,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Sucre,Sucre,NA,NA,NA,04,23,942,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Tolima,Tolima,NA,NA,NA,04,23,2191,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Valle del Cauca,Valle del Cauca,NA,NA,NA,04,23,6998,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Vaupes,Vaupes,NA,NA,NA,04,23,13,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,NA,Vichada,Vichada,NA,NA,NA,04,23,23,NA,NA,NA,NA,Colombia,province_state,NA
+NA,NA,FRO,Faroe Islands,Faroe Islands,Cntry/Terr,NA,NA,04,23,1,NA,NA,NA,NA,Denmark,province_state,NA
+NA,NA,GRL,Greenland,Greenland,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,Denmark,province_state,NA
+NA,NA,GUF,French Guiana,French Guiana,Cntry/Terr,NA,NA,04,23,96,NA,NA,NA,NA,France,province_state,NA
+NA,NA,PYF,French Polynesia,French Polynesia,Cntry/Terr,NA,NA,04,23,141,NA,NA,NA,NA,France,province_state,NA
+NA,NA,GLP,Guadeloupe,Guadeloupe,Cntry/Terr,NA,NA,04,23,194,NA,NA,NA,NA,France,province_state,NA
+NA,NA,MTQ,Martinique,Martinique,Cntry/Terr,NA,NA,04,23,66,NA,NA,NA,NA,France,province_state,NA
+NA,NA,MYT,Mayotte,Mayotte,Cntry/Terr,NA,NA,04,23,169,NA,NA,NA,NA,France,province_state,NA
+NA,NA,NCL,New Caledonia,New Caledonia,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,France,province_state,NA
+NA,NA,REU,Reunion,Reunion,Cntry/Terr,NA,NA,04,23,141,NA,NA,NA,NA,France,province_state,NA
+NA,NA,BLM,Saint Barthelemy,Saint Barthelemy,Cntry/Terr,NA,NA,04,23,1,NA,NA,NA,NA,France,province_state,NA
+NA,NA,SPM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,France,province_state,NA
+NA,NA,MAF,Saint Martin (French part),St Martin,Cntry/Terr,NA,NA,04,23,12,NA,NA,NA,NA,France,province_state,NA
+NA,NA,NA,Wallis and Futuna,Wallis and Futuna,NA,NA,NA,04,23,5,NA,NA,NA,NA,France,province_state,NA
+NA,NA,NA,Baden-Wurttemberg,Baden-Wurttemberg,Germany,Baden-Wurttemberg,NA,04,23,9160,4841.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Bayern,Bayern,Germany,Bavaria,NA,04,23,13916,6763.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Berlin,Berlin,Germany,Berlin,NA,04,23,3175,1262,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Brandenburg,Brandenburg,Germany,Brandenburg,NA,04,23,3492,959.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Bremen,Bremen,Germany,Bremen,NA,04,23,444,197.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Hamburg,Hamburg,Germany,Hamburg,NA,04,23,1447,645,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Hessen,Hessen,Germany,Hesse,NA,04,23,6715,2881,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Germany,Mecklenburg-Vorpommern,NA,04,23,956,172,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Niedersachsen,Niedersachsen,Germany,Lower Saxony,NA,04,23,5194,1991.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Nordrhein-Westfalen,Nordrhein-Westfalen,Germany,North Rhine-Westphalia,NA,04,23,15159,6626.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Rheinland-Pfalz,Rheinland-Pfalz,Germany,Rhineland-Palatinate,NA,04,23,3504,1443.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Saarland,Saarland,Germany,Saarland,NA,04,23,960,436,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Sachsen,Sachsen,Germany,Saxony,NA,04,23,8863,3220.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Sachsen-Anhalt,Sachsen-Anhalt,Germany,Saxony-Anhalt,NA,04,23,3021,634,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Schleswig-Holstein,Schleswig-Holstein,Germany,Schleswig-Holstein,NA,04,23,1495,430.5,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Thuringen,Thuringen,Germany,Thuringia,NA,04,23,3702,1011,01,01,2021_04_22,Germany,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Germany,province_state,NA
+NA,NA,NA,Andaman and Nicobar Islands,Andaman and Nicobar Islands,NA,NA,NA,04,23,65,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Andhra Pradesh,Andhra Pradesh,NA,NA,NA,04,23,7541,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Arunachal Pradesh,Arunachal Pradesh,NA,NA,NA,04,23,56,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Assam,Assam,NA,NA,NA,04,23,1160,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Bihar,Bihar,NA,NA,NA,04,23,1956,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Chandigarh,Chandigarh,NA,NA,NA,04,23,427,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Chhattisgarh,Chhattisgarh,NA,NA,NA,04,23,6674,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli and Daman and Diu,NA,NA,NA,04,23,4,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Delhi,Delhi,NA,NA,NA,04,23,13193,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Goa,Goa,NA,NA,NA,04,23,964,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Gujarat,Gujarat,NA,NA,NA,04,23,5877,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Haryana,Haryana,NA,NA,NA,04,23,3583,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Himachal Pradesh,Himachal Pradesh,NA,NA,NA,04,23,1254,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Jammu and Kashmir,Jammu and Kashmir,NA,NA,NA,04,23,2092,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Jharkhand,Jharkhand,NA,NA,NA,04,23,1715,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Karnataka,Karnataka,NA,NA,NA,04,23,13885,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Kerala,Kerala,NA,NA,NA,04,23,5028,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Ladakh,Ladakh,NA,NA,NA,04,23,135,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Lakshadweep,Lakshadweep,NA,NA,NA,04,23,1,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Madhya Pradesh,Madhya Pradesh,NA,NA,NA,04,23,4863,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Maharashtra,Maharashtra,NA,NA,NA,04,23,62479,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Manipur,Manipur,NA,NA,NA,04,23,381,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Meghalaya,Meghalaya,NA,NA,NA,04,23,157,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Mizoram,Mizoram,NA,NA,NA,04,23,12,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Nagaland,Nagaland,NA,NA,NA,04,23,94,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Odisha,Odisha,NA,NA,NA,04,23,1965,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Puducherry,Puducherry,NA,NA,NA,04,23,726,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Punjab,Punjab,NA,NA,NA,04,23,8189,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Rajasthan,Rajasthan,NA,NA,NA,04,23,3389,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Sikkim,Sikkim,NA,NA,NA,04,23,137,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Tamil Nadu,Tamil Nadu,NA,NA,NA,04,23,13317,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Telangana,Telangana,NA,NA,NA,04,23,1928,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Tripura,Tripura,NA,NA,NA,04,23,394,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Uttar Pradesh,Uttar Pradesh,NA,NA,NA,04,23,10541,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,Uttarakhand,Uttarakhand,NA,NA,NA,04,23,1972,NA,NA,NA,NA,India,province_state,NA
+NA,NA,NA,West Bengal,West Bengal,NA,NA,NA,04,23,10766,NA,NA,NA,NA,India,province_state,NA
+NA,NA,IT13,Abruzzo,Abruzzo,Italy,Abruzzo,IT13,04,23,2355,1218,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT17,Basilicata,Basilicata,Italy,Basilicata,IT17,04,23,511,256,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT18,Calabria,Calabria,Italy,Calabria,IT18,04,23,967,479,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT15,Campania,Campania,Italy,Campania,IT15,04,23,6095,2864,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT08,Emilia-Romagna,Emilia-Romagna,Italy,Emilia-Romagna,IT08,04,23,12718,7808,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT06,Friuli-Venezia Giulia,Friuli Venezia Giulia,Italy,Friuli-Venezia Giulia,IT06,04,23,3635,1669,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT12,Lazio,Lazio,Italy,Lazio,IT12,04,23,7445,3792,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT07,Liguria,Liguria,Italy,Liguria,IT07,04,23,4109,2898,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT03,Lombardia,Lombardia,Italy,Lombardia,IT03,04,23,32512,25203,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT11,Marche,Marche,Italy,Marche,IT11,04,23,2885,1581,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT14,Molise,Molise,Italy,Molise,IT14,04,23,466,199,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT21,Bolzano (Provincia autonoma di),P.A. Bolzano,Italy,Provincia autonoma di Bolzano,IT21,04,23,1158,742,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT22,Trento (Provincia autonoma di),P.A. Trento,Italy,Provincia autonoma di Trento,IT22,04,23,1333,982,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT01,Piemonte,Piemonte,Italy,Piemonte,IT01,04,23,11085,7960,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT16,Puglia,Puglia,Italy,Puglia,IT16,04,23,5568,2481,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT20,Sardegna,Sardegna,Italy,Sardegna,IT20,04,23,1337,751,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT19,Sicilia,Sicilia,Italy,Sicilia,IT19,04,23,5241,2443,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT09,Toscana,Toscana,Italy,Toscana,IT09,04,23,5975,3700,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT10,Umbria,Umbria,Italy,Umbria,IT10,04,23,1334,625,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT02,Valle d'Aosta/Vallee d'Aoste,Valle d'Aosta,Italy,Valle d'Aosta,IT02,04,23,445,381,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,IT05,Veneto,Veneto,Italy,Veneto,IT05,04,23,11183,6629,01,01,2021_04_22,Italy,province_state,NA
+NA,NA,NA,Aichi,Aichi,NA,NA,NA,04,23,607,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Akita,Akita,NA,NA,NA,04,23,9,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Aomori,Aomori,NA,NA,NA,04,23,20,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Chiba,Chiba,NA,NA,NA,04,23,612,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Ehime,Ehime,NA,NA,NA,04,23,29,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Fukui,Fukui,NA,NA,NA,04,23,31,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Fukuoka,Fukuoka,NA,NA,NA,04,23,349,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Fukushima,Fukushima,NA,NA,NA,04,23,117,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Gifu,Gifu,NA,NA,NA,04,23,124,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Gunma,Gunma,NA,NA,NA,04,23,102,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Hiroshima,Hiroshima,NA,NA,NA,04,23,107,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Hokkaido,Hokkaido,NA,NA,NA,04,23,821,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Hyogo,Hyogo,NA,NA,NA,04,23,643,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Ibaraki,Ibaraki,NA,NA,NA,04,23,131,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Ishikawa,Ishikawa,NA,NA,NA,04,23,69,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Iwate,Iwate,NA,NA,NA,04,23,31,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Kagawa,Kagawa,NA,NA,NA,04,23,20,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Kagoshima,Kagoshima,NA,NA,NA,04,23,30,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Kanagawa,Kanagawa,NA,NA,NA,04,23,802,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Kochi,Kochi,NA,NA,NA,04,23,19,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Kumamoto,Kumamoto,NA,NA,NA,04,23,78,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Kyoto,Kyoto,NA,NA,NA,04,23,179,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Mie,Mie,NA,NA,NA,04,23,75,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Miyagi,Miyagi,NA,NA,NA,04,23,54,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Miyazaki,Miyazaki,NA,NA,NA,04,23,21,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Nagano,Nagano,NA,NA,NA,04,23,53,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Nagasaki,Nagasaki,NA,NA,NA,04,23,40,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Nara,Nara,NA,NA,NA,04,23,66,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Niigata,Niigata,NA,NA,NA,04,23,17,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Oita,Oita,NA,NA,NA,04,23,24,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Okayama,Okayama,NA,NA,NA,04,23,38,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Okinawa,Okinawa,NA,NA,NA,04,23,131,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Osaka,Osaka,NA,NA,NA,04,23,1305,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Port Quarantine,Port Quarantine,NA,NA,NA,04,23,3,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Saga,Saga,NA,NA,NA,04,23,14,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Saitama,Saitama,NA,NA,NA,04,23,735,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Shiga,Shiga,NA,NA,NA,04,23,61,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Shimane,Shimane,NA,NA,NA,04,23,0,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Shizuoka,Shizuoka,NA,NA,NA,04,23,120,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Tochigi,Tochigi,NA,NA,NA,04,23,71,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Tokushima,Tokushima,NA,NA,NA,04,23,28,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Tokyo,Tokyo,NA,NA,NA,04,23,1848,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Tottori,Tottori,NA,NA,NA,04,23,2,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Toyama,Toyama,NA,NA,NA,04,23,29,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Wakayama,Wakayama,NA,NA,NA,04,23,20,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Yamagata,Yamagata,NA,NA,NA,04,23,31,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Yamaguchi,Yamaguchi,NA,NA,NA,04,23,43,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,NA,Yamanashi,Yamanashi,NA,NA,NA,04,23,19,NA,NA,NA,NA,Japan,province_state,NA
+NA,NA,MX01,Aguascalientes,Aguascalientes,Mexico,Aguascalientes,MX01,04,23,2344,1434,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX02,Baja California,Baja California,Mexico,Baja California,MX02,04,23,8031,5554,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX03,Baja California Sur,Baja California Sur,Mexico,Baja California Sur,MX03,04,23,1333,777,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX04,Campeche,Campeche,Mexico,Campeche,MX04,04,23,1180,994,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX07,Chiapas,Chiapas,Mexico,Chiapas,MX07,04,23,1532,1120,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX08,Chihuahua,Chihuahua,Mexico,Chihuahua,MX08,04,23,6571,4859,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX09,Ciudad de Mexico,Ciudad de Mexico,Mexico,Mexico City,MX09,04,23,32183,21923,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX05,Coahuila de Zaragoza,Coahuila,Mexico,Coahuila,MX05,04,23,6162,4340,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX06,Colima,Colima,Mexico,Colima,MX06,04,23,1170,851,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX10,Durango,Durango,Mexico,Durango,MX10,04,23,2359,1522,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX11,Guanajuato,Guanajuato,Mexico,Guanajuato,MX11,04,23,10459,5351,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX12,Guerrero,Guerrero,Mexico,Guerrero,MX12,04,23,4278,2608,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX13,Hidalgo,Hidalgo,Mexico,Hidalgo,MX13,04,23,6048,3393,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX14,Jalisco,Jalisco,Mexico,Jalisco,MX14,04,23,11754,6008,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX15,Mexico (State),Mexico,Mexico,Mexico_two,MX15,04,23,33590,14869,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX16,Michoacan de Ocampo,Michoacan,Mexico,Michoacan de Ocampo,MX16,04,23,5489,2720,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX17,Morelos,Morelos,Mexico,Morelos,MX17,04,23,3025,1454.125,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX18,Nayarit,Nayarit,Mexico,Nayarit,MX18,04,23,1774,1105,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX19,Nuevo Leon,Nuevo Leon,Mexico,Nuevo Leon,MX19,04,23,9248,5230,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX20,Oaxaca,Oaxaca,Mexico,Oaxaca,MX20,04,23,3418,2060,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX21,Puebla,Puebla,Mexico,Puebla,MX21,04,23,11153,5759,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX22,Queretaro,Queretaro,Mexico,Queretaro,MX22,04,23,4077,1980,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX23,Quintana Roo,Quintana Roo,Mexico,Quintana Roo,MX23,04,23,2582,2008,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX24,San Luis Potosi,San Luis Potosi,Mexico,San Luis Potosi,MX24,04,23,5137,3061,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX25,Sinaloa,Sinaloa,Mexico,Sinaloa,MX25,04,23,5956,4238,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX26,Sonora,Sonora,Mexico,Sonora,MX26,04,23,6467,4328,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX27,Tabasco,Tabasco,Mexico,Tabasco,MX27,04,23,4013,3276,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX28,Tamaulipas,Tamaulipas,Mexico,Tamaulipas,MX28,04,23,4797,3402,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX29,Tlaxcala,Tlaxcala,Mexico,Tlaxcala,MX29,04,23,2373,1338,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Mexico,province_state,NA
+NA,NA,MX30,Veracruz de Ignacio de la Llave,Veracruz,Mexico,Veracruz de Ignacio de la Llave,MX30,04,23,9285,6220,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX31,Yucatan,Yucatan,Mexico,Yucatan,MX31,04,23,3560,2456,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,MX32,Zacatecas,Zacatecas,Mexico,Zacatecas,MX32,04,23,2731,1754,01,01,2021_04_22,Mexico,province_state,NA
+NA,NA,ABW,Aruba,Aruba,Cntry/Terr,NA,NA,04,23,95,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,BES,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Cntry/Terr,NA,NA,04,23,3,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,CUW,Curacao,Curacao,Cntry/Terr,NA,NA,04,23,99,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Drenthe,Drenthe,NA,NA,NA,04,23,341,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Flevoland,Flevoland,NA,NA,NA,04,23,232,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Friesland,Friesland,NA,NA,NA,04,23,459,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Gelderland,Gelderland,NA,NA,NA,04,23,1945,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Groningen,Groningen,NA,NA,NA,04,23,245,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Limburg,Limburg,NA,NA,NA,04,23,1563,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Noord-Brabant,Noord-Brabant,NA,NA,NA,04,23,3056,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Noord-Holland,Noord-Holland,NA,NA,NA,04,23,2490,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Overijssel,Overijssel,NA,NA,NA,04,23,1101,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,SXM,Siint Maarten (Dutch part),Sint Maarten,Cntry/Terr,NA,NA,04,23,27,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,13,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Utrecht,Utrecht,NA,NA,NA,04,23,1229,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Zeeland,Zeeland,NA,NA,NA,04,23,232,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Zuid-Holland,Zuid-Holland,NA,NA,NA,04,23,4096,NA,NA,NA,NA,Netherlands,province_state,NA
+NA,NA,NA,Azad Jammu and Kashmir,Azad Jammu and Kashmir,NA,NA,NA,04,23,455,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,NA,Balochistan,Balochistan,NA,NA,NA,04,23,227,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,NA,Gilgit-Baltistan,Gilgit-Baltistan,NA,NA,NA,04,23,104,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,NA,Islamabad,Islamabad,NA,NA,NA,04,23,652,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,NA,Khyber Pakhtunkhwa,Khyber Pakhtunkhwa,NA,NA,NA,04,23,3029,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,NA,Punjab,Punjab,NA,NA,NA,04,23,7799,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,NA,Sindh,Sindh,NA,NA,NA,04,23,4576,NA,NA,NA,NA,Pakistan,province_state,NA
+NA,NA,BR13,Amazonas,Amazonas,Brazil,Amazonas,BR13,04,23,418,5295,01,01,2021_04_22,Peru,province_state,NA
+NA,NA,PE02,Ancash,Ancash,Peru,NA,NA,04,23,2479,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE03,Apurimac,Apurimac,Peru,NA,NA,04,23,416,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE04,Arequipa,Arequipa,Peru,NA,NA,04,23,2323,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE05,Ayacucho,Ayacucho,Peru,NA,NA,04,23,692,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE06,Cajamarca,Cajamarca,Peru,NA,NA,04,23,1117,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE07,Callao,Callao,Peru,NA,NA,04,23,3085,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE08,Cusco,Cusco,Peru,NA,NA,04,23,1067,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE09,Huancavelica,Huancavelica,Peru,NA,NA,04,23,346,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE10,Huanuco,Huanuco,Peru,NA,NA,04,23,899,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE11,Ica,Ica,Peru,NA,NA,04,23,2639,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE12,Junin,Junin,Peru,NA,NA,04,23,2005,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE13,La Libertad,La Libertad,Peru,NA,NA,04,23,3599,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE14,Lambayeque,Lambayeque,Peru,NA,NA,04,23,2431,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE15,Lima,Lima,Peru,NA,NA,04,23,25805,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE16,Loreto,Loreto,Peru,NA,NA,04,23,1387,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE17,Madre de Dios,Madre de Dios,Peru,NA,NA,04,23,220,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE18,Moquegua,Moquegua,Peru,NA,NA,04,23,520,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE19,Pasco,Pasco,Peru,NA,NA,04,23,344,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE20,Piura,Piura,Peru,NA,NA,04,23,2839,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE21,Puno,Puno,Peru,NA,NA,04,23,756,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE22,San Martin,San Martin,Peru,NA,NA,04,23,1108,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE23,Tacna,Tacna,Peru,NA,NA,04,23,719,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE24,Tumbes,Tumbes,Peru,NA,NA,04,23,532,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,PE25,Ucayali,Ucayali,Peru,NA,NA,04,23,858,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Peru,province_state,NA
+NA,NA,NA,Adygea Republic,Adygea Republic,NA,NA,NA,04,23,171,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Altai Krai,Altai Krai,NA,NA,NA,04,23,2016,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Altai Republic,Altai Republic,NA,NA,NA,04,23,224,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Amur Oblast,Amur Oblast,NA,NA,NA,04,23,274,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Arkhangelsk Oblast,Arkhangelsk Oblast,NA,NA,NA,04,23,913,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Astrakhan Oblast,Astrakhan Oblast,NA,NA,NA,04,23,716,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Bashkortostan Republic,Bashkortostan Republic,NA,NA,NA,04,23,428,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Belgorod Oblast,Belgorod Oblast,NA,NA,NA,04,23,614,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Bryansk Oblast,Bryansk Oblast,NA,NA,NA,04,23,301,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Buryatia Republic,Buryatia Republic,NA,NA,NA,04,23,829,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Chechen Republic,Chechen Republic,NA,NA,NA,04,23,120,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Chelyabinsk Oblast,Chelyabinsk Oblast,NA,NA,NA,04,23,1382,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Chukotka Autonomous Okrug,Chukotka Autonomous Okrug,NA,NA,NA,04,23,7,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Chuvashia Republic,Chuvashia Republic,NA,NA,NA,04,23,1332,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Dagestan Republic,Dagestan Republic,NA,NA,NA,04,23,1436,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Ingushetia Republic,Ingushetia Republic,NA,NA,NA,04,23,185,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Irkutsk Oblast,Irkutsk Oblast,NA,NA,NA,04,23,2183,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Ivanovo Oblast,Ivanovo Oblast,NA,NA,NA,04,23,1126,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Jewish Autonomous Okrug,Jewish Autonomous Okrug,NA,NA,NA,04,23,125,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kabardino-Balkarian Republic,Kabardino-Balkarian Republic,NA,NA,NA,04,23,437,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kaliningrad Oblast,Kaliningrad Oblast,NA,NA,NA,04,23,380,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kalmykia Republic,Kalmykia Republic,NA,NA,NA,04,23,337,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kaluga Oblast,Kaluga Oblast,NA,NA,NA,04,23,306,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kamchatka Krai,Kamchatka Krai,NA,NA,NA,04,23,213,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Karachay-Cherkess Republic,Karachay-Cherkess Republic,NA,NA,NA,04,23,73,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Karelia Republic,Karelia Republic,NA,NA,NA,04,23,447,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kemerovo Oblast,Kemerovo Oblast,NA,NA,NA,04,23,652,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Khabarovsk Krai,Khabarovsk Krai,NA,NA,NA,04,23,373,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Khakassia Republic,Khakassia Republic,NA,NA,NA,04,23,521,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Khanty-Mansi Autonomous Okrug,Khanty-Mansi Autonomous Okrug,NA,NA,NA,04,23,790,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kirov Oblast,Kirov Oblast,NA,NA,NA,04,23,341,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Komi Republic,Komi Republic,NA,NA,NA,04,23,878,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kostroma Oblast,Kostroma Oblast,NA,NA,NA,04,23,427,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Krasnodar Krai,Krasnodar Krai,NA,NA,NA,04,23,2578,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Krasnoyarsk Krai,Krasnoyarsk Krai,NA,NA,NA,04,23,3416,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kurgan Oblast,Kurgan Oblast,NA,NA,NA,04,23,377,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Kursk Oblast,Kursk Oblast,NA,NA,NA,04,23,670,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Leningrad Oblast,Leningrad Oblast,NA,NA,NA,04,23,1109,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Lipetsk Oblast,Lipetsk Oblast,NA,NA,NA,04,23,625,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Magadan Oblast,Magadan Oblast,NA,NA,NA,04,23,99,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Mari El Republic,Mari El Republic,NA,NA,NA,04,23,224,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Mordovia Republic,Mordovia Republic,NA,NA,NA,04,23,235,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Moscow,Moscow,NA,NA,NA,04,23,17866,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Moscow Oblast,Moscow Oblast,NA,NA,NA,04,23,5716,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Murmansk Oblast,Murmansk Oblast,NA,NA,NA,04,23,1140,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Nenets Autonomous Okrug,Nenets Autonomous Okrug,NA,NA,NA,04,23,4,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Nizhny Novgorod Oblast,Nizhny Novgorod Oblast,NA,NA,NA,04,23,3080,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,North Ossetia - Alania Republic,North Ossetia - Alania Republic,NA,NA,NA,04,23,193,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Novgorod Oblast,Novgorod Oblast,NA,NA,NA,04,23,121,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Novosibirsk Oblast,Novosibirsk Oblast,NA,NA,NA,04,23,1723,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Omsk Oblast,Omsk Oblast,NA,NA,NA,04,23,1370,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Orel Oblast,Orel Oblast,NA,NA,NA,04,23,545,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Orenburg Oblast,Orenburg Oblast,NA,NA,NA,04,23,819,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Penza Oblast,Penza Oblast,NA,NA,NA,04,23,603,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Perm Krai,Perm Krai,NA,NA,NA,04,23,2102,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Primorsky Krai,Primorsky Krai,NA,NA,NA,04,23,706,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Pskov Oblast,Pskov Oblast,NA,NA,NA,04,23,315,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Rostov Oblast,Rostov Oblast,NA,NA,NA,04,23,3972,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Ryazan Oblast,Ryazan Oblast,NA,NA,NA,04,23,431,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Saint Petersburg,Saint Petersburg,NA,NA,NA,04,23,12941,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Sakha (Yakutiya) Republic,Sakha (Yakutiya) Republic,NA,NA,NA,04,23,592,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Sakhalin Oblast,Sakhalin Oblast,NA,NA,NA,04,23,41,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Samara Oblast,Samara Oblast,NA,NA,NA,04,23,1400,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Saratov Oblast,Saratov Oblast,NA,NA,NA,04,23,910,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Smolensk Oblast,Smolensk Oblast,NA,NA,NA,04,23,836,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Stavropol Krai,Stavropol Krai,NA,NA,NA,04,23,1321,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Sverdlovsk Oblast,Sverdlovsk Oblast,NA,NA,NA,04,23,2992,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tambov Oblast,Tambov Oblast,NA,NA,NA,04,23,455,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tatarstan Republic,Tatarstan Republic,NA,NA,NA,04,23,451,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tomsk Oblast,Tomsk Oblast,NA,NA,NA,04,23,386,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tula Oblast,Tula Oblast,NA,NA,NA,04,23,1769,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tver Oblast,Tver Oblast,NA,NA,NA,04,23,847,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tyumen Oblast,Tyumen Oblast,NA,NA,NA,04,23,449,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Tyva Republic,Tyva Republic,NA,NA,NA,04,23,200,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Udmurt Republic,Udmurt Republic,NA,NA,NA,04,23,798,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Ulyanovsk Oblast,Ulyanovsk Oblast,NA,NA,NA,04,23,1117,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Vladimir Oblast,Vladimir Oblast,NA,NA,NA,04,23,1071,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Volgograd Oblast,Volgograd Oblast,NA,NA,NA,04,23,1061,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Vologda Oblast,Vologda Oblast,NA,NA,NA,04,23,971,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Voronezh Oblast,Voronezh Oblast,NA,NA,NA,04,23,2577,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Yamalo-Nenets Autonomous Okrug,Yamalo-Nenets Autonomous Okrug,NA,NA,NA,04,23,414,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Yaroslavl Oblast,Yaroslavl Oblast,NA,NA,NA,04,23,516,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,NA,Zabaykalsky Krai,Zabaykalsky Krai,NA,NA,NA,04,23,617,NA,NA,NA,NA,Russia,province_state,NA
+NA,NA,ES01,Andalucia,Andalusia,Spain,Andalucia,ES01,04,23,9495,5722,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES02,Aragon,Aragon,Spain,Aragon,ES02,04,23,3420,1840,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES03,Asturias (Principado de),Asturias,Spain,Asturias,ES03,04,23,1937,1348.75,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES04,Balears (Illes),Baleares,Spain,Balearic Islands,ES04,04,23,793,473,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES10,Comunitat Valenciana,C. Valenciana,Spain,Valencian Community,ES10,04,23,7244,2988,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES05,Canarias,Canarias,Spain,Canary Islands,ES05,04,23,717,418.8,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES06,Cantabria,Cantabria,Spain,Cantabria,ES06,04,23,554,399,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES08,Castilla-La Mancha,Castilla - La Mancha,Spain,Castilla-La Mancha,ES08,04,23,5836,4089.5,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES07,Castilla y Leon,Castilla y Leon,Spain,Castile and Leon,ES07,04,23,6727,4179,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES09,Catalunia,Catalonia,Spain,Catalonia,ES09,04,23,13939,17376.7142857143,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES18,Ceuta,Ceuta,Spain,NA,NA,04,23,102,NA,NA,NA,NA,Spain,province_state,NA
+NA,NA,ES11,Extremadura,Extremadura,Spain,Extremadura,ES11,04,23,1782,1072,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES12,Galicia,Galicia,Spain,Galicia,ES12,04,23,2365,1400,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES17,"Rioja, La",La Rioja,Spain,La Rioja,ES17,04,23,756,586.714285714286,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES13,Madrid (Comunidad de),Madrid,Spain,Community of Madrid,ES13,04,23,14889,12910,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES19,Melilla,Melilla,Spain,NA,NA,04,23,88,NA,NA,NA,NA,Spain,province_state,NA
+NA,NA,ES14,Murcia (Region de),Murcia,Spain,Murcia,ES14,04,23,1585,751,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES15,Navarra (C. Foral de),Navarra,Spain,Navarre,ES15,04,23,1144,968,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,ES16,Pais Vasco,Pais Vasco,Spain,Basque Country,ES16,04,23,4123,3082.42857142857,01,01,2021_04_22,Spain,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,Spain,province_state,NA
+NA,NA,NA,Blekinge,Blekinge,NA,NA,NA,04,23,125,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Dalarna,Dalarna,NA,NA,NA,04,23,323,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Gavleborg,Gavleborg,NA,NA,NA,04,23,540,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Gotland,Gotland,NA,NA,NA,04,23,48,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Halland,Halland,NA,NA,NA,04,23,306,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Jamtland Harjedalen,Jamtland Harjedalen,NA,NA,NA,04,23,118,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Jonkoping,Jonkoping,NA,NA,NA,04,23,544,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Kalmar,Kalmar,NA,NA,NA,04,23,223,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Kronoberg,Kronoberg,NA,NA,NA,04,23,302,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Norrbotten,Norrbotten,NA,NA,NA,04,23,248,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Orebro,Orebro,NA,NA,NA,04,23,317,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Ostergotland,Ostergotland,NA,NA,NA,04,23,595,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Skane,Skane,NA,NA,NA,04,23,1669,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Sormland,Sormland,NA,NA,NA,04,23,439,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Stockholm,Stockholm,NA,NA,NA,04,23,4139,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Uppsala,Uppsala,NA,NA,NA,04,23,513,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Varmland,Varmland,NA,NA,NA,04,23,196,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Vasterbotten,Vasterbotten,NA,NA,NA,04,23,176,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Vasternorrland,Vasternorrland,NA,NA,NA,04,23,445,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Vastmanland,Vastmanland,NA,NA,NA,04,23,339,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Vastra Gotaland,Vastra Gotaland,NA,NA,NA,04,23,2277,NA,NA,NA,NA,Sweden,province_state,NA
+NA,NA,NA,Cherkasy Oblast,Cherkasy Oblast,NA,NA,NA,04,23,938,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Chernihiv Oblast,Chernihiv Oblast,NA,NA,NA,04,23,1052,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Chernivtsi Oblast,Chernivtsi Oblast,NA,NA,NA,04,23,1590,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Crimea Republic*,Crimea Republic*,NA,NA,NA,04,23,1175,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Dnipropetrovsk Oblast,Dnipropetrovsk Oblast,NA,NA,NA,04,23,3044,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Donetsk Oblast,Donetsk Oblast,NA,NA,NA,04,23,1596,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Ivano-Frankivsk Oblast,Ivano-Frankivsk Oblast,NA,NA,NA,04,23,1914,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Kharkiv Oblast,Kharkiv Oblast,NA,NA,NA,04,23,2497,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Kherson Oblast,Kherson Oblast,NA,NA,NA,04,23,853,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Khmelnytskyi Oblast,Khmelnytskyi Oblast,NA,NA,NA,04,23,1519,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Kiev,Kiev,NA,NA,NA,04,23,4341,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Kiev Oblast,Kiev Oblast,NA,NA,NA,04,23,2178,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Kirovohrad Oblast,Kirovohrad Oblast,NA,NA,NA,04,23,594,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Luhansk Oblast,Luhansk Oblast,NA,NA,NA,04,23,653,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Lviv Oblast,Lviv Oblast,NA,NA,NA,04,23,3116,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Mykolaiv Oblast,Mykolaiv Oblast,NA,NA,NA,04,23,1495,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Odessa Oblast,Odessa Oblast,NA,NA,NA,04,23,2326,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Poltava Oblast,Poltava Oblast,NA,NA,NA,04,23,1432,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Rivne Oblast,Rivne Oblast,NA,NA,NA,04,23,959,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Sevastopol*,Sevastopol*,NA,NA,NA,04,23,600,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Sumy Oblast,Sumy Oblast,NA,NA,NA,04,23,1042,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Ternopil Oblast,Ternopil Oblast,NA,NA,NA,04,23,1005,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Vinnytsia Oblast,Vinnytsia Oblast,NA,NA,NA,04,23,1434,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Volyn Oblast,Volyn Oblast,NA,NA,NA,04,23,936,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Zakarpattia Oblast,Zakarpattia Oblast,NA,NA,NA,04,23,1492,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Zaporizhia Oblast,Zaporizhia Oblast,NA,NA,NA,04,23,1749,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,NA,Zhytomyr Oblast,Zhytomyr Oblast,NA,NA,NA,04,23,1511,NA,NA,NA,NA,Ukraine,province_state,NA
+NA,NA,AIA,Anguilla,Anguilla,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,BMU,Bermuda,Bermuda,Cntry/Terr,NA,NA,04,23,22,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,VGB,British Virgin Islands,British Virgin Islands,Cntry/Terr,NA,NA,04,23,1,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,CYM,Cayman Islands,Cayman Islands,Cntry/Terr,NA,NA,04,23,2,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,CHI,Channel Islands,Channel Islands,Cntry/Terr,NA,NA,04,23,86,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,NA,England,England,NA,NA,NA,04,23,112016,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,FLK,Falkland Islands (Malvinas),Falkland Islands (Malvinas),Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,GIB,Gilbraltar,Gibraltar,Cntry/Terr,NA,NA,04,23,94,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,IMN,Isle of Man,Isle of Man,Cntry/Terr,NA,NA,04,23,29,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,MSR,Montserrat,Montserrat,Cntry/Terr,NA,NA,04,23,1,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,NA,Northern Ireland,Northern Ireland,NA,NA,NA,04,23,2140,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,NA,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",NA,NA,NA,04,23,0,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,NA,Scotland,Scotland,NA,NA,NA,04,23,7646,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,TCA,Turks and Caicos Islands,Turks and Caicos Islands,Cntry/Terr,NA,NA,04,23,17,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,NA,NA,04,23,0,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,NA,Wales,Wales,NA,NA,NA,04,23,5543,NA,NA,NA,NA,United Kingdom,province_state,NA
+NA,NA,US01,Alabama,Alabama,U.S.A.,Alabama,US01,04,23,10824,5329,01,01,2021_04_22,US,province_state,NA
+NA,NA,US02,Alaska,Alaska,U.S.A.,Alaska,US02,04,23,334,245.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US04,Arizona,Arizona,U.S.A.,Arizona,US04,04,23,17221,9015,01,01,2021_04_22,US,province_state,NA
+NA,NA,US05,Arkansas,Arkansas,U.S.A.,Arkansas,US05,04,23,5711,3551.875,01,01,2021_04_22,US,province_state,NA
+NA,NA,US06,California,California,U.S.A.,California,US06,04,23,61309,26732,01,01,2021_04_22,US,province_state,NA
+NA,NA,US08,Colorado,Colorado,U.S.A.,Colorado,US08,04,23,6225,4818.75,01,01,2021_04_22,US,province_state,NA
+NA,NA,US09,Connecticut,Connecticut,U.S.A.,Connecticut,US09,04,23,8039,6047,01,01,2021_04_22,US,province_state,NA
+NA,NA,US10,Delaware,Delaware,U.S.A.,Delaware,US10,04,23,1604,930,01,01,2021_04_22,US,province_state,NA
+NA,NA,NA,Diamond Princess,Diamond Princess,NA,NA,NA,04,23,0,NA,NA,NA,NA,US,province_state,NA
+NA,NA,US11,District of Columbia,District of Columbia,U.S.A.,District of Columbia,US11,04,23,1098,788,01,01,2021_04_22,US,province_state,NA
+NA,NA,US12,Florida,Florida,U.S.A.,Florida,US12,04,23,34696,21839,01,01,2021_04_22,US,province_state,NA
+NA,NA,US13,Georgia (USA),Georgia,U.S.A.,Georgia,US13,04,23,19875,2528,01,01,2021_04_22,US,province_state,NA
+NA,NA,US13,Georgia (USA),Georgia,U.S.A.,Georgia,US13,04,23,19875,10958,01,01,2021_04_22,US,province_state,NA
+NA,NA,NA,Grand Princess,Grand Princess,NA,NA,NA,04,23,3,NA,NA,NA,NA,US,province_state,NA
+NA,NA,GUM,Guam,Guam,Cntry/Terr,Guam,GUM,04,23,136,122,01,01,2021_04_22,US,province_state,NA
+NA,NA,US15,Hawaii,Hawaii,U.S.A.,Hawaii,US15,04,23,476,348,01,01,2021_04_22,US,province_state,NA
+NA,NA,US16,Idaho,Idaho,U.S.A.,Idaho,US16,04,23,2028,1423.2,01,01,2021_04_22,US,province_state,NA
+NA,NA,US17,Illinois,Illinois,U.S.A.,Illinois,US17,04,23,24056,18097.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US18,Indiana,Indiana,U.S.A.,Indiana,US18,04,23,13252,9584,01,01,2021_04_22,US,province_state,NA
+NA,NA,US19,Iowa,Iowa,U.S.A.,Iowa,US19,04,23,5904,4124.75,01,01,2021_04_22,US,province_state,NA
+NA,NA,US20,Kansas,Kansas,U.S.A.,Kansas,US20,04,23,4917,2872,01,01,2021_04_22,US,province_state,NA
+NA,NA,US21,Kentucky,Kentucky,U.S.A.,Kentucky,US21,04,23,6381,2977,01,01,2021_04_22,US,province_state,NA
+NA,NA,US22,Louisiana,Louisiana,U.S.A.,Louisiana,US22,04,23,10324,7504.33333333333,01,01,2021_04_22,US,province_state,NA
+NA,NA,US23,Maine,Maine,U.S.A.,Maine,US23,04,23,769,398,01,01,2021_04_22,US,province_state,NA
+NA,NA,US24,Maryland,Maryland,U.S.A.,Maryland,US24,04,23,8625,5942,01,01,2021_04_22,US,province_state,NA
+NA,NA,US25,Massachusetts,Massachusetts,U.S.A.,Massachusetts,US25,04,23,17515,12462.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US26,Michigan,Michigan,U.S.A.,Michigan,US26,04,23,18251,13268.6666666667,01,01,2021_04_22,US,province_state,NA
+NA,NA,US27,Minnesota,Minnesota,U.S.A.,Minnesota,US27,04,23,7132,5512.375,01,01,2021_04_22,US,province_state,NA
+NA,NA,US28,Mississippi,Mississippi,U.S.A.,Mississippi,US28,04,23,7173,4816,01,01,2021_04_22,US,province_state,NA
+NA,NA,US29,Missouri,Missouri,U.S.A.,Missouri,US29,04,23,9064,5806,01,01,2021_04_22,US,province_state,NA
+NA,NA,US30,Montana,Montana,U.S.A.,Montana,US30,04,23,1557,1049.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US31,Nebraska,Nebraska,U.S.A.,Nebraska,US31,04,23,2232,1645,01,01,2021_04_22,US,province_state,NA
+NA,NA,US32,Nevada,Nevada,U.S.A.,Nevada,US32,04,23,5400,3110,01,01,2021_04_22,US,province_state,NA
+NA,NA,US33,New Hampshire,New Hampshire,U.S.A.,New Hampshire,US33,04,23,1274,768,01,01,2021_04_22,US,province_state,NA
+NA,NA,US34,New Jersey,New Jersey,U.S.A.,New Jersey,US34,04,23,25301,19160,01,01,2021_04_22,US,province_state,NA
+NA,NA,US35,New Mexico,New Mexico,U.S.A.,New Mexico,US35,04,23,4023,2502,01,01,2021_04_22,US,province_state,NA
+NA,NA,US36,New York,New York,U.S.A.,New York,US36,04,23,51830,38134,01,01,2021_04_22,US,province_state,NA
+NA,NA,US37,North Carolina,North Carolina,U.S.A.,North Carolina,US37,04,23,12505,6844.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US38,North Dakota,North Dakota,U.S.A.,North Dakota,US38,04,23,1515,1299.125,01,01,2021_04_22,US,province_state,NA
+NA,NA,MNP,Northern Marianas,Northern Mariana Islands,Cntry/Terr,NA,NA,04,23,2,NA,NA,NA,NA,US,province_state,NA
+NA,NA,US39,Ohio,Ohio,U.S.A.,Ohio,US39,04,23,19033,13657,01,01,2021_04_22,US,province_state,NA
+NA,NA,US40,Oklahoma,Oklahoma,U.S.A.,Oklahoma,US40,04,23,6716,3381.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US41,Oregon,Oregon,U.S.A.,Oregon,US41,04,23,2468,1485.625,01,01,2021_04_22,US,province_state,NA
+NA,NA,US42,Pennsylvania,Pennsylvania,U.S.A.,Pennsylvania,US42,04,23,25869,16155,01,01,2021_04_22,US,province_state,NA
+NA,NA,PRI,Puerto Rico,Puerto Rico,Cntry/Terr,Puerto Rico,PRI,04,23,2246,1521,01,01,2021_04_22,US,province_state,NA
+NA,NA,NA,Recovered,Recovered,NA,NA,NA,04,23,0,NA,NA,NA,NA,US,province_state,NA
+NA,NA,US44,Rhode Island,Rhode Island,U.S.A.,Rhode Island,US44,04,23,2660,1883,01,01,2021_04_22,US,province_state,NA
+NA,NA,US45,South Carolina,South Carolina,U.S.A.,South Carolina,US45,04,23,9388,5638.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US46,South Dakota,South Dakota,U.S.A.,South Dakota,US46,04,23,1956,1494.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US47,Tennessee,Tennessee,U.S.A.,Tennessee,US47,04,23,12130,6938.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,US48,Texas,Texas,U.S.A.,Texas,US48,04,23,49818,28359,01,01,2021_04_22,US,province_state,NA
+NA,NA,US49,Utah,Utah,U.S.A.,Utah,US49,04,23,2178,1270.875,01,01,2021_04_22,US,province_state,NA
+NA,NA,US50,Vermont,Vermont,U.S.A.,Vermont,US50,04,23,243,137.5,01,01,2021_04_22,US,province_state,NA
+NA,NA,VIR,United States Virgin Islands,Virgin Islands,Cntry/Terr,United States Virgin Islands,VIR,04,23,27,23,01,01,2021_04_22,US,province_state,NA
+NA,NA,US51,Virginia,Virginia,U.S.A.,Virginia,US51,04,23,10653,5334,01,01,2021_04_22,US,province_state,NA
+NA,NA,US53,Washington,Washington,U.S.A.,Washington,US53,04,23,5428,3897.26086956522,01,01,2021_04_22,US,province_state,NA
+NA,NA,US54,West Virginia,West Virginia,U.S.A.,West Virginia,US54,04,23,2808,1476,01,01,2021_04_22,US,province_state,NA
+NA,NA,US55,Wisconsin,Wisconsin,U.S.A.,Wisconsin,US55,04,23,7438,5254,01,01,2021_04_22,US,province_state,NA
+NA,NA,US56,Wyoming,Wyoming,U.S.A.,Wyoming,US56,04,23,705,443.2,01,01,2021_04_22,US,province_state,NA
+AF,AFG,AFG,Afghanistan,Afghanistan,Cntry/Terr,Afghanistan,AFG,04,23,2561,2202.5,01,01,2021_04_22,NA,country_region,38928341
+AL,ALB,ALB,Albania,Albania,Cntry/Terr,Albania,ALB,04,23,2364,1185.5,01,01,2021_04_22,NA,country_region,2877800
+DZ,DZA,DZA,Algeria,Algeria,Cntry/Terr,Algeria,DZA,04,23,3181,2762,01,01,2021_04_22,NA,country_region,43851043
+AD,AND,AND,Andorra,Andorra,Cntry/Terr,Andorra,AND,04,23,123,84,01,01,2021_04_22,NA,country_region,77265
+AO,AGO,AGO,Angola,Angola,Cntry/Terr,Angola,AGO,04,23,572,406.333333333333,01,01,2021_04_22,NA,country_region,32866268
+AG,ATG,ATG,Antigua and Barbuda,Antigua and Barbuda,Cntry/Terr,NA,NA,04,23,31,NA,NA,NA,NA,NA,country_region,97928
+AR,ARG,ARG,Argentina,Argentina,Cntry/Terr,Argentina,ARG,04,23,60620,43453,01,01,2021_04_22,NA,country_region,45195777
+AM,ARM,ARM,Armenia,Armenia,Cntry/Terr,Armenia,ARM,04,23,3969,2828,01,01,2021_04_22,NA,country_region,2963234
+AU,AUS,AUS,Australia,Australia,Cntry/Terr,Australia,AUS,04,23,910,909,01,01,2021_04_22,NA,country_region,25459700
+AT,AUT,AUT,Austria,Austria,Cntry/Terr,Austria,AUT,04,23,10026,6261,01,01,2021_04_22,NA,country_region,9006400
+AZ,AZE,AZE,Azerbaijan,Azerbaijan,Cntry/Terr,Azerbaijan,AZE,04,23,4274,2670,01,01,2021_04_22,NA,country_region,10139175
+BS,BHS,BHS,Bahamas,Bahamas,Cntry/Terr,Bahamas,BHS,04,23,194,171,01,01,2021_04_22,NA,country_region,393248
+BH,BHR,BHR,Bahrain,Bahrain,Cntry/Terr,Bahrain,BHR,04,23,614,352,01,01,2021_04_22,NA,country_region,1701583
+BD,BGD,BGD,Bangladesh,Bangladesh,Cntry/Terr,Bangladesh,BGD,04,23,10781,15000.48,01,01,2021_04_22,NA,country_region,164689383
+BB,BRB,BRB,Barbados,Barbados,Cntry/Terr,Barbados,BRB,04,23,44,7,01,01,2021_04_22,NA,country_region,287371
+BY,BLR,BLR,Belarus,Belarus,Cntry/Terr,Belarus,BLR,04,23,2463,4843.54,01,01,2021_04_22,NA,country_region,9449321
+BE,BEL,BEL,Belgium,Belgium,Cntry/Terr,Belgium,BEL,04,23,23909,19659,01,01,2021_04_22,NA,country_region,11589616
+BZ,BLZ,BLZ,Belize,Belize,Cntry/Terr,NA,NA,04,23,320,NA,NA,NA,NA,NA,country_region,397621
+BJ,BEN,BEN,Benin,Benin,Cntry/Terr,Benin,BEN,04,23,97,44.4615384615385,01,01,2021_04_22,NA,country_region,12123198
+BT,BTN,BTN,Bhutan,Bhutan,Cntry/Terr,NA,NA,04,23,1,NA,NA,NA,NA,NA,country_region,771612
+BO,BOL,BOL,Bolivia (Plurinational State of),Bolivia,Cntry/Terr,Bolivia (Plurinational State of),BOL,04,23,12758,9229,01,01,2021_04_22,NA,country_region,11673029
+BA,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Cntry/Terr,Bosnia and Herzegovina,BIH,04,23,8164,4086,01,01,2021_04_22,NA,country_region,3280815
+BW,BWA,BWA,Botswana,Botswana,Cntry/Terr,NA,NA,04,23,691,NA,NA,NA,NA,NA,country_region,2351625
+BR,BRA,BRA,Brazil,Brazil,Cntry/Terr,Brazil,BRA,04,23,383502,195778,01,01,2021_04_22,NA,country_region,212559409
+BN,BRN,BRN,Brunei Darussalam,Brunei,Cntry/Terr,NA,NA,04,23,3,NA,NA,NA,NA,NA,country_region,437483
+BG,BGR,BGR,Bulgaria,Bulgaria,Cntry/Terr,Bulgaria,BGR,04,23,15618,7604,01,01,2021_04_22,NA,country_region,6948445
+BF,BFA,BFA,Burkina Faso,Burkina Faso,Cntry/Terr,Burkina Faso,BFA,04,23,156,85.5,01,01,2021_04_22,NA,country_region,20903278
+MM,MMR,MMR,Myanmar,Burma,Cntry/Terr,Myanmar,MMR,04,23,3206,2697,01,01,2021_04_22,NA,country_region,54409794
+BI,BDI,BDI,Burundi,Burundi,Cntry/Terr,NA,NA,04,23,6,NA,NA,NA,NA,NA,country_region,11890781
+CV,CPV,CPV,Cabo Verde,Cabo Verde,Cntry/Terr,Cabo Verde,CPV,04,23,199,113,01,01,2021_04_22,NA,country_region,555988
+KH,KHM,KHM,Cambodia,Cambodia,Cntry/Terr,NA,NA,04,23,59,NA,NA,NA,NA,NA,country_region,16718971
+CM,CMR,CMR,Cameroon,Cameroon,Cntry/Terr,Cameroon,CMR,04,23,939,449.565217391304,01,01,2021_04_22,NA,country_region,26545864
+CA,CAN,CAN,Canada,Canada,Cntry/Terr,Canada,CAN,04,23,23810,15877.75,01,01,2021_04_22,NA,country_region,37855702
+CF,CAF,CAF,Central African Republic,Central African Republic,Cntry/Terr,Central African Republic,CAF,04,23,85,67,01,01,2021_04_22,NA,country_region,4829764
+TD,TCD,TCD,Chad,Chad,Cntry/Terr,Chad,TCD,04,23,169,104,01,01,2021_04_22,NA,country_region,16425859
+CL,CHL,CHL,Chile,Chile,Cntry/Terr,Chile,CHL,04,23,25532,16843,01,01,2021_04_22,NA,country_region,19116209
+CN,CHN,CHN,China,China,Cntry/Terr,China,CHN,04,23,4845,4750,01,01,2021_04_22,NA,country_region,1404676330
+CO,COL,COL,Colombia,Colombia,Cntry/Terr,Colombia,COL,04,23,70026,43495,01,01,2021_04_22,NA,country_region,50882884
+KM,COM,COM,Comoros,Comoros,Cntry/Terr,NA,NA,04,23,146,NA,NA,NA,NA,NA,country_region,869595
+CG,COG,COG,Congo,Congo (Brazzaville),Cntry/Terr,Congo,COG,04,23,139,108.333333333333,01,01,2021_04_22,NA,country_region,5518092
+CD,COD,COD,Democratic Republic of the Congo,Congo (Kinshasa),Cntry/Terr,Democratic Republic of the Congo,COD,04,23,752,593,01,01,2021_04_22,NA,country_region,89561404
+CR,CRI,CRI,Costa Rica,Costa Rica,Cntry/Terr,Costa Rica,CRI,04,23,3125,2196,01,01,2021_04_22,NA,country_region,5094114
+CI,CIV,CIV,Cote d'Ivoire,Cote d'Ivoire,Cntry/Terr,Cote d'Ivoire,CIV,04,23,277,138,01,01,2021_04_22,NA,country_region,26378275
+HR,HRV,HRV,Croatia,Croatia,Cntry/Terr,Croatia,HRV,04,23,6738,3961,01,01,2021_04_22,NA,country_region,4105268
+CU,CUB,CUB,Cuba,Cuba,Cntry/Terr,Cuba,CUB,04,23,559,146,01,01,2021_04_22,NA,country_region,11326616
+CY,CYP,CYP,Cyprus,Cyprus,Cntry/Terr,Cyprus,CYP,04,23,296,127,01,01,2021_04_22,NA,country_region,1207361
+CZ,CZE,CZE,Czechia,Czechia,Cntry/Terr,Czechia,CZE,04,23,28787,11711,01,01,2021_04_22,NA,country_region,10708982
+DK,DNK,DNK,Denmark,Denmark,Cntry/Terr,Denmark,DNK,04,23,2468,1322,01,01,2021_04_22,NA,country_region,5792203
+NA,NA,NA,Diamond Princess,Diamond Princess,NA,NA,NA,04,23,13,NA,NA,NA,NA,NA,country_region,NA
+DJ,DJI,DJI,Djibouti,Djibouti,Cntry/Terr,Djibouti,DJI,04,23,130,61,01,01,2021_04_22,NA,country_region,988002
+DM,DMA,DMA,Dominica,Dominica,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,71991
+DO,DOM,DOM,Dominican Republic,Dominican Republic,Cntry/Terr,Dominican Republic,DOM,04,23,3441,2416,01,01,2021_04_22,NA,country_region,10847904
+EC,ECU,ECU,Ecuador,Ecuador,Cntry/Terr,Ecuador,ECU,04,23,17965,22531.12813,01,01,2021_04_22,NA,country_region,17643060
+EG,EGY,EGY,Egypt,Egypt,Cntry/Terr,Egypt,EGY,04,23,12914,7687,01,01,2021_04_22,NA,country_region,102334403
+SV,SLV,SLV,El Salvador,El Salvador,Cntry/Terr,El Salvador,SLV,04,23,2089,1342.5,01,01,2021_04_22,NA,country_region,6486201
+GQ,GNQ,GNQ,Equatorial Guinea,Equatorial Guinea,Cntry/Terr,Equatorial Guinea,GNQ,04,23,106,86,01,01,2021_04_22,NA,country_region,1402985
+ER,ERI,ERI,Eritrea,Eritrea,Cntry/Terr,NA,NA,04,23,10,NA,NA,NA,NA,NA,country_region,3546427
+EE,EST,EST,Estonia,Estonia,Cntry/Terr,Estonia,EST,04,23,1120,234,01,01,2021_04_22,NA,country_region,1326539
+SZ,SWZ,SWZ,Eswatini,Eswatini,Cntry/Terr,NA,NA,04,23,671,NA,NA,NA,NA,NA,country_region,1160164
+ET,ETH,ETH,Ethiopia,Ethiopia,Cntry/Terr,Ethiopia,ETH,04,23,3496,1937,01,01,2021_04_22,NA,country_region,114963583
+FJ,FJI,FJI,Fiji,Fiji,Cntry/Terr,NA,NA,04,23,2,NA,NA,NA,NA,NA,country_region,896444
+FI,FIN,FIN,Finland,Finland,Cntry/Terr,Finland,FIN,04,23,902,561,01,01,2021_04_22,NA,country_region,5540718
+FR,FRA,FRA,France,France,Cntry/Terr,France,FRA,04,23,102323,60885,01,01,2021_04_22,NA,country_region,65273512
+GA,GAB,GAB,Gabon,Gabon,Cntry/Terr,Gabon,GAB,04,23,136,64.8,01,01,2021_04_22,NA,country_region,2225728
+GM,GMB,GMB,Gambia,Gambia,Cntry/Terr,Gambia,GMB,04,23,173,124,01,01,2021_04_22,NA,country_region,2416664
+GE,GEO,GEO,Georgia,Georgia,Cntry/Terr,Georgia,GEO,04,23,3981,2528,01,01,2021_04_22,NA,country_region,3989175
+GE,GEO,GEO,Georgia,Georgia,Cntry/Terr,Georgia,GEO,04,23,3981,10958,01,01,2021_04_22,NA,country_region,3989175
+DE,DEU,DEU,Germany,Germany,Cntry/Terr,Germany,DEU,04,23,81203,33515.5,01,01,2021_04_22,NA,country_region,83783945
+GH,GHA,GHA,Ghana,Ghana,Cntry/Terr,Ghana,GHA,04,23,777,335.25,01,01,2021_04_22,NA,country_region,31072945
+GR,GRC,GRC,Greece,Greece,Cntry/Terr,Greece,GRC,04,23,9788,4881,01,01,2021_04_22,NA,country_region,10423056
+GD,GRD,GRD,Grenada,Grenada,Cntry/Terr,NA,NA,04,23,1,NA,NA,NA,NA,NA,country_region,112519
+GT,GTM,GTM,Guatemala,Guatemala,Cntry/Terr,Guatemala,GTM,04,23,7345,4820,01,01,2021_04_22,NA,country_region,17915567
+GN,GIN,GIN,Guinea,Guinea,Cntry/Terr,Guinea,GIN,04,23,139,81,01,01,2021_04_22,NA,country_region,13132792
+GW,GNB,GNB,Guinea-Bissau,Guinea-Bissau,Cntry/Terr,Guinea-Bissau,GNB,04,23,66,45,01,01,2021_04_22,NA,country_region,1967998
+GY,GUY,GUY,Guyana,Guyana,Cntry/Terr,Guyana,GUY,04,23,277,164,01,01,2021_04_22,NA,country_region,786559
+HT,HTI,HTI,Haiti,Haiti,Cntry/Terr,Haiti,HTI,04,23,251,236,01,01,2021_04_22,NA,country_region,11402533
+VA,VAT,VAT,Holy See,Holy See,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,809
+HN,HND,HND,Honduras,Honduras,Cntry/Terr,Honduras,HND,04,23,5047,3128,01,01,2021_04_22,NA,country_region,9904608
+HU,HUN,HUN,Hungary,Hungary,Cntry/Terr,Hungary,HUN,04,23,26001,9667,01,01,2021_04_22,NA,country_region,9660350
+IS,ISL,ISL,Iceland,Iceland,Cntry/Terr,Iceland,ISL,04,23,29,29,01,01,2021_04_22,NA,country_region,341250
+IN,IND,IND,India,India,Cntry/Terr,India,IND,04,23,186920,293582.916,01,01,2021_04_22,NA,country_region,1380004385
+ID,IDN,IDN,Indonesia,Indonesia,Cntry/Terr,Indonesia,IDN,04,23,44172,22425,01,01,2021_04_22,NA,country_region,273523621
+IR,IRN,IRN,Iran (Islamic Republic of),Iran,Cntry/Terr,Iran (Islamic Republic of),IRN,04,23,68366,55337,01,01,2021_04_22,NA,country_region,83992953
+IQ,IRQ,IRQ,Iraq,Iraq,Cntry/Terr,Iraq,IRQ,04,23,15128,12824,01,01,2021_04_22,NA,country_region,40222503
+IE,IRL,IRL,Ireland,Ireland,Cntry/Terr,Ireland,IRL,04,23,4866,2248,01,01,2021_04_22,NA,country_region,4937796
+IL,ISR,ISR,Israel,Israel,Cntry/Terr,Israel,ISR,04,23,6346,3356,01,01,2021_04_22,NA,country_region,8655541
+IT,ITA,ITA,Italy,Italy,Cntry/Terr,Italy,ITA,04,23,118357,74661,01,01,2021_04_22,NA,country_region,60461828
+JM,JAM,JAM,Jamaica,Jamaica,Cntry/Terr,Jamaica,JAM,04,23,751,303,01,01,2021_04_22,NA,country_region,2961161
+JP,JPN,JPN,Japan,Japan,Cntry/Terr,Japan,JPN,04,23,9778,3460,01,01,2021_04_22,NA,country_region,126476458
+JO,JOR,JOR,Jordan,Jordan,Cntry/Terr,Jordan,JOR,04,23,8474,3851,01,01,2021_04_22,NA,country_region,10203140
+KZ,KAZ,KAZ,Kazakhstan,Kazakhstan,Cntry/Terr,Kazakhstan,KAZ,04,23,3304,4136,01,01,2021_04_22,NA,country_region,18776707
+KE,KEN,KEN,Kenya,Kenya,Cntry/Terr,Kenya,KEN,04,23,2560,1681,01,01,2021_04_22,NA,country_region,53771300
+NA,NA,KOR,Republic of Korea,"Korea, South",Cntry/Terr,Republic of Korea,KOR,04,23,1811,942,01,01,2021_04_22,NA,country_region,NA
+XK,XKS,NA,Kosovo,Kosovo,NA,NA,NA,04,23,2115,NA,NA,NA,NA,NA,country_region,1810366
+KW,KWT,KWT,Kuwait,Kuwait,Cntry/Terr,Kuwait,KWT,04,23,1493,936,01,01,2021_04_22,NA,country_region,4270563
+KG,KGZ,KGZ,Kyrgyzstan,Kyrgyzstan,Cntry/Terr,Kyrgyzstan,KGZ,04,23,1566,4583.28,01,01,2021_04_22,NA,country_region,6524191
+LA,LAO,LAO,Lao People's Democratic Republic,Laos,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,7275556
+LV,LVA,LVA,Latvia,Latvia,Cntry/Terr,Latvia,LVA,04,23,2088,644,01,01,2021_04_22,NA,country_region,1886202
+LB,LBN,LBN,Lebanon,Lebanon,Cntry/Terr,Lebanon,LBN,04,23,7057,1638,01,01,2021_04_22,NA,country_region,6825442
+LS,LSO,LSO,Lesotho,Lesotho,Cntry/Terr,NA,NA,04,23,316,NA,NA,NA,NA,NA,country_region,2142252
+LR,LBR,LBR,Liberia,Liberia,Cntry/Terr,Liberia,LBR,04,23,85,83.5769230769231,01,01,2021_04_22,NA,country_region,5057677
+LY,LBY,LBY,Libya,Libya,Cntry/Terr,Libya,LBY,04,23,2936,1487,01,01,2021_04_22,NA,country_region,6871287
+LI,LIE,LIE,Liechtenstein,Liechtenstein,Cntry/Terr,NA,NA,04,23,57,NA,NA,NA,NA,NA,country_region,38137
+LT,LTU,LTU,Lithuania,Lithuania,Cntry/Terr,Lithuania,LTU,04,23,3818,1815,01,01,2021_04_22,NA,country_region,2722291
+LU,LUX,LUX,Luxembourg,Luxembourg,Cntry/Terr,Luxembourg,LUX,04,23,790,500.2,01,01,2021_04_22,NA,country_region,625976
+MG,MDG,MDG,Madagascar,Madagascar,Cntry/Terr,Madagascar,MDG,04,23,579,261.833333333333,01,01,2021_04_22,NA,country_region,27691019
+MW,MWI,MWI,Malawi,Malawi,Cntry/Terr,Malawi,MWI,04,23,1145,191,01,01,2021_04_22,NA,country_region,19129955
+MY,MYS,MYS,Malaysia,Malaysia,Cntry/Terr,Malaysia,MYS,04,23,1407,474,01,01,2021_04_22,NA,country_region,32365998
+MV,MDV,MDV,Maldives,Maldives,Cntry/Terr,Maldives,MDV,04,23,71,48,01,01,2021_04_22,NA,country_region,540542
+ML,MLI,MLI,Mali,Mali,Cntry/Terr,Mali,MLI,04,23,456,271,01,01,2021_04_22,NA,country_region,20250834
+MT,MLT,MLT,Malta,Malta,Cntry/Terr,Malta,MLT,04,23,411,219,01,01,2021_04_22,NA,country_region,441539
+MH,MHL,NA,Marshall Islands,Marshall Islands,NA,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,58413
+MR,MRT,MRT,Mauritania,Mauritania,Cntry/Terr,Mauritania,MRT,04,23,454,349,01,01,2021_04_22,NA,country_region,4649660
+MU,MUS,MUS,Mauritius,Mauritius,Cntry/Terr,Mauritius,MUS,04,23,16,10,01,01,2021_04_22,NA,country_region,1271767
+MX,MEX,MEX,Mexico (Country),Mexico,Cntry/Terr,Mexico,MEX,04,23,214079,127992.125,01,01,2021_04_22,NA,country_region,127792286
+FM,FSM,NA,Micronesia,Micronesia,NA,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,113815
+MD,MDA,MDA,Republic of Moldova,Moldova,Cntry/Terr,Republic of Moldova,MDA,04,23,5668,3004,01,01,2021_04_22,NA,country_region,4033963
+MC,MCO,MCO,Monaco,Monaco,Cntry/Terr,NA,NA,04,23,31,NA,NA,NA,NA,NA,country_region,39244
+MN,MNG,MNG,Mongolia,Mongolia,Cntry/Terr,NA,NA,04,23,61,NA,NA,NA,NA,NA,country_region,3278292
+ME,MNE,MNE,Montenegro,Montenegro,Cntry/Terr,Montenegro,MNE,04,23,1451,684,01,01,2021_04_22,NA,country_region,628062
+MA,MAR,MAR,Morocco,Morocco,Cntry/Terr,Morocco,MAR,04,23,8976,7425,01,01,2021_04_22,NA,country_region,36910558
+MZ,MOZ,MOZ,Mozambique,Mozambique,Cntry/Terr,Mozambique,MOZ,04,23,805,167,01,01,2021_04_22,NA,country_region,31255435
+NA,NA,NA,MS Zaandam,MS Zaandam,NA,NA,NA,04,23,2,NA,NA,NA,NA,NA,country_region,NA
+NA,NAM,NAM,Namibia,Namibia,Cntry/Terr,Namibia,NAM,04,23,616,208,01,01,2021_04_22,NA,country_region,2540916
+NP,NPL,NPL,Nepal,Nepal,Cntry/Terr,Nepal,NPL,04,23,3117,2797,01,01,2021_04_22,NA,country_region,29136808
+NL,NLD,NLD,Netherlands,Netherlands,Cntry/Terr,Netherlands,NLD,04,23,17226,11624,01,01,2021_04_22,NA,country_region,17134873
+NZ,NZL,NZL,New Zealand,New Zealand,Cntry/Terr,New Zealand,NZL,04,23,26,25,01,01,2021_04_22,NA,country_region,4822233
+NI,NIC,NIC,Nicaragua,Nicaragua,Cntry/Terr,Nicaragua,NIC,04,23,181,165.428571428571,01,01,2021_04_22,NA,country_region,6624554
+NE,NER,NER,Niger,Niger,Cntry/Terr,Niger,NER,04,23,191,106,01,01,2021_04_22,NA,country_region,24206636
+NG,NGA,NGA,Nigeria,Nigeria,Cntry/Terr,Nigeria,NGA,04,23,2061,1294,01,01,2021_04_22,NA,country_region,206139587
+MK,MKD,MKD,North Macedonia,North Macedonia,Cntry/Terr,North Macedonia,MKD,04,23,4595,2510,01,01,2021_04_22,NA,country_region,2083380
+NO,NOR,NOR,Norway,Norway,Cntry/Terr,Norway,NOR,04,23,735,441.2,01,01,2021_04_22,NA,country_region,5421242
+OM,OMN,OMN,Oman,Oman,Cntry/Terr,Oman,OMN,04,23,1942,1521.66666666667,01,01,2021_04_22,NA,country_region,5106622
+PK,PAK,PAK,Pakistan,Pakistan,Cntry/Terr,Pakistan,PAK,04,23,16842,10258.3076923077,01,01,2021_04_22,NA,country_region,220892331
+PA,PAN,PAN,Panama,Panama,Cntry/Terr,Panama,PAN,04,23,6198,4064,01,01,2021_04_22,NA,country_region,4314768
+PG,PNG,PNG,Papua New Guinea,Papua New Guinea,Cntry/Terr,NA,NA,04,23,99,NA,NA,NA,NA,NA,country_region,8947027
+PY,PRY,PRY,Paraguay,Paraguay,Cntry/Terr,Paraguay,PRY,04,23,5633,2270.5,01,01,2021_04_22,NA,country_region,7132530
+PE,PER,PER,Peru,Peru,Cntry/Terr,Peru,PER,04,23,58604,46203.35842,01,01,2021_04_22,NA,country_region,32971846
+PH,PHL,PHL,Philippines,Philippines,Cntry/Terr,Philippines,PHL,04,23,16370,11348,01,01,2021_04_22,NA,country_region,109581085
+PL,POL,POL,Poland,Poland,Cntry/Terr,Poland,POL,04,23,64168,28956,01,01,2021_04_22,NA,country_region,37846605
+PT,PRT,PRT,Portugal,Portugal,Cntry/Terr,Portugal,PRT,04,23,16956,6972,01,01,2021_04_22,NA,country_region,10196707
+QA,QAT,QAT,Qatar,Qatar,Cntry/Terr,Qatar,QAT,04,23,407,245,01,01,2021_04_22,NA,country_region,2881060
+RO,ROU,ROU,Romania,Romania,Cntry/Terr,Romania,ROU,04,23,26943,15841,01,01,2021_04_22,NA,country_region,19237682
+RU,RUS,RUS,Russian Federation,Russia,Cntry/Terr,Russian Federation,RUS,04,23,105328,191977.24,01,01,2021_04_22,NA,country_region,145934460
+RW,RWA,RWA,Rwanda,Rwanda,Cntry/Terr,Rwanda,RWA,04,23,328,94,01,01,2021_04_22,NA,country_region,12952209
+KN,KNA,KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Cntry/Terr,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,53192
+LC,LCA,LCA,Saint Lucia,Saint Lucia,Cntry/Terr,NA,NA,04,23,70,NA,NA,NA,NA,NA,country_region,183629
+VC,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Cntry/Terr,NA,NA,04,23,10,NA,NA,NA,NA,NA,country_region,110947
+WS,WSM,NA,Samoa,Samoa,NA,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,196130
+SM,SMR,SMR,San Marino,San Marino,Cntry/Terr,San Marino,SMR,04,23,88,59,01,01,2021_04_22,NA,country_region,33938
+ST,STP,STP,Sao Tome and Principe,Sao Tome and Principe,Cntry/Terr,Sao Tome and Principe,STP,04,23,35,17,01,01,2021_04_22,NA,country_region,219161
+SA,SAU,SAU,Saudi Arabia,Saudi Arabia,Cntry/Terr,Saudi Arabia,SAU,04,23,6869,6230,01,01,2021_04_22,NA,country_region,34813867
+SN,SEN,SEN,Senegal,Senegal,Cntry/Terr,Senegal,SEN,04,23,1097,413,01,01,2021_04_22,NA,country_region,16743930
+RS,SRB,SRB,Serbia,Serbia,Cntry/Terr,Serbia,SRB,04,23,6130,3250,01,01,2021_04_22,NA,country_region,8737370
+SC,SYC,SYC,Seychelles,Seychelles,Cntry/Terr,NA,NA,04,23,26,NA,NA,NA,NA,NA,country_region,98340
+SL,SLE,SLE,Sierra Leone,Sierra Leone,Cntry/Terr,Sierra Leone,SLE,04,23,79,76,01,01,2021_04_22,NA,country_region,7976985
+SG,SGP,SGP,Singapore,Singapore,Cntry/Terr,Singapore,SGP,04,23,30,29,01,01,2021_04_22,NA,country_region,5850343
+SK,SVK,SVK,Slovakia,Slovakia,Cntry/Terr,Slovakia,SVK,04,23,11357,2250,01,01,2021_04_22,NA,country_region,5459643
+SI,SVN,SVN,Slovenia,Slovenia,Cntry/Terr,Slovenia,SVN,04,23,4187,2728,01,01,2021_04_22,NA,country_region,2078932
+SB,SLB,NA,Solomon Islands,Solomon Islands,NA,NA,NA,04,23,0,NA,NA,NA,NA,NA,country_region,652858
+SO,SOM,SOM,Somalia,Somalia,Cntry/Terr,Somalia,SOM,04,23,689,130,01,01,2021_04_22,NA,country_region,15893219
+ZA,ZAF,ZAF,South Africa,South Africa,Cntry/Terr,South Africa,ZAF,04,23,53995,28937,01,01,2021_04_22,NA,country_region,59308690
+SS,SSD,SSD,South Sudan,South Sudan,Cntry/Terr,South Sudan,SSD,04,23,114,63,01,01,2021_04_22,NA,country_region,11193729
+ES,ESP,ESP,Spain,Spain,Cntry/Terr,Spain,ESP,04,23,77496,59707.1571428571,01,01,2021_04_22,NA,country_region,46754783
+LK,LKA,LKA,Sri Lanka,Sri Lanka,Cntry/Terr,Sri Lanka,LKA,04,23,634,208,01,01,2021_04_22,NA,country_region,21413250
+SD,SDN,SDN,Sudan,Sudan,Cntry/Terr,Sudan,SDN,04,23,2300,1517.09090909091,01,01,2021_04_22,NA,country_region,43849269
+SR,SUR,SUR,Suriname,Suriname,Cntry/Terr,Suriname,SUR,04,23,191,123,01,01,2021_04_22,NA,country_region,586634
+SE,SWE,SWE,Sweden,Sweden,Cntry/Terr,Sweden,SWE,04,23,13882,9904,01,01,2021_04_22,NA,country_region,10099270
+CH,CHE,CHE,Switzerland,Switzerland,Cntry/Terr,Switzerland,CHE,04,23,10555,7603,01,01,2021_04_22,NA,country_region,8654618
+SY,SYR,SYR,Syrian Arab Republic,Syria,Cntry/Terr,Syrian Arab Republic,SYR,04,23,1496,717,01,01,2021_04_22,NA,country_region,17500657
+TW,TWN,TWN,"China, Taiwan Province of China",Taiwan*,Cntry/Terr,NA,NA,04,23,11,NA,NA,NA,NA,NA,country_region,23816775
+TJ,TJK,TJK,Tajikistan,Tajikistan,Cntry/Terr,Tajikistan,TJK,04,23,90,304.2,01,01,2021_04_22,NA,country_region,9537642
+TZ,TZA,TZA,United Republic of Tanzania,Tanzania,Cntry/Terr,NA,NA,04,23,21,NA,NA,NA,NA,NA,country_region,59734213
+TH,THA,THA,Thailand,Thailand,Cntry/Terr,Thailand,THA,04,23,117,63,01,01,2021_04_22,NA,country_region,69799978
+TL,TLS,TLS,Timor-Leste,Timor-Leste,Cntry/Terr,NA,NA,04,23,3,NA,NA,NA,NA,NA,country_region,1318442
+TG,TGO,TGO,Togo,Togo,Cntry/Terr,Togo,TGO,04,23,121,68,01,01,2021_04_22,NA,country_region,8278737
+TT,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,Cntry/Terr,Trinidad and Tobago,TTO,04,23,157,127,01,01,2021_04_22,NA,country_region,1399491
+TN,TUN,TUN,Tunisia,Tunisia,Cntry/Terr,Tunisia,TUN,04,23,10063,4730,01,01,2021_04_22,NA,country_region,11818618
+TR,TUR,TUR,Turkey,Turkey,Cntry/Terr,Turkey,TUR,04,23,37329,21093,01,01,2021_04_22,NA,country_region,84339067
+UG,UGA,UGA,Uganda,Uganda,Cntry/Terr,Uganda,UGA,04,23,341,264,01,01,2021_04_22,NA,country_region,45741000
+UA,UKR,UKR,Ukraine,Ukraine,Cntry/Terr,Ukraine,UKR,04,23,43041,19437,01,01,2021_04_22,NA,country_region,43733759
+AE,ARE,ARE,United Arab Emirates,United Arab Emirates,Cntry/Terr,United Arab Emirates,ARE,04,23,1565,671,01,01,2021_04_22,NA,country_region,9890400
+GB,GBR,GBR,United Kingdom,United Kingdom,Cntry/Terr,United Kingdom,GBR,04,23,127597,89243,01,01,2021_04_22,NA,country_region,67886004
+UY,URY,URY,Uruguay,Uruguay,Cntry/Terr,Uruguay,URY,04,23,2160,195,01,01,2021_04_22,NA,country_region,3473727
+US,USA,USA,United States of America,US,Cntry/Terr,United States of America,USA,04,23,570345,356708.035869565,01,01,2021_04_22,NA,country_region,329466283
+UZ,UZB,UZB,Uzbekistan,Uzbekistan,Cntry/Terr,Uzbekistan,UZB,04,23,640,2075.32,01,01,2021_04_22,NA,country_region,33469199
+VU,VUT,NA,Vanuatu,Vanuatu,NA,NA,NA,04,23,1,NA,NA,NA,NA,NA,country_region,292680
+VE,VEN,VEN,Venezuela (Bolivarian Republic of),Venezuela,Cntry/Terr,Venezuela (Bolivarian Republic of),VEN,04,23,1987,1545,01,01,2021_04_22,NA,country_region,28435943
+VN,VNM,VNM,Viet Nam,Vietnam,Cntry/Terr,Viet Nam,VNM,04,23,35,35,01,01,2021_04_22,NA,country_region,97338583
+PS,PSE,PSE,State of Palestine,West Bank and Gaza,Cntry/Terr,Palestine,PSE,04,23,3115,1418,01,01,2021_04_22,NA,country_region,5101416
+YE,YEM,YEM,Yemen,Yemen,Cntry/Terr,Yemen,YEM,04,23,1157,610,01,01,2021_04_22,NA,country_region,29825968
+ZM,ZMB,ZMB,Zambia,Zambia,Cntry/Terr,Zambia,ZMB,04,23,1240,390,01,01,2021_04_22,NA,country_region,18383956
+ZW,ZWE,ZWE,Zimbabwe,Zimbabwe,Cntry/Terr,Zimbabwe,ZWE,04,23,1555,369,01,01,2021_04_22,NA,country_region,14862927
+NA,NA,NA,NA,NA,NA,Global,NA,NA,NA,NA,2177574.07808085,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Taiwan (Province of China),NA,NA,NA,NA,7,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Hong Kong Special Administrative Region of China,NA,NA,NA,NA,148,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Northern Ireland,NA,NA,NA,NA,1830,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Scotland,NA,NA,NA,NA,6686,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Wales,NA,NA,NA,NA,4945,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,England,NA,NA,NA,NA,75782,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Andhra Pradesh,NA,NA,NA,NA,14073.84,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Arunachal Pradesh,NA,NA,NA,NA,110.88,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Assam,NA,NA,NA,NA,2086.92,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Bihar,NA,NA,NA,NA,2772,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Chhattisgarh,NA,NA,NA,NA,6732.396,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Delhi,NA,NA,NA,NA,20902.86,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Goa,NA,NA,NA,NA,1463.22,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Gujarat,NA,NA,NA,NA,8529.84,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Haryana,NA,NA,NA,NA,5763.78,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Himachal Pradesh,NA,NA,NA,NA,1829.52,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Jammu & Kashmir and Ladakh,NA,NA,NA,NA,3981.78,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Jharkhand,NA,NA,NA,NA,2039.4,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Karnataka,NA,NA,NA,NA,23963.94,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Kerala,NA,NA,NA,NA,6130.08,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Madhya Pradesh,NA,NA,NA,NA,7165.62,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Maharashtra,NA,NA,NA,NA,98166.42,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Manipur,NA,NA,NA,NA,704.88,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Meghalaya,NA,NA,NA,NA,275.22,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Nagaland,NA,NA,NA,NA,144.54,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Odisha,NA,NA,NA,NA,3819.42,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Punjab,NA,NA,NA,NA,10591.02,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Rajasthan,NA,NA,NA,NA,5346,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Tamil Nadu,NA,NA,NA,NA,24027.3,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Telangana,NA,NA,NA,NA,3061.08,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Tripura,NA,NA,NA,NA,756.36,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Uttar Pradesh,NA,NA,NA,NA,16590.42,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Uttarakhand,NA,NA,NA,NA,2999.7,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,West Bengal,NA,NA,NA,NA,19281.24,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Manitoba,NA,NA,NA,NA,679.5,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Nova Scotia,NA,NA,NA,NA,65,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Saskatchewan,NA,NA,NA,NA,155,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Azad Jammu & Kashmir,NA,NA,NA,NA,224,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Balochistan,NA,NA,NA,NA,184,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Gilgit-Baltistan,NA,NA,NA,NA,101.307692307692,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Islamabad Capital Territory,NA,NA,NA,NA,421,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Khyber Pakhtunkhwa,NA,NA,NA,NA,1661,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Punjab,NA,NA,NA,NA,4085,01,01,2021_04_22,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Sindh,NA,NA,NA,NA,3582,01,01,2021_04_22,NA,NA,NA
