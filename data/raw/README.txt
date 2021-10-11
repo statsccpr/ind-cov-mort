@@ -7,10 +7,6 @@ https://coronavirus.jhu.edu/data
 https://covid19.healthdata.org/
 https://data.cdc.gov/browse?q=covid&sortBy=relevance
 
-daily original sorted into
-/jhu/
-/ihme/
-/cdc/
 
 ## notes 
 * cdc has changed their naming conventions a few times over the 2020-2021 year
@@ -18,6 +14,8 @@ daily original sorted into
 * post 1/30/2021 moving towards historical file in long (longitudinal) format. Now, need to make use of 3 primary keys
 `Data As Of` `Start Date` `End Date` . Can download the longitudinal format at any time T (don't need daily dl) and specify start date end date range to look back retroactively. The `Start Date` sometimes jumps around,, now stretches back to 2020-01
 
-* post 1/30/2021 also has state x sex x age group death counts
+* post 1/30/2021 also has state x sex x age group death counts. Have not adapted raw output to make use of cdc state-level data format
 
-* have not adapted to this new cdc format
+* 2021-10-11 modified script so that since 2021-09-24 
+   - re-enabled cdc as ' tab_input_2.1_cdc.csv '
+   - disabled ihme even though output still named ' tab_locid_jhu_ihme_ez.csv '
