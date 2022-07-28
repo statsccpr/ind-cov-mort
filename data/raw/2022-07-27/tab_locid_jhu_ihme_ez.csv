@@ -1,0 +1,815 @@
+iso2,iso3,LocID,location_fin,location,loc_type_fin,country_region,month,day,deaths,geo_type_valid,population
+NA,NA,NA,Australian Capital Territory,Australian Capital Territory,NA,Australia,07,27,89,province_state,NA
+NA,NA,NA,New South Wales,New South Wales,NA,Australia,07,27,4051,province_state,NA
+NA,NA,NA,Northern Territory,Northern Territory,NA,Australia,07,27,55,province_state,NA
+NA,NA,NA,Queensland,Queensland,NA,Australia,07,27,1510,province_state,NA
+NA,NA,NA,South Australia,South Australia,NA,Australia,07,27,636,province_state,NA
+NA,NA,NA,Tasmania,Tasmania,NA,Australia,07,27,133,province_state,NA
+NA,NA,NA,Victoria,Victoria,NA,Australia,07,27,4433,province_state,NA
+NA,NA,NA,Western Australia,Western Australia,NA,Australia,07,27,479,province_state,NA
+NA,NA,NA,Antwerp,Antwerp,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Brussels,Brussels,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,East Flanders,East Flanders,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Flemish Brabant,Flemish Brabant,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Hainaut,Hainaut,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Liege,Liege,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Limburg,Limburg,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Luxembourg,Luxembourg,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Namur,Namur,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Belgium,07,27,32179,province_state,NA
+NA,NA,NA,Walloon Brabant,Walloon Brabant,NA,Belgium,07,27,0,province_state,NA
+NA,NA,NA,West Flanders,West Flanders,NA,Belgium,07,27,0,province_state,NA
+NA,NA,BR12,Acre,Acre,Brazil,Brazil,07,27,2010,province_state,NA
+NA,NA,BR27,Alagoas,Alagoas,Brazil,Brazil,07,27,7055,province_state,NA
+NA,NA,BR16,Amapa,Amapa,Brazil,Brazil,07,27,2149,province_state,NA
+NA,NA,BR13,Amazonas,Amazonas,Brazil,Brazil,07,27,14215,province_state,NA
+NA,NA,BR29,Bahia,Bahia,Brazil,Brazil,07,27,30301,province_state,NA
+NA,NA,BR23,Ceara,Ceara,Brazil,Brazil,07,27,27386,province_state,NA
+NA,NA,BR53,Distrito Federal,Distrito Federal,Brazil,Brazil,07,27,11817,province_state,NA
+NA,NA,BR32,Espirito Santo,Espirito Santo,Brazil,Brazil,07,27,14676,province_state,NA
+NA,NA,BR52,Goias,Goias,Brazil,Brazil,07,27,27143,province_state,NA
+NA,NA,BR21,Maranhao,Maranhao,Brazil,Brazil,07,27,10931,province_state,NA
+NA,NA,BR51,Mato Grosso,Mato Grosso,Brazil,Brazil,07,27,14851,province_state,NA
+NA,NA,BR50,Mato Grosso do Sul,Mato Grosso do Sul,Brazil,Brazil,07,27,10707,province_state,NA
+NA,NA,BR31,Minas Gerais,Minas Gerais,Brazil,Brazil,07,27,62793,province_state,NA
+NA,NA,BR15,Para,Para,Brazil,Brazil,07,27,18521,province_state,NA
+NA,NA,BR25,Paraiba,Paraiba,Brazil,Brazil,07,27,10345,province_state,NA
+NA,NA,BR41,Parana,Parana,Brazil,Brazil,07,27,44398,province_state,NA
+NA,NA,BR26,Pernambuco,Pernambuco,Brazil,Brazil,07,27,22017,province_state,NA
+NA,NA,BR22,Piaui,Piaui,Brazil,Brazil,07,27,7864,province_state,NA
+NA,NA,BR33,Rio de Janeiro,Rio de Janeiro,Brazil,Brazil,07,27,74693,province_state,NA
+NA,NA,BR24,Rio Grande do Norte,Rio Grande do Norte,Brazil,Brazil,07,27,8342,province_state,NA
+NA,NA,BR43,Rio Grande do Sul,Rio Grande do Sul,Brazil,Brazil,07,27,40389,province_state,NA
+NA,NA,BR11,Rondonia,Rondonia,Brazil,Brazil,07,27,7292,province_state,NA
+NA,NA,BR14,Roraima,Roraima,Brazil,Brazil,07,27,2158,province_state,NA
+NA,NA,BR42,Santa Catarina,Santa Catarina,Brazil,Brazil,07,27,22196,province_state,NA
+NA,NA,BR35,Sao Paulo,Sao Paulo,Brazil,Brazil,07,27,172654,province_state,NA
+NA,NA,BR28,Sergipe,Sergipe,Brazil,Brazil,07,27,6408,province_state,NA
+NA,NA,BR17,Tocantins,Tocantins,Brazil,Brazil,07,27,4183,province_state,NA
+NA,NA,NA,Alberta,Alberta,Canada,Canada,07,27,4652,province_state,NA
+NA,NA,NA,British Columbia,British Columbia,Canada,Canada,07,27,3855,province_state,NA
+NA,NA,NA,Diamond Princess,Diamond Princess,NA,Canada,07,27,1,province_state,NA
+NA,NA,NA,Grand Princess,Grand Princess,NA,Canada,07,27,0,province_state,NA
+NA,NA,NA,Manitoba,Manitoba,NA,Canada,07,27,2056,province_state,NA
+NA,NA,NA,New Brunswick,New Brunswick,NA,Canada,07,27,438,province_state,NA
+NA,NA,NA,Newfoundland and Labrador,Newfoundland and Labrador,NA,Canada,07,27,200,province_state,NA
+NA,NA,NA,Northwest Territories,Northwest Territories,NA,Canada,07,27,22,province_state,NA
+NA,NA,NA,Nova Scotia,Nova Scotia,NA,Canada,07,27,461,province_state,NA
+NA,NA,NA,Nunavut,Nunavut,NA,Canada,07,27,7,province_state,NA
+NA,NA,NA,Ontario,Ontario,Canada,Canada,07,27,13644,province_state,NA
+NA,NA,NA,Prince Edward Island,Prince Edward Island,NA,Canada,07,27,48,province_state,NA
+NA,NA,NA,Quebec,Quebec,Canada,Canada,07,27,15891,province_state,NA
+NA,NA,NA,Repatriated Travellers,Repatriated Travellers,NA,Canada,07,27,0,province_state,NA
+NA,NA,NA,Saskatchewan,Saskatchewan,NA,Canada,07,27,1438,province_state,NA
+NA,NA,NA,Yukon,Yukon,NA,Canada,07,27,26,province_state,NA
+NA,NA,NA,Antofagasta,Antofagasta,NA,Chile,07,27,1811,province_state,NA
+NA,NA,NA,Araucania,Araucania,NA,Chile,07,27,2621,province_state,NA
+NA,NA,NA,Arica y Parinacota,Arica y Parinacota,NA,Chile,07,27,823,province_state,NA
+NA,NA,NA,Atacama,Atacama,NA,Chile,07,27,632,province_state,NA
+NA,NA,NA,Aysen,Aysen,NA,Chile,07,27,188,province_state,NA
+NA,NA,NA,Biobio,Biobio,NA,Chile,07,27,4391,province_state,NA
+NA,NA,NA,Coquimbo,Coquimbo,NA,Chile,07,27,1750,province_state,NA
+NA,NA,NA,Los Lagos,Los Lagos,NA,Chile,07,27,2363,province_state,NA
+NA,NA,NA,Los Rios,Los Rios,NA,Chile,07,27,1245,province_state,NA
+NA,NA,NA,Magallanes,Magallanes,NA,Chile,07,27,721,province_state,NA
+NA,NA,NA,Maule,Maule,NA,Chile,07,27,3008,province_state,NA
+NA,NA,NA,Metropolitana,Metropolitana,NA,Chile,07,27,29105,province_state,NA
+NA,NA,NA,Nuble,Nuble,NA,Chile,07,27,1139,province_state,NA
+NA,NA,NA,OHiggins,OHiggins,NA,Chile,07,27,2603,province_state,NA
+NA,NA,NA,Tarapaca,Tarapaca,NA,Chile,07,27,1099,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Chile,07,27,2,province_state,NA
+NA,NA,NA,Valparaiso,Valparaiso,NA,Chile,07,27,5892,province_state,NA
+NA,NA,CN12,Anhui,Anhui,China,China,07,27,6,province_state,NA
+NA,NA,CN01,Beijing,Beijing,China,China,07,27,9,province_state,NA
+NA,NA,CN22,Chongqing,Chongqing,China,China,07,27,6,province_state,NA
+NA,NA,CN13,Fujian,Fujian,China,China,07,27,1,province_state,NA
+NA,NA,CN28,Gansu,Gansu,China,China,07,27,2,province_state,NA
+NA,NA,CN19,Guangdong,Guangdong,China,China,07,27,8,province_state,NA
+NA,NA,CN20,Guangxi,Guangxi,China,China,07,27,2,province_state,NA
+NA,NA,CN24,Guizhou,Guizhou,China,China,07,27,2,province_state,NA
+NA,NA,CN21,Hainan,Hainan,China,China,07,27,6,province_state,NA
+NA,NA,CN03,Hebei,Hebei,China,China,07,27,7,province_state,NA
+NA,NA,CN08,Heilongjiang,Heilongjiang,China,China,07,27,13,province_state,NA
+NA,NA,CN16,Henan,Henan,China,China,07,27,22,province_state,NA
+NA,NA,HKG,"China, Hong Kong SAR",Hong Kong,Cntry/Terr,China,07,27,9478,province_state,NA
+NA,NA,CN17,Hubei,Hubei,China,China,07,27,4512,province_state,NA
+NA,NA,CN18,Hunan,Hunan,China,China,07,27,4,province_state,NA
+NA,NA,CN05,Inner Mongolia,Inner Mongolia,China,China,07,27,1,province_state,NA
+NA,NA,CN10,Jiangsu,Jiangsu,China,China,07,27,0,province_state,NA
+NA,NA,CN14,Jiangxi,Jiangxi,China,China,07,27,1,province_state,NA
+NA,NA,CN07,Jilin,Jilin,China,China,07,27,5,province_state,NA
+NA,NA,CN06,Liaoning,Liaoning,China,China,07,27,2,province_state,NA
+NA,NA,MAC,"China, Macao SAR",Macau,Cntry/Terr,China,07,27,6,province_state,NA
+NA,NA,CN30,Ningxia,Ningxia,China,China,07,27,0,province_state,NA
+NA,NA,CN29,Qinghai,Qinghai,China,China,07,27,0,province_state,NA
+NA,NA,CN27,Shaanxi,Shaanxi,China,China,07,27,3,province_state,NA
+NA,NA,CN15,Shandong,Shandong,China,China,07,27,7,province_state,NA
+NA,NA,CN09,Shanghai,Shanghai,China,China,07,27,595,province_state,NA
+NA,NA,CN04,Shanxi,Shanxi,China,China,07,27,0,province_state,NA
+NA,NA,CN23,Sichuan,Sichuan,China,China,07,27,3,province_state,NA
+NA,NA,CN02,Tianjin,Tianjin,China,China,07,27,3,province_state,NA
+NA,NA,CN26,Tibet (Xizang),Tibet,China,China,07,27,0,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,China,07,27,0,province_state,NA
+NA,NA,CN31,Xinjiang,Xinjiang,China,China,07,27,3,province_state,NA
+NA,NA,CN25,Yunnan,Yunnan,China,China,07,27,2,province_state,NA
+NA,NA,CN11,Zhejiang,Zhejiang,China,China,07,27,1,province_state,NA
+NA,NA,BR13,Amazonas,Amazonas,Brazil,Colombia,07,27,265,province_state,NA
+NA,NA,NA,Antioquia,Antioquia,NA,Colombia,07,27,18371,province_state,NA
+NA,NA,NA,Arauca,Arauca,NA,Colombia,07,27,544,province_state,NA
+NA,NA,NA,Atlantico,Atlantico,NA,Colombia,07,27,10163,province_state,NA
+NA,NA,NA,Bolivar,Bolivar,NA,Colombia,07,27,3256,province_state,NA
+NA,NA,NA,Boyaca,Boyaca,NA,Colombia,07,27,2806,province_state,NA
+NA,NA,NA,Caldas,Caldas,NA,Colombia,07,27,2533,province_state,NA
+NA,NA,NA,Capital District,Capital District,NA,Colombia,07,27,29562,province_state,NA
+NA,NA,NA,Caqueta,Caqueta,NA,Colombia,07,27,1032,province_state,NA
+NA,NA,NA,Casanare,Casanare,NA,Colombia,07,27,1012,province_state,NA
+NA,NA,NA,Cauca,Cauca,NA,Colombia,07,27,1801,province_state,NA
+NA,NA,NA,Cesar,Cesar,NA,Colombia,07,27,2676,province_state,NA
+NA,NA,NA,Choco,Choco,NA,Colombia,07,27,429,province_state,NA
+NA,NA,NA,Cordoba,Cordoba,NA,Colombia,07,27,3947,province_state,NA
+NA,NA,NA,Cundinamarca,Cundinamarca,NA,Colombia,07,27,7316,province_state,NA
+NA,NA,NA,Guainia,Guainia,NA,Colombia,07,27,37,province_state,NA
+NA,NA,NA,Guaviare,Guaviare,NA,Colombia,07,27,105,province_state,NA
+NA,NA,NA,Huila,Huila,NA,Colombia,07,27,3532,province_state,NA
+NA,NA,NA,La Guajira,La Guajira,NA,Colombia,07,27,1534,province_state,NA
+NA,NA,NA,Magdalena,Magdalena,NA,Colombia,07,27,3638,province_state,NA
+NA,NA,NA,Meta,Meta,NA,Colombia,07,27,2561,province_state,NA
+NA,NA,NA,Narino,Narino,NA,Colombia,07,27,3324,province_state,NA
+NA,NA,NA,Norte de Santander,Norte de Santander,NA,Colombia,07,27,5123,province_state,NA
+NA,NA,NA,Putumayo,Putumayo,NA,Colombia,07,27,776,province_state,NA
+NA,NA,NA,Quindio,Quindio,NA,Colombia,07,27,2061,province_state,NA
+NA,NA,NA,Risaralda,Risaralda,NA,Colombia,07,27,2475,province_state,NA
+NA,NA,NA,San Andres y Providencia,San Andres y Providencia,NA,Colombia,07,27,155,province_state,NA
+NA,NA,NA,Santander,Santander,NA,Colombia,07,27,8228,province_state,NA
+NA,NA,NA,Sucre,Sucre,NA,Colombia,07,27,1735,province_state,NA
+NA,NA,NA,Tolima,Tolima,NA,Colombia,07,27,4035,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Colombia,07,27,300,province_state,NA
+NA,NA,NA,Valle del Cauca,Valle del Cauca,NA,Colombia,07,27,15187,province_state,NA
+NA,NA,NA,Vaupes,Vaupes,NA,Colombia,07,27,22,province_state,NA
+NA,NA,NA,Vichada,Vichada,NA,Colombia,07,27,62,province_state,NA
+NA,NA,FRO,Faroe Islands,Faroe Islands,Cntry/Terr,Denmark,07,27,28,province_state,NA
+NA,NA,GRL,Greenland,Greenland,Cntry/Terr,Denmark,07,27,21,province_state,NA
+NA,NA,GUF,French Guiana,French Guiana,Cntry/Terr,France,07,27,404,province_state,NA
+NA,NA,PYF,French Polynesia,French Polynesia,Cntry/Terr,France,07,27,649,province_state,NA
+NA,NA,GLP,Guadeloupe,Guadeloupe,Cntry/Terr,France,07,27,965,province_state,NA
+NA,NA,MTQ,Martinique,Martinique,Cntry/Terr,France,07,27,992,province_state,NA
+NA,NA,MYT,Mayotte,Mayotte,Cntry/Terr,France,07,27,187,province_state,NA
+NA,NA,NCL,New Caledonia,New Caledonia,Cntry/Terr,France,07,27,314,province_state,NA
+NA,NA,REU,Reunion,Reunion,Cntry/Terr,France,07,27,825,province_state,NA
+NA,NA,BLM,Saint Barthelemy,Saint Barthelemy,Cntry/Terr,France,07,27,6,province_state,NA
+NA,NA,SPM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Cntry/Terr,France,07,27,1,province_state,NA
+NA,NA,MAF,Saint Martin (French part),St Martin,Cntry/Terr,France,07,27,63,province_state,NA
+NA,NA,NA,Wallis and Futuna,Wallis and Futuna,NA,France,07,27,7,province_state,NA
+NA,NA,NA,Baden-Wurttemberg,Baden-Wurttemberg,Germany,Germany,07,27,16554,province_state,NA
+NA,NA,NA,Bayern,Bayern,Germany,Germany,07,27,24826,province_state,NA
+NA,NA,NA,Berlin,Berlin,Germany,Germany,07,27,4699,province_state,NA
+NA,NA,NA,Brandenburg,Brandenburg,Germany,Germany,07,27,5763,province_state,NA
+NA,NA,NA,Bremen,Bremen,Germany,Germany,07,27,809,province_state,NA
+NA,NA,NA,Hamburg,Hamburg,Germany,Germany,07,27,2809,province_state,NA
+NA,NA,NA,Hessen,Hessen,Germany,Germany,07,27,10590,province_state,NA
+NA,NA,NA,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Germany,Germany,07,27,2322,province_state,NA
+NA,NA,NA,Niedersachsen,Niedersachsen,Germany,Germany,07,27,9945,province_state,NA
+NA,NA,NA,Nordrhein-Westfalen,Nordrhein-Westfalen,Germany,Germany,07,27,26271,province_state,NA
+NA,NA,NA,Rheinland-Pfalz,Rheinland-Pfalz,Germany,Germany,07,27,5903,province_state,NA
+NA,NA,NA,Saarland,Saarland,Germany,Germany,07,27,1766,province_state,NA
+NA,NA,NA,Sachsen,Sachsen,Germany,Germany,07,27,15674,province_state,NA
+NA,NA,NA,Sachsen-Anhalt,Sachsen-Anhalt,Germany,Germany,07,27,5472,province_state,NA
+NA,NA,NA,Schleswig-Holstein,Schleswig-Holstein,Germany,Germany,07,27,2709,province_state,NA
+NA,NA,NA,Thuringen,Thuringen,Germany,Germany,07,27,7433,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Germany,07,27,0,province_state,NA
+NA,NA,NA,Andaman and Nicobar Islands,Andaman and Nicobar Islands,NA,India,07,27,129,province_state,NA
+NA,NA,NA,Andhra Pradesh,Andhra Pradesh,NA,India,07,27,14733,province_state,NA
+NA,NA,NA,Arunachal Pradesh,Arunachal Pradesh,NA,India,07,27,296,province_state,NA
+NA,NA,NA,Assam,Assam,NA,India,07,27,8014,province_state,NA
+NA,NA,NA,Bihar,Bihar,NA,India,07,27,12282,province_state,NA
+NA,NA,NA,Chandigarh,Chandigarh,NA,India,07,27,1166,province_state,NA
+NA,NA,NA,Chhattisgarh,Chhattisgarh,NA,India,07,27,14059,province_state,NA
+NA,NA,NA,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli and Daman and Diu,NA,India,07,27,4,province_state,NA
+NA,NA,NA,Delhi,Delhi,NA,India,07,27,26305,province_state,NA
+NA,NA,NA,Goa,Goa,NA,India,07,27,3849,province_state,NA
+NA,NA,NA,Gujarat,Gujarat,NA,India,07,27,10964,province_state,NA
+NA,NA,NA,Haryana,Haryana,NA,India,07,27,10635,province_state,NA
+NA,NA,NA,Himachal Pradesh,Himachal Pradesh,NA,India,07,27,4157,province_state,NA
+NA,NA,NA,Jammu and Kashmir,Jammu and Kashmir,NA,India,07,27,4763,province_state,NA
+NA,NA,NA,Jharkhand,Jharkhand,NA,India,07,27,5327,province_state,NA
+NA,NA,NA,Karnataka,Karnataka,NA,India,07,27,40134,province_state,NA
+NA,NA,NA,Kerala,Kerala,NA,India,07,27,70412,province_state,NA
+NA,NA,NA,Ladakh,Ladakh,NA,India,07,27,228,province_state,NA
+NA,NA,NA,Lakshadweep,Lakshadweep,NA,India,07,27,52,province_state,NA
+NA,NA,NA,Madhya Pradesh,Madhya Pradesh,NA,India,07,27,10749,province_state,NA
+NA,NA,NA,Maharashtra,Maharashtra,NA,India,07,27,148080,province_state,NA
+NA,NA,NA,Manipur,Manipur,NA,India,07,27,2126,province_state,NA
+NA,NA,NA,Meghalaya,Meghalaya,NA,India,07,27,1605,province_state,NA
+NA,NA,NA,Mizoram,Mizoram,NA,India,07,27,708,province_state,NA
+NA,NA,NA,Nagaland,Nagaland,NA,India,07,27,768,province_state,NA
+NA,NA,NA,Odisha,Odisha,NA,India,07,27,9135,province_state,NA
+NA,NA,NA,Puducherry,Puducherry,NA,India,07,27,1965,province_state,NA
+NA,NA,NA,Punjab,Punjab,NA,India,07,27,17807,province_state,NA
+NA,NA,NA,Rajasthan,Rajasthan,NA,India,07,27,9577,province_state,NA
+NA,NA,NA,Sikkim,Sikkim,NA,India,07,27,468,province_state,NA
+NA,NA,NA,Tamil Nadu,Tamil Nadu,NA,India,07,27,38032,province_state,NA
+NA,NA,NA,Telangana,Telangana,NA,India,07,27,4111,province_state,NA
+NA,NA,NA,Tripura,Tripura,NA,India,07,27,927,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,India,07,27,0,province_state,NA
+NA,NA,NA,Uttar Pradesh,Uttar Pradesh,NA,India,07,27,23561,province_state,NA
+NA,NA,NA,Uttarakhand,Uttarakhand,NA,India,07,27,7705,province_state,NA
+NA,NA,NA,West Bengal,West Bengal,NA,India,07,27,21334,province_state,NA
+NA,NA,IT13,Abruzzo,Abruzzo,Italy,Italy,07,27,3446,province_state,NA
+NA,NA,IT17,Basilicata,Basilicata,Italy,Italy,07,27,964,province_state,NA
+NA,NA,IT18,Calabria,Calabria,Italy,Italy,07,27,2789,province_state,NA
+NA,NA,IT15,Campania,Campania,Italy,Italy,07,27,10822,province_state,NA
+NA,NA,IT08,Emilia-Romagna,Emilia-Romagna,Italy,Italy,07,27,17418,province_state,NA
+NA,NA,IT06,Friuli-Venezia Giulia,Friuli Venezia Giulia,Italy,Italy,07,27,5228,province_state,NA
+NA,NA,IT12,Lazio,Lazio,Italy,Italy,07,27,11690,province_state,NA
+NA,NA,IT07,Liguria,Liguria,Italy,Italy,07,27,5415,province_state,NA
+NA,NA,IT03,Lombardia,Lombardia,Italy,Italy,07,27,41403,province_state,NA
+NA,NA,IT11,Marche,Marche,Italy,Italy,07,27,3999,province_state,NA
+NA,NA,IT14,Molise,Molise,Italy,Italy,07,27,649,province_state,NA
+NA,NA,IT21,Bolzano (Provincia autonoma di),P.A. Bolzano,Italy,Italy,07,27,1507,province_state,NA
+NA,NA,IT22,Trento (Provincia autonoma di),P.A. Trento,Italy,Italy,07,27,1580,province_state,NA
+NA,NA,IT01,Piemonte,Piemonte,Italy,Italy,07,27,13526,province_state,NA
+NA,NA,IT16,Puglia,Puglia,Italy,Italy,07,27,8782,province_state,NA
+NA,NA,IT20,Sardegna,Sardegna,Italy,Italy,07,27,2581,province_state,NA
+NA,NA,IT19,Sicilia,Sicilia,Italy,Italy,07,27,11563,province_state,NA
+NA,NA,IT09,Toscana,Toscana,Italy,Italy,07,27,10366,province_state,NA
+NA,NA,IT10,Umbria,Umbria,Italy,Italy,07,27,1937,province_state,NA
+NA,NA,IT02,Valle d'Aosta/Vallee d'Aoste,Valle d'Aosta,Italy,Italy,07,27,544,province_state,NA
+NA,NA,IT05,Veneto,Veneto,Italy,Italy,07,27,15023,province_state,NA
+NA,NA,NA,Aichi,Aichi,NA,Japan,07,27,2127,province_state,NA
+NA,NA,NA,Akita,Akita,NA,Japan,07,27,77,province_state,NA
+NA,NA,NA,Aomori,Aomori,NA,Japan,07,27,131,province_state,NA
+NA,NA,NA,Chiba,Chiba,NA,Japan,07,27,1833,province_state,NA
+NA,NA,NA,Ehime,Ehime,NA,Japan,07,27,148,province_state,NA
+NA,NA,NA,Fukui,Fukui,NA,Japan,07,27,53,province_state,NA
+NA,NA,NA,Fukuoka,Fukuoka,NA,Japan,07,27,1326,province_state,NA
+NA,NA,NA,Fukushima,Fukushima,NA,Japan,07,27,229,province_state,NA
+NA,NA,NA,Gifu,Gifu,NA,Japan,07,27,358,province_state,NA
+NA,NA,NA,Gunma,Gunma,NA,Japan,07,27,334,province_state,NA
+NA,NA,NA,Hiroshima,Hiroshima,NA,Japan,07,27,513,province_state,NA
+NA,NA,NA,Hokkaido,Hokkaido,NA,Japan,07,27,2123,province_state,NA
+NA,NA,NA,Hyogo,Hyogo,NA,Japan,07,27,2286,province_state,NA
+NA,NA,NA,Ibaraki,Ibaraki,NA,Japan,07,27,466,province_state,NA
+NA,NA,NA,Ishikawa,Ishikawa,NA,Japan,07,27,200,province_state,NA
+NA,NA,NA,Iwate,Iwate,NA,Japan,07,27,105,province_state,NA
+NA,NA,NA,Kagawa,Kagawa,NA,Japan,07,27,139,province_state,NA
+NA,NA,NA,Kagoshima,Kagoshima,NA,Japan,07,27,221,province_state,NA
+NA,NA,NA,Kanagawa,Kanagawa,NA,Japan,07,27,2282,province_state,NA
+NA,NA,NA,Kochi,Kochi,NA,Japan,07,27,119,province_state,NA
+NA,NA,NA,Kumamoto,Kumamoto,NA,Japan,07,27,352,province_state,NA
+NA,NA,NA,Kyoto,Kyoto,NA,Japan,07,27,766,province_state,NA
+NA,NA,NA,Mie,Mie,NA,Japan,07,27,328,province_state,NA
+NA,NA,NA,Miyagi,Miyagi,NA,Japan,07,27,207,province_state,NA
+NA,NA,NA,Miyazaki,Miyazaki,NA,Japan,07,27,159,province_state,NA
+NA,NA,NA,Nagano,Nagano,NA,Japan,07,27,209,province_state,NA
+NA,NA,NA,Nagasaki,Nagasaki,NA,Japan,07,27,137,province_state,NA
+NA,NA,NA,Nara,Nara,NA,Japan,07,27,404,province_state,NA
+NA,NA,NA,Niigata,Niigata,NA,Japan,07,27,91,province_state,NA
+NA,NA,NA,Oita,Oita,NA,Japan,07,27,178,province_state,NA
+NA,NA,NA,Okayama,Okayama,NA,Japan,07,27,256,province_state,NA
+NA,NA,NA,Okinawa,Okinawa,NA,Japan,07,27,507,province_state,NA
+NA,NA,NA,Osaka,Osaka,NA,Japan,07,27,5277,province_state,NA
+NA,NA,NA,Port Quarantine,Port Quarantine,NA,Japan,07,27,4,province_state,NA
+NA,NA,NA,Saga,Saga,NA,Japan,07,27,122,province_state,NA
+NA,NA,NA,Saitama,Saitama,NA,Japan,07,27,1670,province_state,NA
+NA,NA,NA,Shiga,Shiga,NA,Japan,07,27,225,province_state,NA
+NA,NA,NA,Shimane,Shimane,NA,Japan,07,27,38,province_state,NA
+NA,NA,NA,Shizuoka,Shizuoka,NA,Japan,07,27,439,province_state,NA
+NA,NA,NA,Tochigi,Tochigi,NA,Japan,07,27,288,province_state,NA
+NA,NA,NA,Tokushima,Tokushima,NA,Japan,07,27,88,province_state,NA
+NA,NA,NA,Tokyo,Tokyo,NA,Japan,07,27,4631,province_state,NA
+NA,NA,NA,Tottori,Tottori,NA,Japan,07,27,23,province_state,NA
+NA,NA,NA,Toyama,Toyama,NA,Japan,07,27,100,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Japan,07,27,0,province_state,NA
+NA,NA,NA,Wakayama,Wakayama,NA,Japan,07,27,124,province_state,NA
+NA,NA,NA,Yamagata,Yamagata,NA,Japan,07,27,103,province_state,NA
+NA,NA,NA,Yamaguchi,Yamaguchi,NA,Japan,07,27,194,province_state,NA
+NA,NA,NA,Yamanashi,Yamanashi,NA,Japan,07,27,71,province_state,NA
+NA,NA,NA,Johor,Johor,NA,Malaysia,07,27,4553,province_state,NA
+NA,NA,NA,Kedah,Kedah,NA,Malaysia,07,27,2664,province_state,NA
+NA,NA,NA,Kelantan,Kelantan,NA,Malaysia,07,27,1421,province_state,NA
+NA,NA,NA,Melaka,Melaka,NA,Malaysia,07,27,1152,province_state,NA
+NA,NA,NA,Negeri Sembilan,Negeri Sembilan,NA,Malaysia,07,27,1487,province_state,NA
+NA,NA,NA,Pahang,Pahang,NA,Malaysia,07,27,987,province_state,NA
+NA,NA,NA,Perak,Perak,NA,Malaysia,07,27,1964,province_state,NA
+NA,NA,NA,Perlis,Perlis,NA,Malaysia,07,27,188,province_state,NA
+NA,NA,NA,Pulau Pinang,Pulau Pinang,NA,Malaysia,07,27,2007,province_state,NA
+NA,NA,NA,Sabah,Sabah,NA,Malaysia,07,27,3134,province_state,NA
+NA,NA,NA,Sarawak,Sarawak,NA,Malaysia,07,27,1746,province_state,NA
+NA,NA,NA,Selangor,Selangor,NA,Malaysia,07,27,10750,province_state,NA
+NA,NA,NA,Terengganu,Terengganu,NA,Malaysia,07,27,873,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Malaysia,07,27,0,province_state,NA
+NA,NA,NA,W.P. Kuala Lumpur,W.P. Kuala Lumpur,NA,Malaysia,07,27,2822,province_state,NA
+NA,NA,NA,W.P. Labuan,W.P. Labuan,NA,Malaysia,07,27,155,province_state,NA
+NA,NA,NA,W.P. Putrajaya,W.P. Putrajaya,NA,Malaysia,07,27,29,province_state,NA
+NA,NA,MX01,Aguascalientes,Aguascalientes,Mexico,Mexico,07,27,3526,province_state,NA
+NA,NA,MX02,Baja California,Baja California,Mexico,Mexico,07,27,12343,province_state,NA
+NA,NA,MX03,Baja California Sur,Baja California Sur,Mexico,Mexico,07,27,2708,province_state,NA
+NA,NA,MX04,Campeche,Campeche,Mexico,Mexico,07,27,2266,province_state,NA
+NA,NA,MX07,Chiapas,Chiapas,Mexico,Mexico,07,27,2421,province_state,NA
+NA,NA,MX08,Chihuahua,Chihuahua,Mexico,Mexico,07,27,10039,province_state,NA
+NA,NA,MX09,Ciudad de Mexico,Ciudad de Mexico,Mexico,Mexico,07,27,43188,province_state,NA
+NA,NA,MX05,Coahuila de Zaragoza,Coahuila,Mexico,Mexico,07,27,8858,province_state,NA
+NA,NA,MX06,Colima,Colima,Mexico,Mexico,07,27,2217,province_state,NA
+NA,NA,MX10,Durango,Durango,Mexico,Mexico,07,27,3650,province_state,NA
+NA,NA,MX11,Guanajuato,Guanajuato,Mexico,Mexico,07,27,14932,province_state,NA
+NA,NA,MX12,Guerrero,Guerrero,Mexico,Mexico,07,27,6786,province_state,NA
+NA,NA,MX13,Hidalgo,Hidalgo,Mexico,Mexico,07,27,8456,province_state,NA
+NA,NA,MX14,Jalisco,Jalisco,Mexico,Mexico,07,27,19819,province_state,NA
+NA,NA,MX15,Mexico (State),Mexico,Mexico,Mexico,07,27,47537,province_state,NA
+NA,NA,MX16,Michoacan de Ocampo,Michoacan,Mexico,Mexico,07,27,8883,province_state,NA
+NA,NA,MX17,Morelos,Morelos,Mexico,Mexico,07,27,5289,province_state,NA
+NA,NA,MX18,Nayarit,Nayarit,Mexico,Mexico,07,27,3213,province_state,NA
+NA,NA,MX19,Nuevo Leon,Nuevo Leon,Mexico,Mexico,07,27,15152,province_state,NA
+NA,NA,MX20,Oaxaca,Oaxaca,Mexico,Mexico,07,27,6257,province_state,NA
+NA,NA,MX21,Puebla,Puebla,Mexico,Mexico,07,27,16529,province_state,NA
+NA,NA,MX22,Queretaro,Queretaro,Mexico,Mexico,07,27,6235,province_state,NA
+NA,NA,MX23,Quintana Roo,Quintana Roo,Mexico,Mexico,07,27,4405,province_state,NA
+NA,NA,MX24,San Luis Potosi,San Luis Potosi,Mexico,Mexico,07,27,7541,province_state,NA
+NA,NA,MX25,Sinaloa,Sinaloa,Mexico,Mexico,07,27,9830,province_state,NA
+NA,NA,MX26,Sonora,Sonora,Mexico,Mexico,07,27,10218,province_state,NA
+NA,NA,MX27,Tabasco,Tabasco,Mexico,Mexico,07,27,6083,province_state,NA
+NA,NA,MX28,Tamaulipas,Tamaulipas,Mexico,Mexico,07,27,8087,province_state,NA
+NA,NA,MX29,Tlaxcala,Tlaxcala,Mexico,Mexico,07,27,3099,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Mexico,07,27,0,province_state,NA
+NA,NA,MX30,Veracruz de Ignacio de la Llave,Veracruz,Mexico,Mexico,07,27,16795,province_state,NA
+NA,NA,MX31,Yucatan,Yucatan,Mexico,Mexico,07,27,6874,province_state,NA
+NA,NA,MX32,Zacatecas,Zacatecas,Mexico,Mexico,07,27,3873,province_state,NA
+NA,NA,ABW,Aruba,Aruba,Cntry/Terr,Netherlands,07,27,224,province_state,NA
+NA,NA,BES,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Cntry/Terr,Netherlands,07,27,37,province_state,NA
+NA,NA,CUW,Curacao,Curacao,Cntry/Terr,Netherlands,07,27,282,province_state,NA
+NA,NA,NA,Drenthe,Drenthe,NA,Netherlands,07,27,456,province_state,NA
+NA,NA,NA,Flevoland,Flevoland,NA,Netherlands,07,27,335,province_state,NA
+NA,NA,NA,Friesland,Friesland,NA,Netherlands,07,27,618,province_state,NA
+NA,NA,NA,Gelderland,Gelderland,NA,Netherlands,07,27,2834,province_state,NA
+NA,NA,NA,Groningen,Groningen,NA,Netherlands,07,27,358,province_state,NA
+NA,NA,NA,Limburg,Limburg,NA,Netherlands,07,27,2178,province_state,NA
+NA,NA,NA,Noord-Brabant,Noord-Brabant,NA,Netherlands,07,27,3722,province_state,NA
+NA,NA,NA,Noord-Holland,Noord-Holland,NA,Netherlands,07,27,3415,province_state,NA
+NA,NA,NA,Overijssel,Overijssel,NA,Netherlands,07,27,1426,province_state,NA
+NA,NA,SXM,Siint Maarten (Dutch part),Sint Maarten,Cntry/Terr,Netherlands,07,27,87,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Netherlands,07,27,0,province_state,NA
+NA,NA,NA,Utrecht,Utrecht,NA,Netherlands,07,27,1545,province_state,NA
+NA,NA,NA,Zeeland,Zeeland,NA,Netherlands,07,27,392,province_state,NA
+NA,NA,NA,Zuid-Holland,Zuid-Holland,NA,Netherlands,07,27,5197,province_state,NA
+NA,NA,NA,Cook Islands,Cook Islands,NA,New Zealand,07,27,1,province_state,NA
+NA,NA,NA,Azad Jammu and Kashmir,Azad Jammu and Kashmir,NA,Pakistan,07,27,793,province_state,NA
+NA,NA,NA,Balochistan,Balochistan,NA,Pakistan,07,27,378,province_state,NA
+NA,NA,NA,Gilgit-Baltistan,Gilgit-Baltistan,NA,Pakistan,07,27,191,province_state,NA
+NA,NA,NA,Islamabad,Islamabad,NA,Pakistan,07,27,1027,province_state,NA
+NA,NA,NA,Khyber Pakhtunkhwa,Khyber Pakhtunkhwa,NA,Pakistan,07,27,6329,province_state,NA
+NA,NA,NA,Punjab,Punjab,NA,Pakistan,07,27,13587,province_state,NA
+NA,NA,NA,Sindh,Sindh,NA,Pakistan,07,27,8169,province_state,NA
+NA,NA,BR13,Amazonas,Amazonas,Brazil,Peru,07,27,1353,province_state,NA
+NA,NA,PE02,Ancash,Ancash,Peru,Peru,07,27,7246,province_state,NA
+NA,NA,PE03,Apurimac,Apurimac,Peru,Peru,07,27,1647,province_state,NA
+NA,NA,PE04,Arequipa,Arequipa,Peru,Peru,07,27,10403,province_state,NA
+NA,NA,PE05,Ayacucho,Ayacucho,Peru,Peru,07,27,2347,province_state,NA
+NA,NA,PE06,Cajamarca,Cajamarca,Peru,Peru,07,27,4490,province_state,NA
+NA,NA,PE07,Callao,Callao,Peru,Peru,07,27,10551,province_state,NA
+NA,NA,PE08,Cusco,Cusco,Peru,Peru,07,27,5220,province_state,NA
+NA,NA,PE09,Huancavelica,Huancavelica,Peru,Peru,07,27,1283,province_state,NA
+NA,NA,PE10,Huanuco,Huanuco,Peru,Peru,07,27,2908,province_state,NA
+NA,NA,PE11,Ica,Ica,Peru,Peru,07,27,8972,province_state,NA
+NA,NA,PE12,Junin,Junin,Peru,Peru,07,27,7511,province_state,NA
+NA,NA,PE13,La Libertad,La Libertad,Peru,Peru,07,27,10897,province_state,NA
+NA,NA,PE14,Lambayeque,Lambayeque,Peru,Peru,07,27,9262,province_state,NA
+NA,NA,PE15,Lima,Lima,Peru,Peru,07,27,93655,province_state,NA
+NA,NA,PE16,Loreto,Loreto,Peru,Peru,07,27,4404,province_state,NA
+NA,NA,PE17,Madre de Dios,Madre de Dios,Peru,Peru,07,27,862,province_state,NA
+NA,NA,PE18,Moquegua,Moquegua,Peru,Peru,07,27,1643,province_state,NA
+NA,NA,PE19,Pasco,Pasco,Peru,Peru,07,27,1113,province_state,NA
+NA,NA,PE20,Piura,Piura,Peru,Peru,07,27,13129,province_state,NA
+NA,NA,PE21,Puno,Puno,Peru,Peru,07,27,4833,province_state,NA
+NA,NA,PE22,San Martin,San Martin,Peru,Peru,07,27,3178,province_state,NA
+NA,NA,PE23,Tacna,Tacna,Peru,Peru,07,27,2151,province_state,NA
+NA,NA,PE24,Tumbes,Tumbes,Peru,Peru,07,27,1699,province_state,NA
+NA,NA,PE25,Ucayali,Ucayali,Peru,Peru,07,27,3271,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Peru,07,27,84,province_state,NA
+NA,NA,NA,Adygea Republic,Adygea Republic,NA,Russia,07,27,1003,province_state,NA
+NA,NA,NA,Altai Krai,Altai Krai,NA,Russia,07,27,8696,province_state,NA
+NA,NA,NA,Altai Republic,Altai Republic,NA,Russia,07,27,622,province_state,NA
+NA,NA,NA,Amur Oblast,Amur Oblast,NA,Russia,07,27,764,province_state,NA
+NA,NA,NA,Arkhangelsk Oblast,Arkhangelsk Oblast,NA,Russia,07,27,1766,province_state,NA
+NA,NA,NA,Astrakhan Oblast,Astrakhan Oblast,NA,Russia,07,27,3024,province_state,NA
+NA,NA,NA,Bashkortostan Republic,Bashkortostan Republic,NA,Russia,07,27,5769,province_state,NA
+NA,NA,NA,Belgorod Oblast,Belgorod Oblast,NA,Russia,07,27,2282,province_state,NA
+NA,NA,NA,Bryansk Oblast,Bryansk Oblast,NA,Russia,07,27,4043,province_state,NA
+NA,NA,NA,Buryatia Republic,Buryatia Republic,NA,Russia,07,27,3036,province_state,NA
+NA,NA,NA,Chechen Republic,Chechen Republic,NA,Russia,07,27,1076,province_state,NA
+NA,NA,NA,Chelyabinsk Oblast,Chelyabinsk Oblast,NA,Russia,07,27,7821,province_state,NA
+NA,NA,NA,Chukotka Autonomous Okrug,Chukotka Autonomous Okrug,NA,Russia,07,27,42,province_state,NA
+NA,NA,NA,Chuvashia Republic,Chuvashia Republic,NA,Russia,07,27,4653,province_state,NA
+NA,NA,NA,Dagestan Republic,Dagestan Republic,NA,Russia,07,27,3594,province_state,NA
+NA,NA,NA,Ingushetia Republic,Ingushetia Republic,NA,Russia,07,27,550,province_state,NA
+NA,NA,NA,Irkutsk Oblast,Irkutsk Oblast,NA,Russia,07,27,8498,province_state,NA
+NA,NA,NA,Ivanovo Oblast,Ivanovo Oblast,NA,Russia,07,27,3144,province_state,NA
+NA,NA,NA,Jewish Autonomous Okrug,Jewish Autonomous Okrug,NA,Russia,07,27,555,province_state,NA
+NA,NA,NA,Kabardino-Balkarian Republic,Kabardino-Balkarian Republic,NA,Russia,07,27,1883,province_state,NA
+NA,NA,NA,Kaliningrad Oblast,Kaliningrad Oblast,NA,Russia,07,27,1935,province_state,NA
+NA,NA,NA,Kalmykia Republic,Kalmykia Republic,NA,Russia,07,27,843,province_state,NA
+NA,NA,NA,Kaluga Oblast,Kaluga Oblast,NA,Russia,07,27,1453,province_state,NA
+NA,NA,NA,Kamchatka Krai,Kamchatka Krai,NA,Russia,07,27,617,province_state,NA
+NA,NA,NA,Karachay-Cherkess Republic,Karachay-Cherkess Republic,NA,Russia,07,27,984,province_state,NA
+NA,NA,NA,Karelia Republic,Karelia Republic,NA,Russia,07,27,1520,province_state,NA
+NA,NA,NA,Kemerovo Oblast,Kemerovo Oblast,NA,Russia,07,27,2506,province_state,NA
+NA,NA,NA,Khabarovsk Krai,Khabarovsk Krai,NA,Russia,07,27,1560,province_state,NA
+NA,NA,NA,Khakassia Republic,Khakassia Republic,NA,Russia,07,27,2415,province_state,NA
+NA,NA,NA,Khanty-Mansi Autonomous Okrug,Khanty-Mansi Autonomous Okrug,NA,Russia,07,27,2557,province_state,NA
+NA,NA,NA,Kirov Oblast,Kirov Oblast,NA,Russia,07,27,1053,province_state,NA
+NA,NA,NA,Komi Republic,Komi Republic,NA,Russia,07,27,3201,province_state,NA
+NA,NA,NA,Kostroma Oblast,Kostroma Oblast,NA,Russia,07,27,1408,province_state,NA
+NA,NA,NA,Krasnodar Krai,Krasnodar Krai,NA,Russia,07,27,10977,province_state,NA
+NA,NA,NA,Krasnoyarsk Krai,Krasnoyarsk Krai,NA,Russia,07,27,10908,province_state,NA
+NA,NA,NA,Kurgan Oblast,Kurgan Oblast,NA,Russia,07,27,1444,province_state,NA
+NA,NA,NA,Kursk Oblast,Kursk Oblast,NA,Russia,07,27,2496,province_state,NA
+NA,NA,NA,Leningrad Oblast,Leningrad Oblast,NA,Russia,07,27,3493,province_state,NA
+NA,NA,NA,Lipetsk Oblast,Lipetsk Oblast,NA,Russia,07,27,3804,province_state,NA
+NA,NA,NA,Magadan Oblast,Magadan Oblast,NA,Russia,07,27,390,province_state,NA
+NA,NA,NA,Mari El Republic,Mari El Republic,NA,Russia,07,27,1087,province_state,NA
+NA,NA,NA,Mordovia Republic,Mordovia Republic,NA,Russia,07,27,1393,province_state,NA
+NA,NA,NA,Moscow,Moscow,NA,Russia,07,27,44406,province_state,NA
+NA,NA,NA,Moscow Oblast,Moscow Oblast,NA,Russia,07,27,15197,province_state,NA
+NA,NA,NA,Murmansk Oblast,Murmansk Oblast,NA,Russia,07,27,3337,province_state,NA
+NA,NA,NA,Nenets Autonomous Okrug,Nenets Autonomous Okrug,NA,Russia,07,27,101,province_state,NA
+NA,NA,NA,Nizhny Novgorod Oblast,Nizhny Novgorod Oblast,NA,Russia,07,27,11596,province_state,NA
+NA,NA,NA,North Ossetia - Alania Republic,North Ossetia - Alania Republic,NA,Russia,07,27,1255,province_state,NA
+NA,NA,NA,Novgorod Oblast,Novgorod Oblast,NA,Russia,07,27,1036,province_state,NA
+NA,NA,NA,Novosibirsk Oblast,Novosibirsk Oblast,NA,Russia,07,27,5697,province_state,NA
+NA,NA,NA,Omsk Oblast,Omsk Oblast,NA,Russia,07,27,4429,province_state,NA
+NA,NA,NA,Orel Oblast,Orel Oblast,NA,Russia,07,27,1933,province_state,NA
+NA,NA,NA,Orenburg Oblast,Orenburg Oblast,NA,Russia,07,27,4026,province_state,NA
+NA,NA,NA,Penza Oblast,Penza Oblast,NA,Russia,07,27,5984,province_state,NA
+NA,NA,NA,Perm Krai,Perm Krai,NA,Russia,07,27,8851,province_state,NA
+NA,NA,NA,Primorsky Krai,Primorsky Krai,NA,Russia,07,27,1966,province_state,NA
+NA,NA,NA,Pskov Oblast,Pskov Oblast,NA,Russia,07,27,1879,province_state,NA
+NA,NA,NA,Rostov Oblast,Rostov Oblast,NA,Russia,07,27,10966,province_state,NA
+NA,NA,NA,Ryazan Oblast,Ryazan Oblast,NA,Russia,07,27,3416,province_state,NA
+NA,NA,NA,Saint Petersburg,Saint Petersburg,NA,Russia,07,27,34303,province_state,NA
+NA,NA,NA,Sakha (Yakutiya) Republic,Sakha (Yakutiya) Republic,NA,Russia,07,27,2121,province_state,NA
+NA,NA,NA,Sakhalin Oblast,Sakhalin Oblast,NA,Russia,07,27,828,province_state,NA
+NA,NA,NA,Samara Oblast,Samara Oblast,NA,Russia,07,27,7925,province_state,NA
+NA,NA,NA,Saratov Oblast,Saratov Oblast,NA,Russia,07,27,6001,province_state,NA
+NA,NA,NA,Smolensk Oblast,Smolensk Oblast,NA,Russia,07,27,3084,province_state,NA
+NA,NA,NA,Stavropol Krai,Stavropol Krai,NA,Russia,07,27,7092,province_state,NA
+NA,NA,NA,Sverdlovsk Oblast,Sverdlovsk Oblast,NA,Russia,07,27,10775,province_state,NA
+NA,NA,NA,Tambov Oblast,Tambov Oblast,NA,Russia,07,27,2446,province_state,NA
+NA,NA,NA,Tatarstan Republic,Tatarstan Republic,NA,Russia,07,27,1996,province_state,NA
+NA,NA,NA,Tomsk Oblast,Tomsk Oblast,NA,Russia,07,27,867,province_state,NA
+NA,NA,NA,Tula Oblast,Tula Oblast,NA,Russia,07,27,5246,province_state,NA
+NA,NA,NA,Tver Oblast,Tver Oblast,NA,Russia,07,27,2756,province_state,NA
+NA,NA,NA,Tyumen Oblast,Tyumen Oblast,NA,Russia,07,27,4339,province_state,NA
+NA,NA,NA,Tyva Republic,Tyva Republic,NA,Russia,07,27,353,province_state,NA
+NA,NA,NA,Udmurt Republic,Udmurt Republic,NA,Russia,07,27,3847,province_state,NA
+NA,NA,NA,Ulyanovsk Oblast,Ulyanovsk Oblast,NA,Russia,07,27,4725,province_state,NA
+NA,NA,NA,Vladimir Oblast,Vladimir Oblast,NA,Russia,07,27,3497,province_state,NA
+NA,NA,NA,Volgograd Oblast,Volgograd Oblast,NA,Russia,07,27,6895,province_state,NA
+NA,NA,NA,Vologda Oblast,Vologda Oblast,NA,Russia,07,27,3877,province_state,NA
+NA,NA,NA,Voronezh Oblast,Voronezh Oblast,NA,Russia,07,27,8355,province_state,NA
+NA,NA,NA,Yamalo-Nenets Autonomous Okrug,Yamalo-Nenets Autonomous Okrug,NA,Russia,07,27,1043,province_state,NA
+NA,NA,NA,Yaroslavl Oblast,Yaroslavl Oblast,NA,Russia,07,27,2830,province_state,NA
+NA,NA,NA,Zabaykalsky Krai,Zabaykalsky Krai,NA,Russia,07,27,2349,province_state,NA
+NA,NA,ES01,Andalucia,Andalusia,Spain,Spain,07,27,14111,province_state,NA
+NA,NA,ES02,Aragon,Aragon,Spain,Spain,07,27,4996,province_state,NA
+NA,NA,ES03,Asturias (Principado de),Asturias,Spain,Spain,07,27,3004,province_state,NA
+NA,NA,ES04,Balears (Illes),Baleares,Spain,Spain,07,27,1455,province_state,NA
+NA,NA,ES10,Comunitat Valenciana,C. Valenciana,Spain,Spain,07,27,9703,province_state,NA
+NA,NA,ES05,Canarias,Canarias,Spain,Spain,07,27,1928,province_state,NA
+NA,NA,ES06,Cantabria,Cantabria,Spain,Spain,07,27,933,province_state,NA
+NA,NA,ES08,Castilla-La Mancha,Castilla - La Mancha,Spain,Spain,07,27,7625,province_state,NA
+NA,NA,ES07,Castilla y Leon,Castilla y Leon,Spain,Spain,07,27,8929,province_state,NA
+NA,NA,ES09,Catalunia,Catalonia,Spain,Spain,07,27,19981,province_state,NA
+NA,NA,ES18,Ceuta,Ceuta,Spain,Spain,07,27,175,province_state,NA
+NA,NA,ES11,Extremadura,Extremadura,Spain,Spain,07,27,2545,province_state,NA
+NA,NA,ES12,Galicia,Galicia,Spain,Spain,07,27,3785,province_state,NA
+NA,NA,ES17,"Rioja, La",La Rioja,Spain,Spain,07,27,935,province_state,NA
+NA,NA,ES13,Madrid (Comunidad de),Madrid,Spain,Spain,07,27,19037,province_state,NA
+NA,NA,ES19,Melilla,Melilla,Spain,Spain,07,27,174,province_state,NA
+NA,NA,ES14,Murcia (Region de),Murcia,Spain,Spain,07,27,2383,province_state,NA
+NA,NA,ES15,Navarra (C. Foral de),Navarra,Spain,Spain,07,27,1646,province_state,NA
+NA,NA,ES16,Pais Vasco,Pais Vasco,Spain,Spain,07,27,7049,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Spain,07,27,0,province_state,NA
+NA,NA,NA,Blekinge,Blekinge,NA,Sweden,07,27,169,province_state,NA
+NA,NA,NA,Dalarna,Dalarna,NA,Sweden,07,27,493,province_state,NA
+NA,NA,NA,Gavleborg,Gavleborg,NA,Sweden,07,27,718,province_state,NA
+NA,NA,NA,Gotland,Gotland,NA,Sweden,07,27,72,province_state,NA
+NA,NA,NA,Halland,Halland,NA,Sweden,07,27,465,province_state,NA
+NA,NA,NA,Jamtland Harjedalen,Jamtland Harjedalen,NA,Sweden,07,27,180,province_state,NA
+NA,NA,NA,Jonkoping,Jonkoping,NA,Sweden,07,27,696,province_state,NA
+NA,NA,NA,Kalmar,Kalmar,NA,Sweden,07,27,360,province_state,NA
+NA,NA,NA,Kronoberg,Kronoberg,NA,Sweden,07,27,391,province_state,NA
+NA,NA,NA,Norrbotten,Norrbotten,NA,Sweden,07,27,415,province_state,NA
+NA,NA,NA,Orebro,Orebro,NA,Sweden,07,27,484,province_state,NA
+NA,NA,NA,Ostergotland,Ostergotland,NA,Sweden,07,27,828,province_state,NA
+NA,NA,NA,Skane,Skane,NA,Sweden,07,27,2405,province_state,NA
+NA,NA,NA,Sormland,Sormland,NA,Sweden,07,27,603,province_state,NA
+NA,NA,NA,Stockholm,Stockholm,NA,Sweden,07,27,5315,province_state,NA
+NA,NA,NA,Uppsala,Uppsala,NA,Sweden,07,27,692,province_state,NA
+NA,NA,NA,Varmland,Varmland,NA,Sweden,07,27,359,province_state,NA
+NA,NA,NA,Vasterbotten,Vasterbotten,NA,Sweden,07,27,332,province_state,NA
+NA,NA,NA,Vasternorrland,Vasternorrland,NA,Sweden,07,27,625,province_state,NA
+NA,NA,NA,Vastmanland,Vastmanland,NA,Sweden,07,27,498,province_state,NA
+NA,NA,NA,Vastra Gotaland,Vastra Gotaland,NA,Sweden,07,27,3149,province_state,NA
+NA,NA,NA,Cherkasy Oblast,Cherkasy Oblast,NA,Ukraine,07,27,2973,province_state,NA
+NA,NA,NA,Chernihiv Oblast,Chernihiv Oblast,NA,Ukraine,07,27,2751,province_state,NA
+NA,NA,NA,Chernivtsi Oblast,Chernivtsi Oblast,NA,Ukraine,07,27,3290,province_state,NA
+NA,NA,NA,Crimea Republic*,Crimea Republic*,NA,Ukraine,07,27,5339,province_state,NA
+NA,NA,NA,Dnipropetrovsk Oblast,Dnipropetrovsk Oblast,NA,Ukraine,07,27,9454,province_state,NA
+NA,NA,NA,Donetsk Oblast,Donetsk Oblast,NA,Ukraine,07,27,5607,province_state,NA
+NA,NA,NA,Ivano-Frankivsk Oblast,Ivano-Frankivsk Oblast,NA,Ukraine,07,27,3476,province_state,NA
+NA,NA,NA,Kharkiv Oblast,Kharkiv Oblast,NA,Ukraine,07,27,6858,province_state,NA
+NA,NA,NA,Kherson Oblast,Kherson Oblast,NA,Ukraine,07,27,2881,province_state,NA
+NA,NA,NA,Khmelnytskyi Oblast,Khmelnytskyi Oblast,NA,Ukraine,07,27,3703,province_state,NA
+NA,NA,NA,Kiev,Kiev,NA,Ukraine,07,27,8966,province_state,NA
+NA,NA,NA,Kiev Oblast,Kiev Oblast,NA,Ukraine,07,27,5019,province_state,NA
+NA,NA,NA,Kirovohrad Oblast,Kirovohrad Oblast,NA,Ukraine,07,27,1741,province_state,NA
+NA,NA,NA,Luhansk Oblast,Luhansk Oblast,NA,Ukraine,07,27,2392,province_state,NA
+NA,NA,NA,Lviv Oblast,Lviv Oblast,NA,Ukraine,07,27,6569,province_state,NA
+NA,NA,NA,Mykolaiv Oblast,Mykolaiv Oblast,NA,Ukraine,07,27,3530,province_state,NA
+NA,NA,NA,Odessa Oblast,Odessa Oblast,NA,Ukraine,07,27,5917,province_state,NA
+NA,NA,NA,Poltava Oblast,Poltava Oblast,NA,Ukraine,07,27,4181,province_state,NA
+NA,NA,NA,Rivne Oblast,Rivne Oblast,NA,Ukraine,07,27,2530,province_state,NA
+NA,NA,NA,Sevastopol*,Sevastopol*,NA,Ukraine,07,27,2407,province_state,NA
+NA,NA,NA,Sumy Oblast,Sumy Oblast,NA,Ukraine,07,27,3208,province_state,NA
+NA,NA,NA,Ternopil Oblast,Ternopil Oblast,NA,Ukraine,07,27,2391,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,Ukraine,07,27,3194,province_state,NA
+NA,NA,NA,Vinnytsia Oblast,Vinnytsia Oblast,NA,Ukraine,07,27,3546,province_state,NA
+NA,NA,NA,Volyn Oblast,Volyn Oblast,NA,Ukraine,07,27,2394,province_state,NA
+NA,NA,NA,Zakarpattia Oblast,Zakarpattia Oblast,NA,Ukraine,07,27,2724,province_state,NA
+NA,NA,NA,Zaporizhia Oblast,Zaporizhia Oblast,NA,Ukraine,07,27,5866,province_state,NA
+NA,NA,NA,Zhytomyr Oblast,Zhytomyr Oblast,NA,Ukraine,07,27,3538,province_state,NA
+NA,NA,AIA,Anguilla,Anguilla,Cntry/Terr,United Kingdom,07,27,10,province_state,NA
+NA,NA,BMU,Bermuda,Bermuda,Cntry/Terr,United Kingdom,07,27,144,province_state,NA
+NA,NA,VGB,British Virgin Islands,British Virgin Islands,Cntry/Terr,United Kingdom,07,27,63,province_state,NA
+NA,NA,CYM,Cayman Islands,Cayman Islands,Cntry/Terr,United Kingdom,07,27,29,province_state,NA
+NA,NA,CHI,Channel Islands,Channel Islands,Cntry/Terr,United Kingdom,07,27,0,province_state,NA
+NA,NA,NA,England,England,NA,United Kingdom,07,27,159288,province_state,NA
+NA,NA,FLK,Falkland Islands (Malvinas),Falkland Islands (Malvinas),Cntry/Terr,United Kingdom,07,27,0,province_state,NA
+NA,NA,GIB,Gilbraltar,Gibraltar,Cntry/Terr,United Kingdom,07,27,105,province_state,NA
+NA,NA,NA,Guernsey,Guernsey,NA,United Kingdom,07,27,54,province_state,NA
+NA,NA,IMN,Isle of Man,Isle of Man,Cntry/Terr,United Kingdom,07,27,111,province_state,NA
+NA,NA,NA,Jersey,Jersey,NA,United Kingdom,07,27,132,province_state,NA
+NA,NA,MSR,Montserrat,Montserrat,Cntry/Terr,United Kingdom,07,27,8,province_state,NA
+NA,NA,NA,Northern Ireland,Northern Ireland,NA,United Kingdom,07,27,3445,province_state,NA
+NA,NA,NA,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",NA,United Kingdom,07,27,0,province_state,NA
+NA,NA,NA,Scotland,Scotland,NA,United Kingdom,07,27,12389,province_state,NA
+NA,NA,TCA,Turks and Caicos Islands,Turks and Caicos Islands,Cntry/Terr,United Kingdom,07,27,36,province_state,NA
+NA,NA,NA,Unknown,Unknown,NA,United Kingdom,07,27,0,province_state,NA
+NA,NA,NA,Wales,Wales,NA,United Kingdom,07,27,7605,province_state,NA
+NA,NA,US01,Alabama,Alabama,U.S.A.,US,07,27,19889,province_state,NA
+NA,NA,US02,Alaska,Alaska,U.S.A.,US,07,27,1309,province_state,NA
+NA,NA,NA,American Samoa,American Samoa,NA,US,07,27,33,province_state,NA
+NA,NA,US04,Arizona,Arizona,U.S.A.,US,07,27,30698,province_state,NA
+NA,NA,US05,Arkansas,Arkansas,U.S.A.,US,07,27,11678,province_state,NA
+NA,NA,US06,California,California,U.S.A.,US,07,27,93319,province_state,NA
+NA,NA,US08,Colorado,Colorado,U.S.A.,US,07,27,12950,province_state,NA
+NA,NA,US09,Connecticut,Connecticut,U.S.A.,US,07,27,11099,province_state,NA
+NA,NA,US10,Delaware,Delaware,U.S.A.,US,07,27,3024,province_state,NA
+NA,NA,NA,Diamond Princess,Diamond Princess,NA,US,07,27,0,province_state,NA
+NA,NA,US11,District of Columbia,District of Columbia,U.S.A.,US,07,27,1363,province_state,NA
+NA,NA,US12,Florida,Florida,U.S.A.,US,07,27,77286,province_state,NA
+NA,NA,US13,Georgia (USA),Georgia,U.S.A.,US,07,27,38933,province_state,NA
+NA,NA,NA,Grand Princess,Grand Princess,NA,US,07,27,3,province_state,NA
+NA,NA,GUM,Guam,Guam,Cntry/Terr,US,07,27,377,province_state,NA
+NA,NA,US15,Hawaii,Hawaii,U.S.A.,US,07,27,1548,province_state,NA
+NA,NA,US16,Idaho,Idaho,U.S.A.,US,07,27,5017,province_state,NA
+NA,NA,US17,Illinois,Illinois,U.S.A.,US,07,27,38830,province_state,NA
+NA,NA,US18,Indiana,Indiana,U.S.A.,US,07,27,24063,province_state,NA
+NA,NA,US19,Iowa,Iowa,U.S.A.,US,07,27,9759,province_state,NA
+NA,NA,US20,Kansas,Kansas,U.S.A.,US,07,27,8966,province_state,NA
+NA,NA,US21,Kentucky,Kentucky,U.S.A.,US,07,27,16361,province_state,NA
+NA,NA,US22,Louisiana,Louisiana,U.S.A.,US,07,27,17522,province_state,NA
+NA,NA,US23,Maine,Maine,U.S.A.,US,07,27,2465,province_state,NA
+NA,NA,US24,Maryland,Maryland,U.S.A.,US,07,27,14942,province_state,NA
+NA,NA,US25,Massachusetts,Massachusetts,U.S.A.,US,07,27,21127,province_state,NA
+NA,NA,US26,Michigan,Michigan,U.S.A.,US,07,27,37428,province_state,NA
+NA,NA,US27,Minnesota,Minnesota,U.S.A.,US,07,27,13242,province_state,NA
+NA,NA,US28,Mississippi,Mississippi,U.S.A.,US,07,27,12609,province_state,NA
+NA,NA,US29,Missouri,Missouri,U.S.A.,US,07,27,21082,province_state,NA
+NA,NA,US30,Montana,Montana,U.S.A.,US,07,27,3467,province_state,NA
+NA,NA,US31,Nebraska,Nebraska,U.S.A.,US,07,27,4366,province_state,NA
+NA,NA,US32,Nevada,Nevada,U.S.A.,US,07,27,11189,province_state,NA
+NA,NA,US33,New Hampshire,New Hampshire,U.S.A.,US,07,27,2623,province_state,NA
+NA,NA,US34,New Jersey,New Jersey,U.S.A.,US,07,27,34240,province_state,NA
+NA,NA,US35,New Mexico,New Mexico,U.S.A.,US,07,27,8207,province_state,NA
+NA,NA,US36,New York,New York,U.S.A.,US,07,27,70187,province_state,NA
+NA,NA,US37,North Carolina,North Carolina,U.S.A.,US,07,27,25435,province_state,NA
+NA,NA,US38,North Dakota,North Dakota,U.S.A.,US,07,27,2304,province_state,NA
+NA,NA,MNP,Northern Marianas,Northern Mariana Islands,Cntry/Terr,US,07,27,37,province_state,NA
+NA,NA,US39,Ohio,Ohio,U.S.A.,US,07,27,38981,province_state,NA
+NA,NA,US40,Oklahoma,Oklahoma,U.S.A.,US,07,27,16216,province_state,NA
+NA,NA,US41,Oregon,Oregon,U.S.A.,US,07,27,8043,province_state,NA
+NA,NA,US42,Pennsylvania,Pennsylvania,U.S.A.,US,07,27,46047,province_state,NA
+NA,NA,PRI,Puerto Rico,Puerto Rico,Cntry/Terr,US,07,27,4732,province_state,NA
+NA,NA,NA,Recovered,Recovered,NA,US,07,27,0,province_state,NA
+NA,NA,US44,Rhode Island,Rhode Island,U.S.A.,US,07,27,3628,province_state,NA
+NA,NA,US45,South Carolina,South Carolina,U.S.A.,US,07,27,18192,province_state,NA
+NA,NA,US46,South Dakota,South Dakota,U.S.A.,US,07,27,2947,province_state,NA
+NA,NA,US47,Tennessee,Tennessee,U.S.A.,US,07,27,26952,province_state,NA
+NA,NA,US48,Texas,Texas,U.S.A.,US,07,27,89154,province_state,NA
+NA,NA,US49,Utah,Utah,U.S.A.,US,07,27,4884,province_state,NA
+NA,NA,US50,Vermont,Vermont,U.S.A.,US,07,27,689,province_state,NA
+NA,NA,VIR,United States Virgin Islands,Virgin Islands,Cntry/Terr,US,07,27,120,province_state,NA
+NA,NA,US51,Virginia,Virginia,U.S.A.,US,07,27,20877,province_state,NA
+NA,NA,US53,Washington,Washington,U.S.A.,US,07,27,13561,province_state,NA
+NA,NA,US54,West Virginia,West Virginia,U.S.A.,US,07,27,7129,province_state,NA
+NA,NA,US55,Wisconsin,Wisconsin,U.S.A.,US,07,27,14900,province_state,NA
+NA,NA,US56,Wyoming,Wyoming,U.S.A.,US,07,27,1857,province_state,NA
+AF,AFG,AFG,Afghanistan,Afghanistan,Cntry/Terr,NA,07,27,7742,country_region,38928341
+AL,ALB,ALB,Albania,Albania,Cntry/Terr,NA,07,27,3532,country_region,2877800
+DZ,DZA,DZA,Algeria,Algeria,Cntry/Terr,NA,07,27,6876,country_region,43851043
+AD,AND,AND,Andorra,Andorra,Cntry/Terr,NA,07,27,153,country_region,77265
+AO,AGO,AGO,Angola,Angola,Cntry/Terr,NA,07,27,1912,country_region,32866268
+AQ,ATA,NA,Antarctica,Antarctica,NA,NA,07,27,0,country_region,NA
+AG,ATG,ATG,Antigua and Barbuda,Antigua and Barbuda,Cntry/Terr,NA,07,27,144,country_region,97928
+AR,ARG,ARG,Argentina,Argentina,Cntry/Terr,NA,07,27,129278,country_region,45195777
+AM,ARM,ARM,Armenia,Armenia,Cntry/Terr,NA,07,27,8633,country_region,2963234
+AU,AUS,AUS,Australia,Australia,Cntry/Terr,NA,07,27,11386,country_region,25459700
+AT,AUT,AUT,Austria,Austria,Cntry/Terr,NA,07,27,20263,country_region,9006400
+AZ,AZE,AZE,Azerbaijan,Azerbaijan,Cntry/Terr,NA,07,27,9739,country_region,10139175
+BS,BHS,BHS,Bahamas,Bahamas,Cntry/Terr,NA,07,27,822,country_region,393248
+BH,BHR,BHR,Bahrain,Bahrain,Cntry/Terr,NA,07,27,1507,country_region,1701583
+BD,BGD,BGD,Bangladesh,Bangladesh,Cntry/Terr,NA,07,27,29275,country_region,164689383
+BB,BRB,BRB,Barbados,Barbados,Cntry/Terr,NA,07,27,484,country_region,287371
+BY,BLR,BLR,Belarus,Belarus,Cntry/Terr,NA,07,27,7118,country_region,9449321
+BE,BEL,BEL,Belgium,Belgium,Cntry/Terr,NA,07,27,32179,country_region,11492641
+BZ,BLZ,BLZ,Belize,Belize,Cntry/Terr,NA,07,27,680,country_region,397621
+BJ,BEN,BEN,Benin,Benin,Cntry/Terr,NA,07,27,163,country_region,12123198
+BT,BTN,BTN,Bhutan,Bhutan,Cntry/Terr,NA,07,27,21,country_region,771612
+BO,BOL,BOL,Bolivia (Plurinational State of),Bolivia,Cntry/Terr,NA,07,27,22032,country_region,11673029
+BA,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Cntry/Terr,NA,07,27,15841,country_region,3280815
+BW,BWA,BWA,Botswana,Botswana,Cntry/Terr,NA,07,27,2763,country_region,2351625
+BR,BRA,BRA,Brazil,Brazil,Cntry/Terr,NA,07,27,677494,country_region,212559409
+BN,BRN,BRN,Brunei Darussalam,Brunei,Cntry/Terr,NA,07,27,225,country_region,437483
+BG,BGR,BGR,Bulgaria,Bulgaria,Cntry/Terr,NA,07,27,37350,country_region,6948445
+BF,BFA,BFA,Burkina Faso,Burkina Faso,Cntry/Terr,NA,07,27,387,country_region,20903278
+MM,MMR,MMR,Myanmar,Burma,Cntry/Terr,NA,07,27,19434,country_region,54409794
+BI,BDI,BDI,Burundi,Burundi,Cntry/Terr,NA,07,27,38,country_region,11890781
+CV,CPV,CPV,Cabo Verde,Cabo Verde,Cntry/Terr,NA,07,27,409,country_region,555988
+KH,KHM,KHM,Cambodia,Cambodia,Cntry/Terr,NA,07,27,3056,country_region,16718971
+CM,CMR,CMR,Cameroon,Cameroon,Cntry/Terr,NA,07,27,1931,country_region,26545864
+CA,CAN,CAN,Canada,Canada,Cntry/Terr,NA,07,27,42739,country_region,38246108
+CF,CAF,CAF,Central African Republic,Central African Republic,Cntry/Terr,NA,07,27,113,country_region,4829764
+TD,TCD,TCD,Chad,Chad,Cntry/Terr,NA,07,27,193,country_region,16425859
+CL,CHL,CHL,Chile,Chile,Cntry/Terr,NA,07,27,59393,country_region,19116209
+CN,CHN,CHN,China,China,Cntry/Terr,NA,07,27,14710,country_region,1411778724
+CO,COL,COL,Colombia,Colombia,Cntry/Terr,NA,07,27,140603,country_region,50882884
+KM,COM,COM,Comoros,Comoros,Cntry/Terr,NA,07,27,160,country_region,869595
+CG,COG,COG,Congo,Congo (Brazzaville),Cntry/Terr,NA,07,27,386,country_region,5518092
+CD,COD,COD,Democratic Republic of the Congo,Congo (Kinshasa),Cntry/Terr,NA,07,27,1390,country_region,89561404
+CR,CRI,CRI,Costa Rica,Costa Rica,Cntry/Terr,NA,07,27,8690,country_region,5094114
+CI,CIV,CIV,Cote d'Ivoire,Cote d'Ivoire,Cntry/Terr,NA,07,27,810,country_region,26378275
+HR,HRV,HRV,Croatia,Croatia,Cntry/Terr,NA,07,27,16249,country_region,4105268
+CU,CUB,CUB,Cuba,Cuba,Cntry/Terr,NA,07,27,8529,country_region,11326616
+CY,CYP,CYP,Cyprus,Cyprus,Cntry/Terr,NA,07,27,1099,country_region,1207361
+CZ,CZE,CZE,Czechia,Czechia,Cntry/Terr,NA,07,27,40420,country_region,10708982
+DK,DNK,DNK,Denmark,Denmark,Cntry/Terr,NA,07,27,6667,country_region,5837213
+NA,NA,NA,Diamond Princess,Diamond Princess,NA,NA,07,27,13,country_region,NA
+DJ,DJI,DJI,Djibouti,Djibouti,Cntry/Terr,NA,07,27,189,country_region,988002
+DM,DMA,DMA,Dominica,Dominica,Cntry/Terr,NA,07,27,68,country_region,71991
+DO,DOM,DOM,Dominican Republic,Dominican Republic,Cntry/Terr,NA,07,27,4383,country_region,10847904
+EC,ECU,ECU,Ecuador,Ecuador,Cntry/Terr,NA,07,27,35793,country_region,17643060
+EG,EGY,EGY,Egypt,Egypt,Cntry/Terr,NA,07,27,24765,country_region,102334403
+SV,SLV,SLV,El Salvador,El Salvador,Cntry/Terr,NA,07,27,4190,country_region,6486201
+GQ,GNQ,GNQ,Equatorial Guinea,Equatorial Guinea,Cntry/Terr,NA,07,27,183,country_region,1402985
+ER,ERI,ERI,Eritrea,Eritrea,Cntry/Terr,NA,07,27,103,country_region,3546427
+EE,EST,EST,Estonia,Estonia,Cntry/Terr,NA,07,27,2620,country_region,1326539
+SZ,SWZ,SWZ,Eswatini,Eswatini,Cntry/Terr,NA,07,27,1417,country_region,1160164
+ET,ETH,ETH,Ethiopia,Ethiopia,Cntry/Terr,NA,07,27,7568,country_region,114963583
+FJ,FJI,FJI,Fiji,Fiji,Cntry/Terr,NA,07,27,870,country_region,896444
+FI,FIN,FIN,Finland,Finland,Cntry/Terr,NA,07,27,5012,country_region,5540718
+FR,FRA,FRA,France,France,Cntry/Terr,NA,07,27,152719,country_region,65249843
+GA,GAB,GAB,Gabon,Gabon,Cntry/Terr,NA,07,27,306,country_region,2225728
+GM,GMB,GMB,Gambia,Gambia,Cntry/Terr,NA,07,27,368,country_region,2416664
+GE,GEO,GEO,Georgia,Georgia,Cntry/Terr,NA,07,27,16854,country_region,3989175
+DE,DEU,DEU,Germany,Germany,Cntry/Terr,NA,07,27,143545,country_region,83155031
+GH,GHA,GHA,Ghana,Ghana,Cntry/Terr,NA,07,27,1456,country_region,31072945
+GR,GRC,GRC,Greece,Greece,Cntry/Terr,NA,07,27,30707,country_region,10423056
+GD,GRD,GRD,Grenada,Grenada,Cntry/Terr,NA,07,27,234,country_region,112519
+GT,GTM,GTM,Guatemala,Guatemala,Cntry/Terr,NA,07,27,18953,country_region,17915567
+GN,GIN,GIN,Guinea,Guinea,Cntry/Terr,NA,07,27,445,country_region,13132792
+GW,GNB,GNB,Guinea-Bissau,Guinea-Bissau,Cntry/Terr,NA,07,27,172,country_region,1967998
+GY,GUY,GUY,Guyana,Guyana,Cntry/Terr,NA,07,27,1271,country_region,786559
+HT,HTI,HTI,Haiti,Haiti,Cntry/Terr,NA,07,27,838,country_region,11402533
+VA,VAT,VAT,Holy See,Holy See,Cntry/Terr,NA,07,27,0,country_region,809
+HN,HND,HND,Honduras,Honduras,Cntry/Terr,NA,07,27,10931,country_region,9904608
+HU,HUN,HUN,Hungary,Hungary,Cntry/Terr,NA,07,27,46736,country_region,9660350
+IS,ISL,ISL,Iceland,Iceland,Cntry/Terr,NA,07,27,179,country_region,341250
+IN,IND,IND,India,India,Cntry/Terr,NA,07,27,526167,country_region,1380004385
+ID,IDN,IDN,Indonesia,Indonesia,Cntry/Terr,NA,07,27,156929,country_region,273523621
+IR,IRN,IRN,Iran (Islamic Republic of),Iran,Cntry/Terr,NA,07,27,141758,country_region,83992953
+IQ,IRQ,IRQ,Iraq,Iraq,Cntry/Terr,NA,07,27,25297,country_region,40222503
+IE,IRL,IRL,Ireland,Ireland,Cntry/Terr,NA,07,27,7620,country_region,4937796
+IL,ISR,ISR,Israel,Israel,Cntry/Terr,NA,07,27,11334,country_region,8655541
+IT,ITA,ITA,Italy,Italy,Cntry/Terr,NA,07,27,171232,country_region,60461828
+JM,JAM,JAM,Jamaica,Jamaica,Cntry/Terr,NA,07,27,3186,country_region,2961161
+JP,JPN,JPN,Japan,Japan,Cntry/Terr,NA,07,27,32061,country_region,126476458
+JO,JOR,JOR,Jordan,Jordan,Cntry/Terr,NA,07,27,14074,country_region,10203140
+KZ,KAZ,KAZ,Kazakhstan,Kazakhstan,Cntry/Terr,NA,07,27,19021,country_region,18776707
+KE,KEN,KEN,Kenya,Kenya,Cntry/Terr,NA,07,27,5672,country_region,53771300
+KI,KIR,NA,Kiribati,Kiribati,NA,NA,07,27,13,country_region,117606
+NA,NA,NA,"Korea, North","Korea, North",NA,NA,07,27,6,country_region,NA
+NA,NA,KOR,Republic of Korea,"Korea, South",Cntry/Terr,NA,07,27,24932,country_region,NA
+XK,XKS,NA,Kosovo,Kosovo,NA,NA,07,27,3164,country_region,1810366
+KW,KWT,KWT,Kuwait,Kuwait,Cntry/Terr,NA,07,27,2559,country_region,4270563
+KG,KGZ,KGZ,Kyrgyzstan,Kyrgyzstan,Cntry/Terr,NA,07,27,2991,country_region,6524191
+LA,LAO,LAO,Lao People's Democratic Republic,Laos,Cntry/Terr,NA,07,27,757,country_region,7275556
+LV,LVA,LVA,Latvia,Latvia,Cntry/Terr,NA,07,27,5884,country_region,1886202
+LB,LBN,LBN,Lebanon,Lebanon,Cntry/Terr,NA,07,27,10515,country_region,6825442
+LS,LSO,LSO,Lesotho,Lesotho,Cntry/Terr,NA,07,27,702,country_region,2142252
+LR,LBR,LBR,Liberia,Liberia,Cntry/Terr,NA,07,27,294,country_region,5057677
+LY,LBY,LBY,Libya,Libya,Cntry/Terr,NA,07,27,6431,country_region,6871287
+LI,LIE,LIE,Liechtenstein,Liechtenstein,Cntry/Terr,NA,07,27,86,country_region,38137
+LT,LTU,LTU,Lithuania,Lithuania,Cntry/Terr,NA,07,27,9206,country_region,2722291
+LU,LUX,LUX,Luxembourg,Luxembourg,Cntry/Terr,NA,07,27,1108,country_region,625976
+MG,MDG,MDG,Madagascar,Madagascar,Cntry/Terr,NA,07,27,1407,country_region,27691019
+MW,MWI,MWI,Malawi,Malawi,Cntry/Terr,NA,07,27,2661,country_region,19129955
+MY,MYS,MYS,Malaysia,Malaysia,Cntry/Terr,NA,07,27,35932,country_region,32365998
+MV,MDV,MDV,Maldives,Maldives,Cntry/Terr,NA,07,27,307,country_region,540542
+ML,MLI,MLI,Mali,Mali,Cntry/Terr,NA,07,27,737,country_region,20250834
+MT,MLT,MLT,Malta,Malta,Cntry/Terr,NA,07,27,787,country_region,441539
+MH,MHL,NA,Marshall Islands,Marshall Islands,NA,NA,07,27,0,country_region,58413
+MR,MRT,MRT,Mauritania,Mauritania,Cntry/Terr,NA,07,27,990,country_region,4649660
+MU,MUS,MUS,Mauritius,Mauritius,Cntry/Terr,NA,07,27,1009,country_region,1271767
+MX,MEX,MEX,Mexico (Country),Mexico,Cntry/Terr,NA,07,27,327109,country_region,127792286
+FM,FSM,NA,Micronesia,Micronesia,NA,NA,07,27,1,country_region,113815
+MD,MDA,MDA,Republic of Moldova,Moldova,Cntry/Terr,NA,07,27,11608,country_region,4027690
+MC,MCO,MCO,Monaco,Monaco,Cntry/Terr,NA,07,27,61,country_region,39244
+MN,MNG,MNG,Mongolia,Mongolia,Cntry/Terr,NA,07,27,2119,country_region,3278292
+ME,MNE,MNE,Montenegro,Montenegro,Cntry/Terr,NA,07,27,2742,country_region,628062
+MA,MAR,MAR,Morocco,Morocco,Cntry/Terr,NA,07,27,16224,country_region,36910558
+MZ,MOZ,MOZ,Mozambique,Mozambique,Cntry/Terr,NA,07,27,2215,country_region,31255435
+NA,NA,NA,MS Zaandam,MS Zaandam,NA,NA,07,27,2,country_region,NA
+NA,NAM,NAM,Namibia,Namibia,Cntry/Terr,NA,07,27,4069,country_region,2540916
+NP,NPL,NPL,Nepal,Nepal,Cntry/Terr,NA,07,27,11959,country_region,29136808
+NL,NLD,NLD,Netherlands,Netherlands,Cntry/Terr,NA,07,27,23106,country_region,17134873
+NZ,NZL,NZL,New Zealand,New Zealand,Cntry/Terr,NA,07,27,1942,country_region,4822233
+NI,NIC,NIC,Nicaragua,Nicaragua,Cntry/Terr,NA,07,27,244,country_region,6624554
+NE,NER,NER,Niger,Niger,Cntry/Terr,NA,07,27,311,country_region,24206636
+NG,NGA,NGA,Nigeria,Nigeria,Cntry/Terr,NA,07,27,3147,country_region,206139587
+MK,MKD,MKD,North Macedonia,North Macedonia,Cntry/Terr,NA,07,27,9361,country_region,2083380
+NO,NOR,NOR,Norway,Norway,Cntry/Terr,NA,07,27,3623,country_region,5421242
+OM,OMN,OMN,Oman,Oman,Cntry/Terr,NA,07,27,4628,country_region,5106622
+PK,PAK,PAK,Pakistan,Pakistan,Cntry/Terr,NA,07,27,30474,country_region,220892331
+PW,PLW,NA,Palau,Palau,NA,NA,07,27,6,country_region,18008
+PA,PAN,PAN,Panama,Panama,Cntry/Terr,NA,07,27,8412,country_region,4314768
+PG,PNG,PNG,Papua New Guinea,Papua New Guinea,Cntry/Terr,NA,07,27,662,country_region,8947027
+PY,PRY,PRY,Paraguay,Paraguay,Cntry/Terr,NA,07,27,19147,country_region,7132530
+PE,PER,PER,Peru,Peru,Cntry/Terr,NA,07,27,214112,country_region,32971846
+PH,PHL,PHL,Philippines,Philippines,Cntry/Terr,NA,07,27,60694,country_region,109581085
+PL,POL,POL,Poland,Poland,Cntry/Terr,NA,07,27,116524,country_region,37846605
+PT,PRT,PRT,Portugal,Portugal,Cntry/Terr,NA,07,27,24564,country_region,10196707
+QA,QAT,QAT,Qatar,Qatar,Cntry/Terr,NA,07,27,680,country_region,2881060
+RO,ROU,ROU,Romania,Romania,Cntry/Terr,NA,07,27,65894,country_region,19237682
+RU,RUS,RUS,Russian Federation,Russia,Cntry/Terr,NA,07,27,374490,country_region,145934460
+RW,RWA,RWA,Rwanda,Rwanda,Cntry/Terr,NA,07,27,1466,country_region,12952209
+KN,KNA,KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Cntry/Terr,NA,07,27,46,country_region,53192
+LC,LCA,LCA,Saint Lucia,Saint Lucia,Cntry/Terr,NA,07,27,385,country_region,183629
+VC,VCT,VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Cntry/Terr,NA,07,27,115,country_region,110947
+WS,WSM,NA,Samoa,Samoa,NA,NA,07,27,29,country_region,196130
+SM,SMR,SMR,San Marino,San Marino,Cntry/Terr,NA,07,27,118,country_region,33938
+ST,STP,STP,Sao Tome and Principe,Sao Tome and Principe,Cntry/Terr,NA,07,27,74,country_region,219161
+SA,SAU,SAU,Saudi Arabia,Saudi Arabia,Cntry/Terr,NA,07,27,9243,country_region,34813867
+SN,SEN,SEN,Senegal,Senegal,Cntry/Terr,NA,07,27,1968,country_region,16743930
+RS,SRB,SRB,Serbia,Serbia,Cntry/Terr,NA,07,27,16229,country_region,8737370
+SC,SYC,SYC,Seychelles,Seychelles,Cntry/Terr,NA,07,27,168,country_region,98340
+SL,SLE,SLE,Sierra Leone,Sierra Leone,Cntry/Terr,NA,07,27,125,country_region,7976985
+SG,SGP,SGP,Singapore,Singapore,Cntry/Terr,NA,07,27,1487,country_region,5850343
+SK,SVK,SVK,Slovakia,Slovakia,Cntry/Terr,NA,07,27,20201,country_region,5434712
+SI,SVN,SVN,Slovenia,Slovenia,Cntry/Terr,NA,07,27,6686,country_region,2078932
+SB,SLB,NA,Solomon Islands,Solomon Islands,NA,NA,07,27,153,country_region,652858
+SO,SOM,SOM,Somalia,Somalia,Cntry/Terr,NA,07,27,1361,country_region,15893219
+ZA,ZAF,ZAF,South Africa,South Africa,Cntry/Terr,NA,07,27,101955,country_region,59308690
+SS,SSD,SSD,South Sudan,South Sudan,Cntry/Terr,NA,07,27,138,country_region,11193729
+ES,ESP,ESP,Spain,Spain,Cntry/Terr,NA,07,27,110394,country_region,46754783
+LK,LKA,LKA,Sri Lanka,Sri Lanka,Cntry/Terr,NA,07,27,16544,country_region,21413250
+SD,SDN,SDN,Sudan,Sudan,Cntry/Terr,NA,07,27,4957,country_region,43849269
+NA,NA,NA,Summer Olympics 2020,Summer Olympics 2020,NA,NA,07,27,0,country_region,NA
+SR,SUR,SUR,Suriname,Suriname,Cntry/Terr,NA,07,27,1380,country_region,586634
+SE,SWE,SWE,Sweden,Sweden,Cntry/Terr,NA,07,27,19249,country_region,10099270
+CH,CHE,CHE,Switzerland,Switzerland,Cntry/Terr,NA,07,27,13882,country_region,8654618
+SY,SYR,SYR,Syrian Arab Republic,Syria,Cntry/Terr,NA,07,27,3150,country_region,17500657
+TW,TWN,TWN,"China, Taiwan Province of China",Taiwan*,Cntry/Terr,NA,07,27,8686,country_region,23816775
+TJ,TJK,TJK,Tajikistan,Tajikistan,Cntry/Terr,NA,07,27,125,country_region,9537642
+TZ,TZA,TZA,United Republic of Tanzania,Tanzania,Cntry/Terr,NA,07,27,841,country_region,59734213
+TH,THA,THA,Thailand,Thailand,Cntry/Terr,NA,07,27,31258,country_region,69799978
+TL,TLS,TLS,Timor-Leste,Timor-Leste,Cntry/Terr,NA,07,27,133,country_region,1318442
+TG,TGO,TGO,Togo,Togo,Cntry/Terr,NA,07,27,278,country_region,8278737
+TO,TON,NA,Tonga,Tonga,NA,NA,07,27,12,country_region,105697
+TT,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,Cntry/Terr,NA,07,27,4046,country_region,1399491
+TN,TUN,TUN,Tunisia,Tunisia,Cntry/Terr,NA,07,27,29041,country_region,11818618
+TR,TUR,TUR,Turkey,Turkey,Cntry/Terr,NA,07,27,99184,country_region,84339067
+UG,UGA,UGA,Uganda,Uganda,Cntry/Terr,NA,07,27,3628,country_region,45741000
+UA,UKR,UKR,Ukraine,Ukraine,Cntry/Terr,NA,07,27,116445,country_region,43733759
+AE,ARE,ARE,United Arab Emirates,United Arab Emirates,Cntry/Terr,NA,07,27,2332,country_region,9890400
+GB,GBR,GBR,United Kingdom,United Kingdom,Cntry/Terr,NA,07,27,183419,country_region,67886004
+UY,URY,URY,Uruguay,Uruguay,Cntry/Terr,NA,07,27,7403,country_region,3473727
+US,USA,USA,United States of America,US,Cntry/Terr,NA,07,27,1027886,country_region,329466283
+UZ,UZB,UZB,Uzbekistan,Uzbekistan,Cntry/Terr,NA,07,27,1637,country_region,33469199
+VU,VUT,NA,Vanuatu,Vanuatu,NA,NA,07,27,14,country_region,292680
+VE,VEN,VEN,Venezuela (Bolivarian Republic of),Venezuela,Cntry/Terr,NA,07,27,5757,country_region,28435943
+VN,VNM,VNM,Viet Nam,Vietnam,Cntry/Terr,NA,07,27,43092,country_region,97338583
+PS,PSE,PSE,State of Palestine,West Bank and Gaza,Cntry/Terr,NA,07,27,5678,country_region,5101416
+NA,NA,NA,Winter Olympics 2022,Winter Olympics 2022,NA,NA,07,27,0,country_region,NA
+YE,YEM,YEM,Yemen,Yemen,Cntry/Terr,NA,07,27,2149,country_region,29825968
+ZM,ZMB,ZMB,Zambia,Zambia,Cntry/Terr,NA,07,27,4015,country_region,18383956
+ZW,ZWE,ZWE,Zimbabwe,Zimbabwe,Cntry/Terr,NA,07,27,5574,country_region,14862927
